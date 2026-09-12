@@ -1,0 +1,574 @@
+[
+  {
+    "id": "sport-01",
+    "category": "sport",
+    "question": "Kolik minut trval nejdelší tenisový zápas historie, souboj Johna Isnera s Nicolasem Mahutem ve Wimbledonu 2010?",
+    "answer": 665,
+    "unit": {
+      "one": "minuta",
+      "few": "minuty",
+      "many": "minut"
+    },
+    "fact": "Isner porazil Mahuta 6–4, 3–6, 6–7, 7–6, 70–68 po 11 hodinách a 5 minutách hry rozložených do tří dnů. Odehrálo se celkem 183 gamů, což je rovněž rekord.",
+    "sourceTitle": "Wikipedia (EN): Isner–Mahut match at the 2010 Wimbledon Championships",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Isner%E2%80%93Mahut_match_at_the_2010_Wimbledon_Championships",
+    "sourceQuote": "Isner, seeded 23rd, defeated Mahut, a qualifier, 6–4, 3–6, 6–7(7–9), 7–6(7–3), 70–68, in 11 hours and 5 minutes over three days.",
+    "answerNote": "11 hodin a 5 minut = 665 minut čistého herního času; 1. kolo Wimbledonu 2010",
+    "confidence": "high",
+    "en": {
+      "question": "How many minutes did the longest tennis match in history, John Isner vs Nicolas Mahut at Wimbledon 2010, last?",
+      "unit": {
+        "one": "minute",
+        "other": "minutes"
+      },
+      "fact": "Isner beat Mahut 6–4, 3–6, 6–7, 7–6, 70–68 after 11 hours and 5 minutes of play spread over three days. A total of 183 games were played, also a record.",
+      "answerNote": "11 hours 5 minutes = 665 minutes of playing time; first round, Wimbledon 2010."
+    }
+  },
+  {
+    "id": "sport-02",
+    "category": "sport",
+    "question": "Kolik kol měl nejdelší boxerský zápas v rukavicích v historii, souboj Andyho Bowena s Jackem Burkem z roku 1893?",
+    "answer": 110,
+    "unit": {
+      "one": "kolo",
+      "few": "kola",
+      "many": "kol"
+    },
+    "fact": "Souboj z 6. dubna 1893 trval 7 hodin a 19 minut, přičemž každé kolo mělo tři minuty. Pro srovnání: dnešní profesionální boxerský zápas má nejvýše 12 kol.",
+    "sourceTitle": "Wikipedia (EN): Andy Bowen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Andy_Bowen",
+    "sourceQuote": "The fight lasted 110 rounds over seven hours and 19 minutes (each round lasting three minutes).",
+    "answerNote": "Zápas Bowen vs. Burke, 6. dubna 1893; 110 tříminutových kol",
+    "confidence": "high",
+    "en": {
+      "question": "How many rounds did the longest gloved boxing match in history, Andy Bowen vs Jack Burke in 1893, have?",
+      "unit": {
+        "one": "round",
+        "other": "rounds"
+      },
+      "fact": "The fight on 6 April 1893 lasted 7 hours 19 minutes, with three-minute rounds. For comparison, today's professional bouts have at most 12 rounds.",
+      "answerNote": "Bowen vs Burke, 6 April 1893; 110 three-minute rounds."
+    }
+  },
+  {
+    "id": "sport-03",
+    "category": "sport",
+    "question": "Kolik kilometrů měřila trasa nejdelší Tour de France v historii, ročníku 1926?",
+    "answer": 5745,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Ročník 1926 měl jen 17 etap, ale dohromady 5 745 km – trasa v podstatě kopírovala hranice Francie. Moderní ročníky mívají zhruba 3 500 km.",
+    "sourceTitle": "Wikipedia (EN): 1926 Tour de France",
+    "sourceUrl": "https://en.wikipedia.org/wiki/1926_Tour_de_France",
+    "sourceQuote": "It consisted of 17 stages with a total distance of 5745 km",
+    "answerNote": "Celková délka trasy ročníku 1926 (17 etap)",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres long was the route of the longest Tour de France ever, the 1926 edition?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "The 1926 Tour had only 17 stages but covered 5,745 km – the route basically traced the borders of France. Modern editions are around 3,500 km.",
+      "answerNote": "Total route length of the 1926 edition (17 stages)."
+    }
+  },
+  {
+    "id": "sport-04",
+    "category": "sport",
+    "question": "Kolik kanadských bodů (gólů a asistencí) nasbíral Jaromír Jágr v základní části NHL za celou kariéru?",
+    "answer": 1921,
+    "unit": {
+      "one": "bod",
+      "few": "body",
+      "many": "bodů"
+    },
+    "fact": "Jágr má na kontě 766 gólů a 1 155 asistencí, celkem 1 921 bodů – v historii NHL je před ním už jen Wayne Gretzky s 2 857 body.",
+    "sourceTitle": "NHL.com: Jagr facts and figures",
+    "sourceUrl": "https://www.nhl.com/news/jaromir-jagr-facts-and-figures-295413644",
+    "sourceQuote": "Wayne Gretzky (2,857) is the lone NHL player who has more points than Jagr's 1,921.",
+    "answerNote": "Základní část NHL; kariérní součet 766 gólů + 1 155 asistencí (2. místo v historii NHL)",
+    "confidence": "high",
+    "en": {
+      "question": "How many points (goals plus assists) did Jaromír Jágr score in the NHL regular season over his career?",
+      "unit": {
+        "one": "point",
+        "other": "points"
+      },
+      "fact": "Jágr scored 766 goals and 1,155 assists, 1,921 points in all – in NHL history only Wayne Gretzky, with 2,857, is ahead of him.",
+      "answerNote": "NHL regular season; career total 766 goals + 1,155 assists (2nd in NHL history)."
+    }
+  },
+  {
+    "id": "sport-05",
+    "category": "sport",
+    "question": "Kolik gólů vstřelila Austrálie Americké Samoi v kvalifikaci o MS 2002 – v nejvyšším vítězství v historii mezinárodního fotbalu?",
+    "answer": 31,
+    "unit": {
+      "one": "gól",
+      "few": "góly",
+      "many": "gólů"
+    },
+    "fact": "Zápas z 11. dubna 2001 skončil 31:0. Útočník Archie Thompson dal sám 13 gólů, což je rovněž světový rekord pro jednoho hráče v mezinárodním utkání.",
+    "sourceTitle": "Wikipedia (EN): Australia 31–0 American Samoa",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Australia_31%E2%80%930_American_Samoa",
+    "sourceQuote": "Australia set a world record for the largest victory in an international football match, winning the game 31–0.",
+    "answerNote": "Kvalifikace MS 2002 (zóna Oceánie), 11. dubna 2001",
+    "confidence": "high",
+    "en": {
+      "question": "How many goals did Australia score against American Samoa in 2002 World Cup qualifying, the biggest win in international football history?",
+      "unit": {
+        "one": "goal",
+        "other": "goals"
+      },
+      "fact": "The match on 11 April 2001 ended 31–0. Striker Archie Thompson scored 13 himself, also a world record for one player in an international match.",
+      "answerNote": "2002 World Cup qualifying (Oceania), 11 April 2001."
+    }
+  },
+  {
+    "id": "sport-06",
+    "category": "sport",
+    "question": "Kolik grandslamových titulů celkem (dvouhra, čtyřhra i smíšená čtyřhra) získala Martina Navrátilová?",
+    "answer": 59,
+    "unit": {
+      "one": "titul",
+      "few": "tituly",
+      "many": "titulů"
+    },
+    "fact": "Rodačka z Prahy posbírala 18 titulů ve dvouhře, rekordních 31 ve čtyřhře žen a 10 ve smíšené čtyřhře – dohromady 59, což je rekord open éry.",
+    "sourceTitle": "Wikipedia (EN): Martina Navratilova",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Martina_Navratilova",
+    "sourceQuote": "including an Open Era record 59 major titles: 18 in singles, an all-time record 31 in women's doubles, and an Open Era record 10 in mixed doubles.",
+    "answerNote": "Součet titulů ve dvouhře (18), ženské čtyřhře (31) a smíšené čtyřhře (10)",
+    "confidence": "high",
+    "en": {
+      "question": "How many Grand Slam titles in total (singles, doubles and mixed doubles) did Martina Navratilova win?",
+      "unit": {
+        "one": "title",
+        "other": "titles"
+      },
+      "fact": "The Prague native collected 18 singles titles, a record 31 in women's doubles and 10 in mixed doubles – 59 in all, an Open Era record.",
+      "answerNote": "Singles (18) + women's doubles (31) + mixed doubles (10)."
+    }
+  },
+  {
+    "id": "sport-07",
+    "category": "sport",
+    "question": "Kolik kilometrů měří Self-Transcendence 3100 Mile Race, nejdelší certifikovaný běžecký závod světa?",
+    "answer": 4989,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Závod se běhá každé léto kolem jediného bloku domů v newyorském Queensu – jeden okruh měří 883 metrů a běžci ho musejí oběhnout 5 649krát.",
+    "sourceTitle": "Wikipedia (EN): Self-Transcendence 3100 Mile Race",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Self-Transcendence_3100_Mile_Race",
+    "sourceQuote": "The course is 3,100 miles (4,989 km) long.",
+    "answerNote": "3 100 mil = 4 989 km",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres long is the Self-Transcendence 3100 Mile Race, the longest certified footrace in the world?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "The race is run every summer around a single block in Queens, New York – one lap is 883 metres and runners must complete it 5,649 times.",
+      "answerNote": "3,100 miles = 4,989 km."
+    }
+  },
+  {
+    "id": "sport-08",
+    "category": "sport",
+    "question": "Kolik milionů dolarů činil celkový prize pool turnaje The International 2021 ve hře Dota 2?",
+    "answer": 40,
+    "unit": {
+      "one": "milion dolarů",
+      "few": "miliony dolarů",
+      "many": "milionů dolarů"
+    },
+    "fact": "Prize pool 40 018 195 dolarů – v té době největší v historii esportu – složili z velké části sami hráči nákupem herního battle passu. Vítězný Team Spirit si odnesl přes 18 milionů dolarů.",
+    "sourceTitle": "Wikipedia (EN): The International 2021",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_International_2021",
+    "sourceQuote": "the total reaching US$40 million, making it the largest esports prize pool in history",
+    "answerNote": "Přesně 40 018 195 USD (infobox Wikipedie); vítěz Team Spirit získal 18 208 300 USD",
+    "confidence": "high",
+    "en": {
+      "question": "How many million dollars was the total prize pool of The International 2021, the Dota 2 tournament?",
+      "unit": {
+        "one": "million dollars",
+        "other": "million dollars"
+      },
+      "fact": "The $40,018,195 prize pool – the largest in esports history at the time – was largely funded by players buying the in-game battle pass. Winners Team Spirit took home over $18 million.",
+      "answerNote": "Exactly $40,018,195 (Wikipedia infobox); winners Team Spirit received $18,208,300."
+    }
+  },
+  {
+    "id": "sport-09",
+    "category": "sport",
+    "question": "Kolik gramů čistého zlata musí podle pravidel MOV obsahovat olympijská zlatá medaile minimálně?",
+    "answer": 6,
+    "unit": {
+      "one": "gram",
+      "few": "gramy",
+      "many": "gramů"
+    },
+    "fact": "Zlatá medaile je ve skutečnosti nejméně z 92,5 % stříbrná a zlatem je jen pozlacená – stačí 6 gramů. Medaile z ryzího zlata se naposledy rozdávaly v roce 1912.",
+    "sourceTitle": "Wikipedia (EN): Olympic medal",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Olympic_medal",
+    "sourceQuote": "It is composed at least 92.5% of silver, plated with 6 grams of gold",
+    "answerNote": "Minimum podle Olympijské charty MOV; medaile ze stříbra (min. 92,5 %) pozlacená 6 g zlata",
+    "confidence": "high",
+    "en": {
+      "question": "How many grams of pure gold must an Olympic gold medal contain at minimum under IOC rules?",
+      "unit": {
+        "one": "gram",
+        "other": "grams"
+      },
+      "fact": "A gold medal is actually at least 92.5% silver and only gold-plated – 6 grams is enough. Medals of solid gold were last handed out in 1912.",
+      "answerNote": "Minimum under the IOC Olympic Charter; silver (min. 92.5%) plated with 6 g of gold."
+    }
+  },
+  {
+    "id": "sport-10",
+    "category": "sport",
+    "question": "Kolik tahů měla nejdelší turnajová šachová partie v historii, kterou v Bělehradě roku 1989 sehráli Ivan Nikolić a Goran Arsović?",
+    "answer": 269,
+    "unit": {
+      "one": "tah",
+      "few": "tahy",
+      "many": "tahů"
+    },
+    "fact": "Partie trvala přes 20 hodin a skončila remízou – posledních 103 tahů se hrála koncovka věž a střelec proti věži.",
+    "sourceTitle": "Wikipedia (EN): Rook and bishop versus rook endgame",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rook_and_bishop_versus_rook_endgame",
+    "sourceQuote": "For example, the longest tournament game on record is a 269-move game by Ivan Nikolić and International Master Goran Arsović.",
+    "answerNote": "Turnajová partie, Bělehrad 1989; remíza po 269 tazích",
+    "confidence": "high",
+    "en": {
+      "question": "How many moves did the longest tournament chess game in history, played in Belgrade in 1989 by Ivan Nikolić and Goran Arsović, have?",
+      "unit": {
+        "one": "move",
+        "other": "moves"
+      },
+      "fact": "The game lasted over 20 hours and ended in a draw – the last 103 moves were a rook and bishop versus rook endgame.",
+      "answerNote": "Tournament game, Belgrade 1989; drawn after 269 moves."
+    }
+  },
+  {
+    "id": "sport-11",
+    "category": "sport",
+    "question": "Kolik milimetrů měří průměr jamky na golfovém hřišti?",
+    "answer": 108,
+    "unit": {
+      "one": "milimetr",
+      "few": "milimetry",
+      "many": "milimetrů"
+    },
+    "fact": "Golfová jamka má podle pravidel průměr přesně 108 mm – míček má 43 mm, takže se do ní vejde jen dvakrát a kousek. Hloubka musí být aspoň 10 cm.",
+    "sourceTitle": "Wikipedia (EN): Golf course",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Golf_course",
+    "sourceQuote": "The hole, or cup, is always found within the green and must have a diameter of 108 millimeters (4.25 in) and a depth of at least 10 centimeters (3.94 in).",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many millimetres is the diameter of a golf hole?",
+      "unit": {
+        "one": "millimetre",
+        "other": "millimetres"
+      },
+      "fact": "By the rules a golf hole is exactly 108 mm across – the ball is 43 mm, so only two and a bit would fit. It must be at least 10 cm deep.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "sport-12",
+    "category": "sport",
+    "question": "Kolik centimetrů nad podlahou je zavěšena obroučka basketbalového koše?",
+    "answer": 305,
+    "unit": {
+      "one": "centimetr",
+      "few": "centimetry",
+      "many": "centimetrů"
+    },
+    "fact": "Obroučka basketbalového koše visí 305 cm (10 stop) nad zemí – stejně jako v roce 1891, kdy James Naismith přibil koš na broskve na balkon tělocvičny.",
+    "sourceTitle": "Wikipedia (EN): Basketball court",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Basketball_court",
+    "sourceQuote": "The baskets are always 10 feet (3.05 m) above the floor (except possibly in youth competition).",
+    "answerNote": "Standardní výška v dospělých soutěžích (3,05 m).",
+    "confidence": "high",
+    "en": {
+      "question": "How many centimetres above the floor is a basketball hoop?",
+      "unit": {
+        "one": "centimetre",
+        "other": "centimetres"
+      },
+      "fact": "The rim hangs 305 cm (10 feet) above the floor – the same as in 1891, when James Naismith nailed a peach basket to the gym balcony.",
+      "answerNote": "Standard height in adult competition (3.05 m)."
+    }
+  },
+  {
+    "id": "sport-13",
+    "category": "sport",
+    "question": "Za kolik setin sekundy zaběhl Usain Bolt světový rekord na 100 metrů?",
+    "answer": 958,
+    "unit": {
+      "one": "setina sekundy",
+      "few": "setiny sekundy",
+      "many": "setin sekundy"
+    },
+    "fact": "Usain Bolt zaběhl v roce 2009 na MS v Berlíně 100 metrů za 9,58 sekundy. Rekord drží dodnes – a to ho podle vlastních slov zaběhl s rozvázanou tkaničkou už o rok dřív v Pekingu.",
+    "sourceTitle": "Wikipedia (EN): Usain Bolt",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Usain_Bolt",
+    "sourceQuote": "Bolt improved upon his second 100 m world record of 9.69 with 9.58 seconds in 2009",
+    "answerNote": "9,58 s, MS v atletice Berlín 2009.",
+    "confidence": "high",
+    "en": {
+      "question": "In how many hundredths of a second did Usain Bolt run his 100 m world record?",
+      "unit": {
+        "one": "hundredth of a second",
+        "other": "hundredths of a second"
+      },
+      "fact": "Usain Bolt ran 100 m in 9.58 seconds at the 2009 World Championships in Berlin. The record still stands – and by his own account he had run his previous one in Beijing with a shoelace untied.",
+      "answerNote": "9.58 s, World Athletics Championships, Berlin 2009."
+    }
+  },
+  {
+    "id": "sport-14",
+    "category": "sport",
+    "question": "Kolik olympijských medailí celkem získal plavec Michael Phelps?",
+    "answer": 28,
+    "unit": {
+      "one": "medaile",
+      "few": "medaile",
+      "many": "medailí"
+    },
+    "fact": "Michael Phelps nasbíral na čtyřech olympiádách 28 medailí, z toho 23 zlatých. Kdyby byl státem, byl by v historické tabulce zlatých medailí před většinou zemí světa.",
+    "sourceTitle": "Wikipedia (EN): Michael Phelps",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Michael_Phelps",
+    "sourceQuote": "He won more Olympic medals than any other athlete, a total of 28 medals across four Olympic Games.",
+    "answerNote": "Olympijské hry 2004–2016.",
+    "confidence": "high",
+    "en": {
+      "question": "How many Olympic medals in total did swimmer Michael Phelps win?",
+      "unit": {
+        "one": "medal",
+        "other": "medals"
+      },
+      "fact": "Michael Phelps collected 28 medals over four Olympics, 23 of them gold. If he were a country he would rank above most nations in the all-time gold table.",
+      "answerNote": "Olympic Games 2004–2016."
+    }
+  },
+  {
+    "id": "sport-15",
+    "category": "sport",
+    "question": "Kolik grandslamových titulů ve dvouhře získal Novak Djokovič (stav k roku 2026)?",
+    "answer": 24,
+    "unit": {
+      "one": "titul",
+      "few": "tituly",
+      "many": "titulů"
+    },
+    "fact": "Novak Djokovič drží mužský rekord 24 grandslamových titulů ve dvouhře – o dva víc než Nadal a o čtyři víc než Federer.",
+    "sourceTitle": "Wikipedia (EN): Novak Djokovic",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Novak_Djokovic",
+    "sourceQuote": "Djokovic has won 101 ATP Tour–level singles titles, including a record 24 majors",
+    "answerNote": "Stav k roku 2026.",
+    "confidence": "high",
+    "en": {
+      "question": "How many Grand Slam singles titles has Novak Djokovic won (as of 2026)?",
+      "unit": {
+        "one": "title",
+        "other": "titles"
+      },
+      "fact": "Novak Djokovic holds the men's record of 24 Grand Slam singles titles – two more than Nadal and four more than Federer.",
+      "answerNote": "As of 2026."
+    }
+  },
+  {
+    "id": "sport-16",
+    "category": "sport",
+    "question": "Kolik ligových zápasů v řadě vydržel Arsenal neporažený v letech 2003–2004 (série „The Invincibles“)?",
+    "answer": 49,
+    "unit": {
+      "one": "zápas",
+      "few": "zápasy",
+      "many": "zápasů"
+    },
+    "fact": "Arsenal Arsèna Wengera prošel celou sezonu 2003/04 bez porážky a sérii natáhl na 49 ligových zápasů. Ukončil ji až Manchester United sporným penaltovým gólem.",
+    "sourceTitle": "Wikipedia (EN): The Invincibles (football)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Invincibles_(football)",
+    "sourceQuote": "went unbeaten for a total of 49 consecutive matches in the league between 2003 and 2004.",
+    "answerNote": "Premier League, 2003–2004.",
+    "confidence": "high",
+    "en": {
+      "question": "How many consecutive league matches did Arsenal go unbeaten in 2003–2004 (the 'Invincibles' run)?",
+      "unit": {
+        "one": "match",
+        "other": "matches"
+      },
+      "fact": "Arsène Wenger's Arsenal went through the entire 2003/04 season unbeaten and stretched the run to 49 league games. Manchester United ended it with a disputed penalty.",
+      "answerNote": "Premier League, 2003–2004."
+    }
+  },
+  {
+    "id": "sport-17",
+    "category": "sport",
+    "question": "Kolik sekund trvá mužský světový rekord v maratonu, který v dubnu 2026 zaběhl v Londýně Sabastian Sawe?",
+    "answer": 7170,
+    "unit": {
+      "one": "sekunda",
+      "few": "sekundy",
+      "many": "sekund"
+    },
+    "fact": "Sabastian Sawe zaběhl v Londýně 2026 maraton za 1:59:30 – jako první člověk pod dvě hodiny v regulérním závodě. To je průměrné tempo 2:50 na kilometr po dobu 42 kilometrů.",
+    "sourceTitle": "Wikipedia (EN): Marathon world record progression",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Marathon_world_record_progression",
+    "sourceQuote": "Sabastian Sawe set the men's world record of 1:59:30 at the London Marathon on April 26, 2026, becoming the first person in history to run a sub two-hour marathon in race conditions.",
+    "answerNote": "1:59:30 = 7 170 s; stav k roku 2026.",
+    "confidence": "high",
+    "en": {
+      "question": "How many seconds is the men's marathon world record, run by Sabastian Sawe in London in April 2026?",
+      "unit": {
+        "one": "second",
+        "other": "seconds"
+      },
+      "fact": "Sabastian Sawe ran the 2026 London Marathon in 1:59:30 – the first person under two hours in a regular race. That's an average of 2:50 per kilometre for 42 kilometres.",
+      "answerNote": "1:59:30 = 7,170 s; as of 2026."
+    }
+  },
+  {
+    "id": "sport-18",
+    "category": "sport",
+    "question": "Kolik centimetrů měří světový rekord ve skoku vysokém, který Javier Sotomayor drží od roku 1993?",
+    "answer": 245,
+    "unit": {
+      "one": "centimetr",
+      "few": "centimetry",
+      "many": "centimetrů"
+    },
+    "fact": "Kubánec Javier Sotomayor skočil v roce 1993 v Salamance 245 cm. Rekord drží déle než 30 let – nejdéle ze všech mužských atletických disciplín na dráze i v poli.",
+    "sourceTitle": "Wikipedia (EN): Javier Sotomayor",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Javier_Sotomayor",
+    "sourceQuote": "to the current record of 2.45 m (8 ft 1⁄4 in) in Salamanca, Spain on 27 July 1993.",
+    "answerNote": "2,45 m, Salamanca, 27. 7. 1993.",
+    "confidence": "high",
+    "en": {
+      "question": "How many centimetres is the high jump world record that Javier Sotomayor has held since 1993?",
+      "unit": {
+        "one": "centimetre",
+        "other": "centimetres"
+      },
+      "fact": "Cuba's Javier Sotomayor jumped 245 cm in Salamanca in 1993. The record has stood for over 30 years – longer than any other men's track and field record.",
+      "answerNote": "2.45 m, Salamanca, 27 July 1993."
+    }
+  },
+  {
+    "id": "sport-19",
+    "category": "sport",
+    "question": "Kolik bodů má maximální náběh (break) ve snookeru?",
+    "answer": 147,
+    "unit": {
+      "one": "bod",
+      "few": "body",
+      "many": "bodů"
+    },
+    "fact": "Maximální break je 147 bodů: 15 červených, ke každé černá, a pak všech šest barev. V profesionálních turnajích se to podařilo jen asi dvěma stovkám hráčů v historii.",
+    "sourceTitle": "Wikipedia (EN): Maximum break",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Maximum_break",
+    "sourceQuote": "A player compiles a maximum break by potting all 15 reds with 15 blacks for 120 points, followed by all six colours for a further 27 points.",
+    "answerNote": "120 + 27 = 147 bodů.",
+    "confidence": "high",
+    "en": {
+      "question": "How many points is a maximum break in snooker?",
+      "unit": {
+        "one": "point",
+        "other": "points"
+      },
+      "fact": "A maximum break is 147 points: 15 reds, a black after each, then all six colours. Only about two hundred players in history have made one in professional play.",
+      "answerNote": "120 + 27 = 147 points."
+    }
+  },
+  {
+    "id": "sport-20",
+    "category": "sport",
+    "question": "Kolik gramů váží koule pro mužský vrh koulí v otevřených soutěžích?",
+    "answer": 7260,
+    "unit": {
+      "one": "gram",
+      "few": "gramy",
+      "many": "gramů"
+    },
+    "fact": "Mužská koule váží 7,26 kg (16 liber), ženská 4 kg. Světový rekord je přes 23 metrů – to je jako přehodit dvoupatrový dům položený na bok.",
+    "sourceTitle": "Wikipedia (EN): Shot put",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Shot_put",
+    "sourceQuote": "In open competitions the men's shot weighs 7.26 kilograms (16 lb), and the women's shot weighs 4 kilograms (8.82 lb).",
+    "answerNote": "7,26 kg.",
+    "confidence": "high",
+    "en": {
+      "question": "How many grams does the men's shot weigh in open shot put competition?",
+      "unit": {
+        "one": "gram",
+        "other": "grams"
+      },
+      "fact": "The men's shot weighs 7.26 kg (16 lb), the women's 4 kg. The world record is over 23 metres – like throwing it over a two-storey house lying on its side.",
+      "answerNote": "7.26 kg."
+    }
+  },
+  {
+    "id": "sport-21",
+    "category": "sport",
+    "question": "Kolik kol se jede v závodě Indianapolis 500?",
+    "answer": 200,
+    "unit": {
+      "one": "kolo",
+      "few": "kola",
+      "many": "kol"
+    },
+    "fact": "Indy 500 je 200 kol na oválu dlouhém 2,5 míle, tedy 500 mil (800 km). Vítěz tradičně místo šampaňského pije mléko.",
+    "sourceTitle": "Wikipedia (EN): Indianapolis 500",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Indianapolis_500",
+    "sourceQuote": "Drivers race 200 laps, counter-clockwise around the circuit, for a distance of 500 miles (800 km).",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many laps is the Indianapolis 500?",
+      "unit": {
+        "one": "lap",
+        "other": "laps"
+      },
+      "fact": "The Indy 500 is 200 laps of a 2.5-mile oval, i.e. 500 miles (800 km). By tradition the winner drinks milk instead of champagne.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "sport-22",
+    "category": "sport",
+    "question": "Kolik kilometrů měří Vasův běh (Vasaloppet), nejstarší a největší závod v běhu na lyžích?",
+    "answer": 90,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Vasaloppet měří 90 km ze Sälenu do Mory a jede se od roku 1922. Připomíná útěk Gustava Vasy před Dány v roce 1520 – a každý rok na něj vyráží přes 15 000 lyžařů.",
+    "sourceTitle": "Wikipedia (EN): Vasaloppet",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Vasaloppet",
+    "sourceQuote": "The 90 km (56 mi) course starts in the village of Berga, just south of Sälen in western Dalarna, Sweden, and ends in the town of Mora.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres long is the Vasaloppet, the oldest and biggest cross-country ski race?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "The Vasaloppet runs 90 km from Sälen to Mora and has been held since 1922. It commemorates Gustav Vasa's flight from the Danes in 1520 – and over 15,000 skiers take it on every year.",
+      "answerNote": ""
+    }
+  }
+]

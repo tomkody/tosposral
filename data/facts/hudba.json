@@ -1,0 +1,470 @@
+[
+  {
+    "id": "hudba-01",
+    "category": "hudba",
+    "question": "Kolikrát v životě zvítězil Karel Gott v anketě Zlatý slavík (od roku 1996 Český slavík)?",
+    "answer": 42,
+    "unit": {
+      "one": "vítězství",
+      "few": "vítězství",
+      "many": "vítězství"
+    },
+    "fact": "Karel Gott ovládl anketu Zlatý/Český slavík neuvěřitelných 42krát – poprvé v roce 1963, naposledy v roce 2017, pouhé dva roky před svou smrtí. Trůn slavíků mu tedy patřil přes půl století.",
+    "sourceTitle": "Wikipedie (CS): Karel Gott",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Karel_Gott",
+    "sourceQuote": "V průběhu své více než šedesátileté pěvecké kariéry Karel Gott 42krát zvítězil v anketě Zlatý slavík (resp. od roku 1996 Český slavík)",
+    "answerNote": "Součet vítězství v anketách Zlatý slavík a Český slavík (1963–2017); stejné číslo uvádí i oficiální web karelgott.com.",
+    "confidence": "high",
+    "en": {
+      "question": "How many times did Karel Gott win the Czech 'Golden Nightingale' popularity poll (Zlatý slavík, since 1996 Český slavík)?",
+      "unit": {
+        "one": "win",
+        "other": "wins"
+      },
+      "fact": "Karel Gott won the Golden/Czech Nightingale poll an incredible 42 times – first in 1963 and last in 2017, just two years before his death. He owned the nightingale throne for over half a century.",
+      "answerNote": "Total wins in the Zlatý slavík and Český slavík polls (1963–2017); the same figure is given on the official site karelgott.com."
+    }
+  },
+  {
+    "id": "hudba-02",
+    "category": "hudba",
+    "question": "Kolik let má trvat provedení skladby Johna Cage „Organ²/ASLSP (As Slow as Possible)“, které od roku 2001 zní v kostele v německém Halberstadtu?",
+    "answer": 639,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Nejpomalejší koncert světa začal 5. září 2001 v kostele sv. Burcharda v Halberstadtu a skončit má 5. září 2640 – po 639 letech. Varhany drží každý akord celé měsíce i roky a každá změna tónu je pro fanoušky malá slavnost.",
+    "sourceTitle": "Wikipedia (EN): As Slow as Possible",
+    "sourceUrl": "https://en.wikipedia.org/wiki/As_Slow_as_Possible",
+    "sourceQuote": "The John Cage Organ Foundation Halberstadt decided to play the piece for 639 years, to mark the time between the first documented permanent organ installation in Halberstadt Cathedral, circa 1361",
+    "answerNote": "Provedení začalo 5. 9. 2001 a má skončit 5. 9. 2640.",
+    "confidence": "high",
+    "en": {
+      "question": "How many years is the performance of John Cage's 'Organ²/ASLSP (As Slow as Possible)', playing in a church in Halberstadt, Germany since 2001, meant to last?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "The slowest concert in the world began on 5 September 2001 in St. Burchardi church in Halberstadt and is due to end on 5 September 2640 – after 639 years. The organ holds each chord for months or years, and every note change is a small festival for fans.",
+      "answerNote": "The performance began on 5 Sept 2001 and is scheduled to end on 5 Sept 2640."
+    }
+  },
+  {
+    "id": "hudba-03",
+    "category": "hudba",
+    "question": "Kolik singlů skupiny The Beatles se dostalo na 1. místo amerického žebříčku Billboard Hot 100?",
+    "answer": 20,
+    "unit": {
+      "one": "singl",
+      "few": "singly",
+      "many": "singlů"
+    },
+    "fact": "Beatles drží dodnes rekord žebříčku Billboard Hot 100 s 20 singly na prvním místě. Druhá je Mariah Carey s 19 – k dorovnání liverpoolské čtyřky jí chybí jediný hit.",
+    "sourceTitle": "Wikipedia (EN): List of Billboard Hot 100 chart achievements and milestones",
+    "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_chart_achievements_and_milestones",
+    "sourceQuote": "The Beatles have the most number-one hits on the chart, with 20 songs having reached the top position.",
+    "answerNote": "Rekord žebříčku Billboard Hot 100 (stav k roku 2026).",
+    "confidence": "high",
+    "en": {
+      "question": "How many Beatles singles reached number one on the US Billboard Hot 100?",
+      "unit": {
+        "one": "single",
+        "other": "singles"
+      },
+      "fact": "The Beatles still hold the Billboard Hot 100 record with 20 number-one singles. Mariah Carey is second with 19 – one hit short of the Fab Four.",
+      "answerNote": "Billboard Hot 100 record (as of 2026)."
+    }
+  },
+  {
+    "id": "hudba-04",
+    "category": "hudba",
+    "question": "Kolikrát vyhrálo Irsko soutěž Eurovision Song Contest (do ročníku 2026 včetně)?",
+    "answer": 7,
+    "unit": {
+      "one": "vítězství",
+      "few": "vítězství",
+      "many": "vítězství"
+    },
+    "fact": "Irsko vyhrálo Eurovizi sedmkrát (1970, 1980, 1987, 1992, 1993, 1994 a 1996), včetně tří triumfů v řadě. Od roku 2023 se o rekord dělí se Švédskem.",
+    "sourceTitle": "Wikipedia (EN): Ireland in the Eurovision Song Contest",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ireland_in_the_Eurovision_Song_Contest",
+    "sourceQuote": "With a total of seven wins, Ireland held the record for most victories since its sixth win in 1994, and since 2023, it has shared a joint record total of seven wins with Sweden",
+    "answerNote": "Stav po ročníku 2026; rekord 7 vítězství sdílí Irsko a Švédsko.",
+    "confidence": "high",
+    "en": {
+      "question": "How many times has Ireland won the Eurovision Song Contest (up to and including 2026)?",
+      "unit": {
+        "one": "win",
+        "other": "wins"
+      },
+      "fact": "Ireland has won Eurovision seven times (1970, 1980, 1987, 1992, 1993, 1994 and 1996), including three in a row. Since 2023 it has shared the record with Sweden.",
+      "answerNote": "As of the 2026 contest; the record of 7 wins is shared by Ireland and Sweden."
+    }
+  },
+  {
+    "id": "hudba-05",
+    "category": "hudba",
+    "question": "Kolik sekund trvá albová verze skladby „Bohemian Rhapsody“ od Queen (1975)?",
+    "answer": 355,
+    "unit": {
+      "one": "sekunda",
+      "few": "sekundy",
+      "many": "sekund"
+    },
+    "fact": "Bohemian Rhapsody trvá 5 minut a 55 sekund, tedy 355 sekund. Vydavatel ji považoval za příliš dlouhou na to, aby se z ní stal hit – dnes patří k nejslavnějším písním všech dob.",
+    "sourceTitle": "Wikipedia (EN): Bohemian Rhapsody",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bohemian_Rhapsody",
+    "sourceQuote": "due to its length of 5 minutes and 55 seconds, it was too long and would never be a hit",
+    "answerNote": "5:55 = 355 sekund (albová verze, A Night at the Opera, 1975).",
+    "confidence": "high",
+    "en": {
+      "question": "How many seconds long is the album version of Queen's 'Bohemian Rhapsody' (1975)?",
+      "unit": {
+        "one": "second",
+        "other": "seconds"
+      },
+      "fact": "Bohemian Rhapsody runs 5 minutes 55 seconds, i.e. 355 seconds. The label thought it was far too long to be a hit – today it's one of the most famous songs of all time.",
+      "answerNote": "5:55 = 355 seconds (album version, A Night at the Opera, 1975)."
+    }
+  },
+  {
+    "id": "hudba-06",
+    "category": "hudba",
+    "question": "Kolik cen Grammy získala Beyoncé, historicky nejoceňovanější umělkyně této ceny, k roku 2025?",
+    "answer": 35,
+    "unit": {
+      "one": "cena Grammy",
+      "few": "ceny Grammy",
+      "many": "cen Grammy"
+    },
+    "fact": "Beyoncé má po ceremoniálu v roce 2025 celkem 35 cen Grammy – nejvíc v historii. Druhý v pořadí je dirigent Georg Solti s 31 gramofonky, a ten už žádný nepřidá.",
+    "sourceTitle": "Grammy.com",
+    "sourceUrl": "https://www.grammy.com/news/who-are-the-top-grammy-awards-winners-of-all-time/",
+    "sourceQuote": "Beyoncé counts 35 total GRAMMY wins to date.",
+    "answerNote": "Stav po 67. ročníku cen Grammy (únor 2025); článek Grammy.com aktualizován 3. 2. 2025. Na 68. ročníku (2026) žádnou další cenu nezískala.",
+    "confidence": "high",
+    "en": {
+      "question": "How many Grammy Awards had Beyoncé, the most awarded artist in Grammy history, won as of 2025?",
+      "unit": {
+        "one": "Grammy",
+        "other": "Grammys"
+      },
+      "fact": "After the 2025 ceremony Beyoncé has 35 Grammys in total – the most ever. Second is conductor Georg Solti with 31, and he won't be adding any more.",
+      "answerNote": "After the 67th Grammy Awards (February 2025); Grammy.com article updated 3 Feb 2025. She won no further awards at the 68th ceremony (2026)."
+    }
+  },
+  {
+    "id": "hudba-07",
+    "category": "hudba",
+    "question": "Kolik milionů dolarů zaplatil v roce 2015 Martin Shkreli za jediný existující výtisk alba Wu-Tang Clan „Once Upon a Time in Shaolin“?",
+    "answer": 2,
+    "unit": {
+      "one": "milion dolarů",
+      "few": "miliony dolarů",
+      "many": "milionů dolarů"
+    },
+    "fact": "Wu-Tang Clan vyrobili z alba jediný exemplář a v roce 2015 ho za 2 miliony dolarů koupil kontroverzní farmaceutický podnikatel Martin Shkreli. Po jeho odsouzení album propadlo státu a v roce 2021 ho za 4 miliony dolarů získal kryptokolektiv PleasrDAO.",
+    "sourceTitle": "Wikipedia (EN): Once Upon a Time in Shaolin",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_Shaolin",
+    "sourceQuote": "Martin Shkreli, who had paid $2 million",
+    "answerNote": "Cena při prodeji v roce 2015 (nabídka přijata 3. 5. 2015); v roce 2021 album přeprodáno za 4 miliony USD.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million dollars did Martin Shkreli pay in 2015 for the only copy of the Wu-Tang Clan album 'Once Upon a Time in Shaolin'?",
+      "unit": {
+        "one": "million dollars",
+        "other": "million dollars"
+      },
+      "fact": "Wu-Tang Clan made a single copy of the album, and in 2015 the notorious pharma executive Martin Shkreli bought it for $2 million. After his conviction it was forfeited to the government and in 2021 the crypto collective PleasrDAO bought it for $4 million.",
+      "answerNote": "Price at the 2015 sale (offer accepted 3 May 2015); resold in 2021 for $4 million."
+    }
+  },
+  {
+    "id": "hudba-08",
+    "category": "hudba",
+    "question": "Kolik milionů prodaných jednotek v USA má certifikováno album „Thriller“ Michaela Jacksona od asociace RIAA (stav k roku 2021)?",
+    "answer": 34,
+    "unit": {
+      "one": "milion",
+      "few": "miliony",
+      "many": "milionů"
+    },
+    "fact": "V srpnu 2021 certifikovala RIAA Thriller jako 34× platinové album – 34 milionů prodaných jednotek jen ve Spojených státech. Celosvětově se desky z roku 1982 prodalo přes 70 milionů kusů a zůstává nejprodávanějším albem historie.",
+    "sourceTitle": "Wikipedia (EN): Thriller (album)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Thriller_(album)",
+    "sourceQuote": "As of August 2021, the album has been certified 34× platinum in the US, denoting 34 million album-equivalent units.",
+    "answerNote": "Certifikace RIAA 34× platina (srpen 2021) = 34 milionů album-equivalent units.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million units of Michael Jackson's 'Thriller' has the RIAA certified as sold in the US (as of 2021)?",
+      "unit": {
+        "one": "million",
+        "other": "million"
+      },
+      "fact": "In August 2021 the RIAA certified Thriller 34× platinum – 34 million units sold in the United States alone. Worldwide the 1982 album has sold over 70 million copies and remains the best-selling album ever.",
+      "answerNote": "RIAA certification 34× platinum (August 2021) = 34 million album-equivalent units."
+    }
+  },
+  {
+    "id": "hudba-09",
+    "category": "hudba",
+    "question": "Kolik hudebníků hrálo v největším orchestru světa podle Guinnessovy knihy rekordů (Venezuela, 2021)?",
+    "answer": 8573,
+    "unit": {
+      "one": "hudebník",
+      "few": "hudebníci",
+      "many": "hudebníků"
+    },
+    "fact": "13. listopadu 2021 zahrálo v Caracasu Čajkovského Slovanský pochod 8 573 hudebníků venezuelského programu El Sistema – největší orchestr v historii podle Guinnessovy knihy rekordů.",
+    "sourceTitle": "Guinness World Records",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/largest-orchestra",
+    "sourceQuote": "The largest orchestra consists of 8,573 musicians and was achieved by El Sistema Nacional de Orquestas y Coros Juveniles e Infantiles de Venezuela (Venezuela), in Caracas, Venezuela",
+    "answerNote": "Rekord Guinness World Records ze dne 13. 11. 2021.",
+    "confidence": "high",
+    "en": {
+      "question": "How many musicians played in the world's largest orchestra according to Guinness World Records (Venezuela, 2021)?",
+      "unit": {
+        "one": "musician",
+        "other": "musicians"
+      },
+      "fact": "On 13 November 2021 in Caracas, 8,573 musicians from Venezuela's El Sistema programme played Tchaikovsky's Slavonic March – the largest orchestra in history according to Guinness World Records.",
+      "answerNote": "Guinness World Records, 13 Nov 2021."
+    }
+  },
+  {
+    "id": "hudba-10",
+    "category": "hudba",
+    "question": "Kolik představení odehrál muzikál „Fantom opery“ na Broadwayi, než v dubnu 2023 po 35 letech skončil?",
+    "answer": 13981,
+    "unit": {
+      "one": "představení",
+      "few": "představení",
+      "many": "představení"
+    },
+    "fact": "Fantom opery se hrál v newyorském Majestic Theatre od ledna 1988 do 16. dubna 2023 – derniéra byla představením číslo 13 981. Zůstává nejdéle uváděnou show v historii Broadwaye.",
+    "sourceTitle": "CBS News",
+    "sourceUrl": "https://www.cbsnews.com/news/the-phantom-of-the-opera-closes-on-broadway-after-35-years/",
+    "sourceQuote": "It was show No. 13,981 at the Majestic Theatre and it ended with a reprise of 'The Music of the Night' performed by the current cast",
+    "answerNote": "Počet představení broadwayské produkce (26. 1. 1988 – 16. 4. 2023) podle CBS News.",
+    "confidence": "high",
+    "en": {
+      "question": "How many performances did 'The Phantom of the Opera' give on Broadway before closing in April 2023 after 35 years?",
+      "unit": {
+        "one": "performance",
+        "other": "performances"
+      },
+      "fact": "The Phantom of the Opera played at New York's Majestic Theatre from January 1988 to 16 April 2023 – the closing night was performance number 13,981. It remains the longest-running show in Broadway history.",
+      "answerNote": "Number of performances of the Broadway production (26 Jan 1988 – 16 Apr 2023) according to CBS News."
+    }
+  },
+  {
+    "id": "hudba-11",
+    "category": "hudba",
+    "question": "Kolik strun má moderní koncertní pedálová harfa?",
+    "answer": 47,
+    "unit": {
+      "one": "struna",
+      "few": "struny",
+      "many": "strun"
+    },
+    "fact": "Koncertní harfa má 47 strun a sedm pedálů, které přelaďují všechny struny jednoho tónu najednou. Rozsah je šest a půl oktávy – víc než většina nástrojů v orchestru.",
+    "sourceTitle": "Wikipedia (EN): Pedal harp",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pedal_harp",
+    "sourceQuote": "It typically has 47 strings with seven strings per octave, giving a range of six and a half octaves.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many strings does a modern concert pedal harp have?",
+      "unit": {
+        "one": "string",
+        "other": "strings"
+      },
+      "fact": "A concert harp has 47 strings and seven pedals that retune every string of one pitch at once. Its range is six and a half octaves – more than most instruments in the orchestra.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "hudba-12",
+    "category": "hudba",
+    "question": "Kolik týdnů v kuse se držela skladba „Old Town Road“ od Lil Nas X na 1. místě žebříčku Billboard Hot 100?",
+    "answer": 19,
+    "unit": {
+      "one": "týden",
+      "few": "týdny",
+      "many": "týdnů"
+    },
+    "fact": "„Old Town Road“ vydržela na vrcholu Billboard Hot 100 rekordních 19 týdnů (duben až srpen 2019). Beat si Lil Nas X koupil na internetu za 30 dolarů.",
+    "sourceTitle": "Wikipedia (EN): Old Town Road",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Old_Town_Road",
+    "sourceQuote": "'Old Town Road' topped the Hot 100 for 19 consecutive weeks from April 13 to August 17, 2019.",
+    "answerNote": "Rekord žebříčku Billboard Hot 100 (rok 2019).",
+    "confidence": "high",
+    "en": {
+      "question": "How many consecutive weeks did Lil Nas X's 'Old Town Road' spend at number one on the Billboard Hot 100?",
+      "unit": {
+        "one": "week",
+        "other": "weeks"
+      },
+      "fact": "'Old Town Road' stayed on top of the Billboard Hot 100 for a record 19 weeks (April to August 2019). Lil Nas X bought the beat online for $30.",
+      "answerNote": "Billboard Hot 100 record (2019)."
+    }
+  },
+  {
+    "id": "hudba-13",
+    "category": "hudba",
+    "question": "Kolik děl obsahuje hlavní řada Köchelova seznamu skladeb W. A. Mozarta?",
+    "answer": 626,
+    "unit": {
+      "one": "dílo",
+      "few": "díla",
+      "many": "děl"
+    },
+    "fact": "Köchelův seznam čísluje Mozartovy skladby od K. 1 po K. 626 – posledním dílem je Requiem, které Mozart nestihl dokončit. Zemřel v 35 letech.",
+    "sourceTitle": "Wikipedia (EN): Köchel catalogue",
+    "sourceUrl": "https://en.wikipedia.org/wiki/K%C3%B6chel_catalogue",
+    "sourceQuote": "Köchel divided the corpus into a main chronology of 626 works, and five appendices (Anhänge in German), abbreviated Anh. I–V",
+    "answerNote": "Hlavní chronologická řada (bez dodatků).",
+    "confidence": "high",
+    "en": {
+      "question": "How many works are in the main sequence of the Köchel catalogue of Mozart's compositions?",
+      "unit": {
+        "one": "work",
+        "other": "works"
+      },
+      "fact": "The Köchel catalogue numbers Mozart's works from K. 1 to K. 626 – the last is the Requiem, which Mozart never finished. He died at 35.",
+      "answerNote": "Main chronological sequence (excluding appendices)."
+    }
+  },
+  {
+    "id": "hudba-14",
+    "category": "hudba",
+    "question": "Kolik milionů dolarů utržilo turné The Eras Tour Taylor Swift (2023–2024), nejvýdělečnější turné historie?",
+    "answer": 2077,
+    "unit": {
+      "one": "milion dolarů",
+      "few": "miliony dolarů",
+      "many": "milionů dolarů"
+    },
+    "fact": "The Eras Tour utržilo za 149 koncertů 2 077 milionů dolarů – jako první turné v historii překonalo miliardu, a hned i dvě.",
+    "sourceTitle": "Wikipedia (EN): The Eras Tour",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Eras_Tour",
+    "sourceQuote": "The Eras Tour had 149 shows and grossed $2.077 billion.",
+    "answerNote": "2,077 miliardy USD, 149 koncertů.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million dollars did Taylor Swift's Eras Tour (2023–2024), the highest-grossing tour in history, take in?",
+      "unit": {
+        "one": "million dollars",
+        "other": "million dollars"
+      },
+      "fact": "The Eras Tour grossed $2,077 million over 149 shows – the first tour in history to pass one billion, and then two.",
+      "answerNote": "$2.077 billion, 149 shows."
+    }
+  },
+  {
+    "id": "hudba-15",
+    "category": "hudba",
+    "question": "Kolik sekund trvá skladba 4′33″ Johna Cage, během níž hudebníci nehrají?",
+    "answer": 273,
+    "unit": {
+      "one": "sekunda",
+      "few": "sekundy",
+      "many": "sekund"
+    },
+    "fact": "Cageova skladba 4′33″ (1952) trvá 4 minuty a 33 sekund a interpret během ní nezahraje jediný tón – hudbou jsou zvuky sálu a publika.",
+    "sourceTitle": "Wikipedia (EN): 4′33″",
+    "sourceUrl": "https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3",
+    "sourceQuote": "As suggested by the title, the composition lasts 4 minutes and 33 seconds.",
+    "answerNote": "4:33 = 273 s.",
+    "confidence": "high",
+    "en": {
+      "question": "How many seconds long is John Cage's 4′33″, during which the musicians do not play?",
+      "unit": {
+        "one": "second",
+        "other": "seconds"
+      },
+      "fact": "Cage's 4′33″ (1952) lasts 4 minutes 33 seconds and the performer doesn't play a single note – the music is the sound of the hall and the audience.",
+      "answerNote": "4:33 = 273 s."
+    }
+  },
+  {
+    "id": "hudba-16",
+    "category": "hudba",
+    "question": "Kolik sekund trvá albová verze skladby „Echoes“ od Pink Floyd (1971)?",
+    "answer": 1409,
+    "unit": {
+      "one": "sekunda",
+      "few": "sekundy",
+      "many": "sekund"
+    },
+    "fact": "„Echoes“ z alba Meddle trvá 23 minut a 29 sekund a zabírá celou druhou stranu desky. Živě ji Pink Floyd hráli v Pompejích pro prázdný amfiteátr.",
+    "sourceTitle": "Wikipedia (EN): Echoes (Pink Floyd song)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Echoes_(Pink_Floyd_song)",
+    "sourceQuote": "23:29 (album version)",
+    "answerNote": "23:29 = 1 409 s.",
+    "confidence": "high",
+    "en": {
+      "question": "How many seconds long is the album version of Pink Floyd's 'Echoes' (1971)?",
+      "unit": {
+        "one": "second",
+        "other": "seconds"
+      },
+      "fact": "'Echoes' from the album Meddle runs 23 minutes 29 seconds and fills the entire second side of the record. Pink Floyd played it live in Pompeii to an empty amphitheatre.",
+      "answerNote": "23:29 = 1,409 s."
+    }
+  },
+  {
+    "id": "hudba-17",
+    "category": "hudba",
+    "question": "Kolik Zlatých (Českých) slavíků získala Lucie Bílá do roku 2022 včetně?",
+    "answer": 21,
+    "unit": {
+      "one": "slavík",
+      "few": "slavíci",
+      "many": "slavíků"
+    },
+    "fact": "Lucie Bílá měla po roce 2022 na kontě 21 slavíků, z toho 13 absolutních – rekord mezi zpěvačkami. Karel Gott jich má 42.",
+    "sourceTitle": "Wikipedie (CS): Lucie Bílá",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Lucie_B%C3%ADl%C3%A1",
+    "sourceQuote": "Držitelka 21 zlatých slavíků, z toho 13 absolutních",
+    "answerNote": "Stav po ročníku 2022.",
+    "confidence": "high",
+    "en": {
+      "question": "How many Czech Nightingale awards had Lucie Bílá won up to and including 2022?",
+      "unit": {
+        "one": "Nightingale",
+        "other": "Nightingales"
+      },
+      "fact": "After 2022 Lucie Bílá had 21 Nightingales, 13 of them as overall winner – a record among female singers. Karel Gott has 42.",
+      "answerNote": "As of the 2022 poll."
+    }
+  },
+  {
+    "id": "hudba-18",
+    "category": "hudba",
+    "question": "V kolika letech zemřel Wolfgang Amadeus Mozart?",
+    "answer": 35,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Mozart zemřel v pouhých 35 letech, přesto stihl dokončit přes 800 skladeb. Skládal od pěti let.",
+    "sourceTitle": "Wikipedia (EN): Wolfgang Amadeus Mozart",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+    "sourceQuote": "completed more than 800 works in his life",
+    "answerNote": "1756–1791.",
+    "confidence": "high",
+    "en": {
+      "question": "At what age did Wolfgang Amadeus Mozart die?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "Mozart died at just 35, yet completed more than 800 works. He had been composing since the age of five.",
+      "answerNote": "1756–1791."
+    }
+  }
+]

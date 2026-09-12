@@ -1,0 +1,314 @@
+[
+  {
+    "id": "moda-01",
+    "category": "moda",
+    "question": "Kolik dolarů stála první panenka Barbie při uvedení na trh v roce 1959?",
+    "answer": 3,
+    "unit": {
+      "one": "dolar",
+      "few": "dolary",
+      "many": "dolarů"
+    },
+    "fact": "První Barbie v černobílých pruhovaných plavkách stála v roce 1959 přesně 3 dolary. Zachovalý kus v původní krabici se v roce 2004 prodal na eBay za 3 552 dolarů.",
+    "sourceTitle": "Wikipedia (EN): Barbie",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Barbie",
+    "sourceQuote": "the original Barbie was sold for $3.00 in 1959",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many dollars did the first Barbie doll cost when it launched in 1959?",
+      "unit": {
+        "one": "dollar",
+        "other": "dollars"
+      },
+      "fact": "The first Barbie, in a black-and-white striped swimsuit, cost exactly $3 in 1959. A mint one in its original box sold on eBay in 2004 for $3,552.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "moda-02",
+    "category": "moda",
+    "question": "Kolik dolarů dostala studentka Carolyn Davidsonová v roce 1971 za návrh loga Nike – slavné „fajfky“ Swoosh?",
+    "answer": 35,
+    "unit": {
+      "one": "dolar",
+      "few": "dolary",
+      "many": "dolarů"
+    },
+    "fact": "Za jedno z nejznámějších log světa zaplatila Nike v roce 1971 pouhých 35 dolarů – Carolyn Davidsonová si účtovala 2 dolary za hodinu a strávila nad ním 17,5 hodiny. Firma jí to později vynahradila akciemi.",
+    "sourceTitle": "Wikipedia (EN): Swoosh",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Swoosh",
+    "sourceQuote": "For her services, the company paid her $35 (equivalent to $278 in 2025) citing that she worked 17.5 hours on creating the Swoosh",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many dollars was student Carolyn Davidson paid in 1971 for designing the Nike logo, the famous Swoosh?",
+      "unit": {
+        "one": "dollar",
+        "other": "dollars"
+      },
+      "fact": "Nike paid just $35 in 1971 for one of the world's best-known logos – Carolyn Davidson charged $2 an hour and spent 17.5 hours on it. The company later made it up to her with shares.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "moda-03",
+    "category": "moda",
+    "question": "Kolik tisíc dolarů stála v roce 2024 jedna vstupenka na Met Gala, nejslavnější módní večer roku v New Yorku?",
+    "answer": 75,
+    "unit": {
+      "one": "tisíc dolarů",
+      "few": "tisíce dolarů",
+      "many": "tisíc dolarů"
+    },
+    "fact": "Vstupenka na Met Gala 2024 vyšla na 75 000 dolarů, tedy zhruba 1,7 milionu korun. A to ještě nesmíte přijít v čemkoli – dress code určuje Anna Wintour.",
+    "sourceTitle": "Wikipedia (EN): Met Gala",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Met_Gala",
+    "sourceQuote": "The cost of a seat per guest to attend the Met Gala rose to US$50,000 by 2023, and to $75,000 in 2024.",
+    "answerNote": "Cena za jedno místo v roce 2024.",
+    "confidence": "high",
+    "en": {
+      "question": "How many thousand dollars did a single ticket to the Met Gala, New York's most famous fashion night, cost in 2024?",
+      "unit": {
+        "one": "thousand dollars",
+        "other": "thousand dollars"
+      },
+      "fact": "A ticket to the 2024 Met Gala cost $75,000. And you can't turn up in just anything – Anna Wintour sets the dress code.",
+      "answerNote": "Price per seat in 2024."
+    }
+  },
+  {
+    "id": "moda-04",
+    "category": "moda",
+    "question": "Kolik stran mělo zářijové číslo americké Vogue z roku 2007, o jehož vzniku vypráví dokument The September Issue?",
+    "answer": 840,
+    "unit": {
+      "one": "strana",
+      "few": "strany",
+      "many": "stran"
+    },
+    "fact": "Zářijová Vogue 2007 měla 840 stran a vážila skoro dvě a půl kila. Ani to nebyl rekord – zářijové číslo z roku 2012 mělo ještě o 76 stran víc.",
+    "sourceTitle": "Wikipedia (EN): The September Issue",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_September_Issue",
+    "sourceQuote": "Although the 840-page issue is massive, it is not the biggest Vogue issue ever, as the September 2012 issue beats it by 76 pages (916).",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many pages did the September 2007 issue of American Vogue, the making of which is chronicled in the documentary The September Issue, have?",
+      "unit": {
+        "one": "page",
+        "other": "pages"
+      },
+      "fact": "The September 2007 Vogue had 840 pages and weighed almost five pounds. Even that wasn't the record – the September 2012 issue had 76 pages more.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "moda-05",
+    "category": "moda",
+    "question": "Kolik způsobů uvázání kravaty napočítali fyzici Thomas Fink a Yong Mao v knize The 85 Ways to Tie a Tie (1999)?",
+    "answer": 85,
+    "unit": {
+      "one": "způsob",
+      "few": "způsoby",
+      "many": "způsobů"
+    },
+    "fact": "Dva fyzici z Cambridge matematicky dokázali, že klasickým způsobem (širší konec kolem užšího) jde kravatu uvázat přesně 85 způsoby. Většina lidí zvládá jeden.",
+    "sourceTitle": "Wikipedia (EN): The 85 Ways to Tie a Tie",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_85_Ways_to_Tie_a_Tie",
+    "sourceQuote": "there are exactly 85 ways of tying a necktie using the conventional method of wrapping the wide end of the tie around the narrow end",
+    "answerNote": "Při konvenčním způsobu vázání, jak jej definuje kniha.",
+    "confidence": "high",
+    "en": {
+      "question": "How many ways of tying a necktie did physicists Thomas Fink and Yong Mao count in their book The 85 Ways to Tie a Tie (1999)?",
+      "unit": {
+        "one": "way",
+        "other": "ways"
+      },
+      "fact": "Two Cambridge physicists proved mathematically that, using the conventional method (wide end around the narrow end), a tie can be knotted in exactly 85 ways. Most people manage one.",
+      "answerNote": "Using the conventional tying method as defined in the book."
+    }
+  },
+  {
+    "id": "moda-06",
+    "category": "moda",
+    "question": "Kolik tisíc dolarů zaplatil v roce 2016 kupec za šaty, v nichž Marilyn Monroe zazpívala prezidentu Kennedymu „Happy Birthday, Mr. President“?",
+    "answer": 4800,
+    "unit": {
+      "one": "tisíc dolarů",
+      "few": "tisíce dolarů",
+      "many": "tisíc dolarů"
+    },
+    "fact": "Průsvitné šaty s 2 500 našitými kamínky se v roce 2016 vydražily za 4,8 milionu dolarů. V roce 2022 si je na Met Gala půjčila Kim Kardashian.",
+    "sourceTitle": "Wikipedia (EN): Happy Birthday, Mr. President",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Happy_Birthday,_Mr._President",
+    "sourceQuote": "Canadian billionaire Jim Pattison subsequently purchased the dress on November 17, 2016, at a Los Angeles auction for $4.8 million",
+    "answerNote": "4 800 000 USD, aukce v Los Angeles 17. 11. 2016.",
+    "confidence": "high",
+    "en": {
+      "question": "How many thousand dollars did a buyer pay in 2016 for the dress Marilyn Monroe wore to sing 'Happy Birthday, Mr. President' to JFK?",
+      "unit": {
+        "one": "thousand dollars",
+        "other": "thousand dollars"
+      },
+      "fact": "The sheer dress with 2,500 rhinestones sewn on sold at auction in 2016 for $4.8 million. In 2022 Kim Kardashian borrowed it for the Met Gala.",
+      "answerNote": "$4,800,000, Los Angeles auction, 17 Nov 2016."
+    }
+  },
+  {
+    "id": "moda-07",
+    "category": "moda",
+    "question": "Kolik tisíc dolarů stály v aukci v roce 2023 tenisky Air Jordan 13, které měl Michael Jordan ve finále NBA 1998 – nejdražší tenisky v historii?",
+    "answer": 2200,
+    "unit": {
+      "one": "tisíc dolarů",
+      "few": "tisíce dolarů",
+      "many": "tisíc dolarů"
+    },
+    "fact": "Tenisky ze sezony „The Last Dance“ se v dubnu 2023 prodaly za 2,2 milionu dolarů, což je světový rekord za pár tenisek.",
+    "sourceTitle": "Wikipedia (EN): Air Jordan",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Air_Jordan",
+    "sourceQuote": "In April 2023, Michael Jordan's Air Jordan 13s from the 1997–98 Chicago Bulls season sold for $2.2 million, setting a world record for the most valuable sneakers ever sold.",
+    "answerNote": "2 200 000 USD, Sotheby's, duben 2023.",
+    "confidence": "high",
+    "en": {
+      "question": "How many thousand dollars did the Air Jordan 13s worn by Michael Jordan in the 1998 NBA Finals – the most expensive sneakers ever – sell for at auction in 2023?",
+      "unit": {
+        "one": "thousand dollars",
+        "other": "thousand dollars"
+      },
+      "fact": "The sneakers from the 'Last Dance' season sold in April 2023 for $2.2 million, a world record for a pair of sneakers.",
+      "answerNote": "$2,200,000, Sotheby's, April 2023."
+    }
+  },
+  {
+    "id": "moda-08",
+    "category": "moda",
+    "question": "Za kolik dolarů se v roce 2022 vydražily džíny Levi's z 80. let 19. století, nalezené v opuštěném dole?",
+    "answer": 87400,
+    "unit": {
+      "one": "dolar",
+      "few": "dolary",
+      "many": "dolarů"
+    },
+    "fact": "Zhruba 140 let staré džíny z opuštěného dolu se v Novém Mexiku prodaly za 87 400 dolarů. Nýtované džíny si Levi Strauss a Jacob Davis nechali patentovat 20. května 1873.",
+    "sourceTitle": "Wikipedia (EN): Levi Strauss & Co.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Levi_Strauss_%26_Co.",
+    "sourceQuote": "was sold for $87,400 at an auction in New Mexico",
+    "answerNote": "Aukce v Novém Mexiku, 2022.",
+    "confidence": "high",
+    "en": {
+      "question": "How many dollars did a pair of 1880s Levi's jeans found in an abandoned mine sell for at auction in 2022?",
+      "unit": {
+        "one": "dollar",
+        "other": "dollars"
+      },
+      "fact": "The roughly 140-year-old jeans from an abandoned mine sold in New Mexico for $87,400. Levi Strauss and Jacob Davis patented riveted jeans on 20 May 1873.",
+      "answerNote": "Auction in New Mexico, 2022."
+    }
+  },
+  {
+    "id": "moda-09",
+    "category": "moda",
+    "question": "Kolik milionů párů bot Crocs se celosvětově prodalo od založení firmy do roku 2017?",
+    "answer": 300,
+    "unit": {
+      "one": "milion párů",
+      "few": "miliony párů",
+      "many": "milionů párů"
+    },
+    "fact": "Milované i nenáviděné gumové pantofle Crocs se do roku 2017 prodaly v 300 milionech párů – to je jeden pár na každých 25 lidí na planetě.",
+    "sourceTitle": "Wikipedia (EN): Crocs",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Crocs",
+    "sourceQuote": "Crocs had sold 300 million pairs of shoes by year 2017.",
+    "answerNote": "Kumulativní prodeje od roku 2002 do roku 2017.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million pairs of Crocs had been sold worldwide from the company's founding up to 2017?",
+      "unit": {
+        "one": "million pairs",
+        "other": "million pairs"
+      },
+      "fact": "Loved and loathed in equal measure, Crocs sold 300 million pairs by 2017 – one pair for every 25 people on the planet.",
+      "answerNote": "Cumulative sales from 2002 to 2017."
+    }
+  },
+  {
+    "id": "moda-10",
+    "category": "moda",
+    "question": "Až kolik centimetrů měřily podrážky benátských chopin – platformových bot, které nosily dámy v 15. století?",
+    "answer": 38,
+    "unit": {
+      "one": "centimetr",
+      "few": "centimetry",
+      "many": "centimetrů"
+    },
+    "fact": "Benátské chopiny dosahovaly kolem roku 1430 výšky až 38 centimetrů. Dámy na nich potřebovaly doprovod, aby vůbec dokázaly chodit; zákon později výšku omezil na tři palce, ale nikdo ho nedodržoval.",
+    "sourceTitle": "Wikipedia (EN): High-heeled shoe",
+    "sourceUrl": "https://en.wikipedia.org/wiki/High-heeled_shoe",
+    "sourceQuote": "reaching heights up to 15 inches (38 cm) by 1430",
+    "answerNote": "Maximální doložená výška kolem roku 1430.",
+    "confidence": "medium",
+    "en": {
+      "question": "Up to how many centimetres tall were the soles of Venetian chopines, the platform shoes worn by ladies in the 15th century?",
+      "unit": {
+        "one": "centimetre",
+        "other": "centimetres"
+      },
+      "fact": "Around 1430 Venetian chopines reached heights of up to 38 centimetres. Ladies needed attendants just to walk; a law later capped them at three inches, but nobody obeyed it.",
+      "answerNote": "Maximum documented height around 1430."
+    }
+  },
+  {
+    "id": "moda-11",
+    "category": "moda",
+    "question": "Za kolik milionů dolarů (bez aukční přirážky) se v prosinci 2024 vydražily rubínové střevíčky Dorotky z Čaroděje ze země Oz?",
+    "answer": 28,
+    "unit": {
+      "one": "milion dolarů",
+      "few": "miliony dolarů",
+      "many": "milionů dolarů"
+    },
+    "fact": "Střevíčky, které v roce 2005 ukradli z muzea a FBI je našla až po 13 letech, se v roce 2024 vydražily za 28 milionů dolarů (32,5 milionu s přirážkou) – nejdražší filmová rekvizita v historii.",
+    "sourceTitle": "Wikipedia (EN): Ruby slippers",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ruby_slippers",
+    "sourceQuote": "On December 7, 2024, this pair was sold at auction for $28 million by Heritage Auctions (ultimately $32.5 million after auction house's fees are included)",
+    "answerNote": "Kladívková cena; s přirážkou 32,5 milionu USD.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million dollars (hammer price, before fees) did Dorothy's ruby slippers from The Wizard of Oz sell for in December 2024?",
+      "unit": {
+        "one": "million dollars",
+        "other": "million dollars"
+      },
+      "fact": "The slippers, stolen from a museum in 2005 and recovered by the FBI 13 years later, sold in 2024 for $28 million ($32.5 million with fees) – the most expensive piece of movie memorabilia ever.",
+      "answerNote": "Hammer price; $32.5 million including buyer's premium."
+    }
+  },
+  {
+    "id": "moda-12",
+    "category": "moda",
+    "question": "V kolika letech byla na letišti JFK objevena modelka Kate Moss?",
+    "answer": 14,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Kate Moss objevila v roce 1988 na newyorském letišti zakladatelka agentury Storm – bylo jí 14 let a vracela se z dovolené na Bahamách.",
+    "sourceTitle": "Wikipedia (EN): Kate Moss",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kate_Moss",
+    "sourceQuote": "Moss was recruited as a model in 1988 at age 14 by Sarah Doukas, founder of Storm Management, at JFK Airport in New York, after a holiday in The Bahamas.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How old was Kate Moss when she was discovered at JFK airport?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "Kate Moss was spotted at New York's JFK airport in 1988 by the founder of Storm Model Management – she was 14 and on her way home from a holiday in the Bahamas.",
+      "answerNote": ""
+    }
+  }
+]

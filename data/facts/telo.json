@@ -1,0 +1,496 @@
+[
+  {
+    "id": "telo-01",
+    "category": "telo",
+    "question": "Kolik kostí má jedna lidská ruka včetně zápěstí (od zápěstních kůstek po konečky prstů)?",
+    "answer": 27,
+    "unit": {
+      "one": "kost",
+      "few": "kosti",
+      "many": "kostí"
+    },
+    "fact": "Jedna ruka i se zápěstím má 27 kostí: 8 zápěstních, 5 záprstních a 14 článků prstů. Obě ruce tak dohromady ukrývají zhruba čtvrtinu všech kostí v těle.",
+    "sourceTitle": "InformedHealth.org (NCBI Bookshelf)",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK279362/",
+    "sourceQuote": "The human hand is made up of a total of 27 individual bones: 8 carpal bones (in the base of the hand), 5 metacarpal bones (in the middle part of the hand) and 14 phalanges (finger bones)",
+    "answerNote": "Počítáno včetně 8 zápěstních kůstek; bez zápěstí má ruka 19 kostí.",
+    "confidence": "high",
+    "en": {
+      "question": "How many bones are in one human hand including the wrist (from the carpal bones to the fingertips)?",
+      "unit": {
+        "one": "bone",
+        "other": "bones"
+      },
+      "fact": "One hand including the wrist has 27 bones: 8 carpals, 5 metacarpals and 14 phalanges. Both hands together hold about a quarter of all the bones in the body.",
+      "answerNote": "Including the 8 carpal bones; without the wrist the hand has 19 bones."
+    }
+  },
+  {
+    "id": "telo-02",
+    "category": "telo",
+    "question": "Kolik párů hlavových nervů vychází přímo z mozku člověka?",
+    "answer": 12,
+    "unit": {
+      "one": "pár",
+      "few": "páry",
+      "many": "párů"
+    },
+    "fact": "Z mozku vychází 12 párů hlavových nervů, od čichového (I.) po podjazykový (XII.). Mají na starosti čich, zrak, pohyby očí, mimiku, sluch i polykání.",
+    "sourceTitle": "Cleveland Clinic",
+    "sourceUrl": "https://my.clevelandclinic.org/health/body/21998-cranial-nerves",
+    "sourceQuote": "Your cranial nerves are a set of 12 paired nerves that stem from your brain.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many pairs of cranial nerves emerge directly from the human brain?",
+      "unit": {
+        "one": "pair",
+        "other": "pairs"
+      },
+      "fact": "Twelve pairs of cranial nerves emerge from the brain, from the olfactory (I) to the hypoglossal (XII). They handle smell, sight, eye movement, facial expression, hearing and swallowing.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "telo-03",
+    "category": "telo",
+    "question": "Kolik dní v průměru žije lidská červená krvinka, než ji tělo rozloží?",
+    "answer": 120,
+    "unit": {
+      "one": "den",
+      "few": "dny",
+      "many": "dní"
+    },
+    "fact": "Červená krvinka nemá jádro, a tak jí energie vystačí v průměru jen na 120 dní; pak ji vyřadí slezina a játra. Kostní dřeň proto musí krvinky nepřetržitě doplňovat.",
+    "sourceTitle": "Cleveland Clinic",
+    "sourceUrl": "https://my.clevelandclinic.org/health/body/21691-function-of-red-blood-cells",
+    "sourceQuote": "When a red blood cell travels through your blood vessels, it uses up its energy supply and only survives an average of 120 days.",
+    "answerNote": "Průměrná životnost podle Cleveland Clinic.",
+    "confidence": "high",
+    "en": {
+      "question": "How many days on average does a human red blood cell live before the body breaks it down?",
+      "unit": {
+        "one": "day",
+        "other": "days"
+      },
+      "fact": "A red blood cell has no nucleus, so its energy lasts on average only 120 days; then the spleen and liver retire it. That's why bone marrow has to keep making new ones non-stop.",
+      "answerNote": "Average lifespan according to Cleveland Clinic."
+    }
+  },
+  {
+    "id": "telo-04",
+    "category": "telo",
+    "question": "Kolik centimetrů měřil nejvyšší člověk v historii, Američan Robert Wadlow (podle Guinnessovy knihy rekordů)?",
+    "answer": 272,
+    "unit": {
+      "one": "centimetr",
+      "few": "centimetry",
+      "many": "centimetrů"
+    },
+    "fact": "Robert Pershing Wadlow z Illinois měřil při posledním měření 27. června 1940 celých 272 cm a stále rostl. Zemřel jen o pár týdnů později ve věku 22 let.",
+    "sourceTitle": "Guinness World Records",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/tallest-man-ever",
+    "sourceQuote": "who when last measured on 27 June 1940, was found to be 2.72 m (8 ft 11.1 in) tall.",
+    "answerNote": "2,72 m při posledním měření 27. 6. 1940.",
+    "confidence": "high",
+    "en": {
+      "question": "How many centimetres tall was the tallest man in history, American Robert Wadlow (according to Guinness World Records)?",
+      "unit": {
+        "one": "centimetre",
+        "other": "centimetres"
+      },
+      "fact": "Robert Pershing Wadlow of Illinois measured a full 272 cm when last measured on 27 June 1940, and was still growing. He died just weeks later, aged 22.",
+      "answerNote": "2.72 m at his last measurement on 27 June 1940."
+    }
+  },
+  {
+    "id": "telo-05",
+    "category": "telo",
+    "question": "Kolik dětí porodila podle Guinnessovy knihy rekordů nejplodnější matka v historii, manželka ruského rolníka Fjodora Vasiljeva?",
+    "answer": 69,
+    "unit": {
+      "one": "dítě",
+      "few": "děti",
+      "many": "dětí"
+    },
+    "fact": "Manželka Fjodora Vasiljeva ze Šuji přivedla v 18. století na svět 69 dětí, a to jen ve 27 porodech: 16× dvojčata, 7× trojčata a 4× čtyřčata.",
+    "sourceTitle": "Guinness World Records",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/most-prolific-mother-ever",
+    "sourceQuote": "The greatest officially recorded number of children born to one mother is 69, to the wife of Feodor Vassilyev",
+    "answerNote": "Nejvyšší oficiálně zaznamenaný počet dětí jedné matky (Guinness).",
+    "confidence": "high",
+    "en": {
+      "question": "How many children did the most prolific mother in history, the wife of Russian peasant Feodor Vassilyev, bear according to Guinness World Records?",
+      "unit": {
+        "one": "child",
+        "other": "children"
+      },
+      "fact": "The wife of Feodor Vassilyev of Shuya gave birth to 69 children in the 18th century, in just 27 confinements: 16 pairs of twins, 7 sets of triplets and 4 sets of quadruplets.",
+      "answerNote": "Highest officially recorded number of children born to one mother (Guinness)."
+    }
+  },
+  {
+    "id": "telo-06",
+    "category": "telo",
+    "question": "Kolik dní se dožila Francouzka Jeanne Calmentová, nejstarší ověřeně žijící člověk v historii?",
+    "answer": 44724,
+    "unit": {
+      "one": "den",
+      "few": "dny",
+      "many": "dní"
+    },
+    "fact": "Jeanne Calmentová z Arles se narodila 21. února 1875 a zemřela 4. srpna 1997 ve věku 122 let a 164 dní, tedy po 44 724 dnech. Jako dívka prý v obchodě potkala Vincenta van Gogha.",
+    "sourceTitle": "Wikipedia (EN): Jeanne Calment",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jeanne_Calment",
+    "sourceQuote": "oldest person in recorded history whose age has been verified, with a documented lifespan of 122 years and 164 days",
+    "answerNote": "122 let a 164 dní (21. 2. 1875 – 4. 8. 1997) = 44 724 dní.",
+    "confidence": "high",
+    "en": {
+      "question": "How many days did Frenchwoman Jeanne Calment, the oldest verified person in history, live?",
+      "unit": {
+        "one": "day",
+        "other": "days"
+      },
+      "fact": "Jeanne Calment of Arles was born on 21 February 1875 and died on 4 August 1997 aged 122 years and 164 days – 44,724 days. As a girl she reportedly met Vincent van Gogh in a shop.",
+      "answerNote": "122 years and 164 days (21 Feb 1875 – 4 Aug 1997) = 44,724 days."
+    }
+  },
+  {
+    "id": "telo-07",
+    "category": "telo",
+    "question": "Kolik sekund trvá mužský světový rekord v zadržení dechu pod vodou (Guinnessova kniha rekordů, stav k roku 2025)?",
+    "answer": 1743,
+    "unit": {
+      "one": "sekunda",
+      "few": "sekundy",
+      "many": "sekund"
+    },
+    "fact": "Chorvatský freediver Vitomir Maričić vydržel 14. června 2025 v Opatiji pod vodou bez nádechu 29 minut a 3 sekundy, tedy 1 743 sekund. Před pokusem se ovšem naposledy nadechl kyslíku z láhve.",
+    "sourceTitle": "Guinness World Records",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/longest-time-breath-held-voluntarily-(male)",
+    "sourceQuote": "The longest time breath held voluntarily underwater (male) is 29 min 3 sec and was achieved by Vitomir Maričić (Croatia) in Opatija, Croatia, on 14 June 2025.",
+    "answerNote": "29 min 3 s = 1 743 s; rekord ze 14. 6. 2025, disciplína s předchozím dýcháním kyslíku.",
+    "confidence": "high",
+    "en": {
+      "question": "How many seconds is the men's world record for holding one's breath underwater (Guinness World Records, as of 2025)?",
+      "unit": {
+        "one": "second",
+        "other": "seconds"
+      },
+      "fact": "Croatian freediver Vitomir Maričić held his breath underwater for 29 minutes 3 seconds – 1,743 seconds – in Opatija on 14 June 2025. He did breathe pure oxygen beforehand, though.",
+      "answerNote": "29 min 3 s = 1,743 s; record from 14 June 2025, oxygen-assisted discipline."
+    }
+  },
+  {
+    "id": "telo-08",
+    "category": "telo",
+    "question": "Kolik zubů má v ústech Malajsijec Prathab Muniandy, držitel rekordu za nejvíce zubů v ústech (Guinnessova kniha rekordů, ověřeno 2023)?",
+    "answer": 42,
+    "unit": {
+      "one": "zub",
+      "few": "zuby",
+      "many": "zubů"
+    },
+    "fact": "Prathab Muniandy z Malajsie má 42 prořezaných zubů, o 10 víc než běžných 32, a dva další mu ještě čekají v dásni. Rekord ověřili dva zubaři 28. prosince 2023.",
+    "sourceTitle": "Guinness World Records",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/most-teeth-in-a-mouth",
+    "sourceQuote": "The most teeth in a person's mouth is 42 and was achieved by Prathab Muniandy (Malaysia), in Klang, Selangor, Malaysia, as verified on 28 December 2023.",
+    "answerNote": "Rekord ověřen 28. 12. 2023; počítají se prořezané zuby.",
+    "confidence": "high",
+    "en": {
+      "question": "How many teeth does Malaysian Prathab Muniandy, holder of the record for the most teeth in a mouth (Guinness World Records, verified 2023), have?",
+      "unit": {
+        "one": "tooth",
+        "other": "teeth"
+      },
+      "fact": "Prathab Muniandy of Malaysia has 42 erupted teeth, 10 more than the usual 32, with two more still waiting in his gums. Two dentists verified the record on 28 December 2023.",
+      "answerNote": "Verified 28 Dec 2023; erupted teeth counted."
+    }
+  },
+  {
+    "id": "telo-09",
+    "category": "telo",
+    "question": "Kolik let trvala nejdelší zaznamenaná škytavka (Guinnessova kniha rekordů)?",
+    "answer": 68,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Američan Charles Osborne začal škytat v roce 1922 při vážení prasete a přestal až v únoru 1990, po 68 letech. Odhadem za tu dobu zaškytal víc než 420 milionkrát.",
+    "sourceTitle": "Guinness World Records",
+    "sourceUrl": "https://www.guinnessworldrecords.com/news/2023/7/extreme-measures-person-with-68-year-attack-of-hiccups-took-to-try-and-stop-them-754877",
+    "sourceQuote": "Charles Osborne (USA, 1894-1991) was the victim of the longest attack of hiccups, which lasted a jaw-dropping 68 years.",
+    "answerNote": "1922 – únor 1990.",
+    "confidence": "high",
+    "en": {
+      "question": "How many years did the longest recorded attack of hiccups last (Guinness World Records)?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "American Charles Osborne started hiccupping in 1922 while weighing a hog and didn't stop until February 1990, 68 years later. He is estimated to have hiccupped more than 420 million times.",
+      "answerNote": "1922 – February 1990."
+    }
+  },
+  {
+    "id": "telo-10",
+    "category": "telo",
+    "question": "Kolik dní trval nejdelší zaznamenaný záchvat kýchání (Guinnessova kniha rekordů)?",
+    "answer": 976,
+    "unit": {
+      "one": "den",
+      "few": "dny",
+      "many": "dní"
+    },
+    "fact": "Britka Donna Griffithsová začala kýchat 13. ledna 1981 a prvního dne bez kýchnutí se dočkala až 16. září 1983. Jen za první rok kýchla odhadem milionkrát.",
+    "sourceTitle": "Guinness World Records",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/67595-longest-sneezing-fit",
+    "sourceQuote": "976 day(s)",
+    "answerNote": "13. 1. 1981 – 16. 9. 1983 = 976 dní; první den bez kýchnutí byl 977.",
+    "confidence": "high",
+    "en": {
+      "question": "How many days did the longest recorded sneezing fit last (Guinness World Records)?",
+      "unit": {
+        "one": "day",
+        "other": "days"
+      },
+      "fact": "Briton Donna Griffiths started sneezing on 13 January 1981 and had her first sneeze-free day on 16 September 1983. In the first year alone she sneezed an estimated million times.",
+      "answerNote": "13 Jan 1981 – 16 Sept 1983 = 976 days; the first sneeze-free day was day 977."
+    }
+  },
+  {
+    "id": "telo-11",
+    "category": "telo",
+    "question": "Kolik kilogramů vážil Jon Brower Minnoch, podle Guinnessovy knihy rekordů nejtěžší člověk v dějinách medicíny?",
+    "answer": 635,
+    "unit": {
+      "one": "kilogram",
+      "few": "kilogramy",
+      "many": "kilogramů"
+    },
+    "fact": "Jon Brower Minnoch vážil v březnu 1978 635 kg. Do nemocnice ho muselo přenést 12 hasičů a ležel na dvou postelích spojených dohromady.",
+    "sourceTitle": "Guinness World Records: Heaviest man",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/heaviest-man",
+    "sourceQuote": "The heaviest person in medical history was Jon Brower Minnoch (USA)(1941–83), who had suffered from obesity since childhood.",
+    "answerNote": "Odhadovaná hmotnost 635 kg v březnu 1978.",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilograms did Jon Brower Minnoch, the heaviest person in medical history according to Guinness World Records, weigh?",
+      "unit": {
+        "one": "kilogram",
+        "other": "kilograms"
+      },
+      "fact": "Jon Brower Minnoch weighed 635 kg in March 1978. It took 12 firefighters to carry him to hospital, where he lay on two beds lashed together.",
+      "answerNote": "Estimated weight of 635 kg in March 1978."
+    }
+  },
+  {
+    "id": "telo-12",
+    "category": "telo",
+    "question": "Kolik chromozomů má běžná lidská buňka?",
+    "answer": 46,
+    "unit": {
+      "one": "chromozom",
+      "few": "chromozomy",
+      "many": "chromozomů"
+    },
+    "fact": "Člověk má 46 chromozomů ve 23 párech. Šimpanz jich má 48 – dva lidské se kdysi spojily v jeden.",
+    "sourceTitle": "National Human Genome Research Institute (genome.gov)",
+    "sourceUrl": "https://www.genome.gov/genetics-glossary/Chromosome",
+    "sourceQuote": "Humans have 22 pairs of numbered chromosomes (autosomes) and one pair of sex chromosomes (XX or XY), for a total of 46.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many chromosomes does a normal human cell have?",
+      "unit": {
+        "one": "chromosome",
+        "other": "chromosomes"
+      },
+      "fact": "Humans have 46 chromosomes in 23 pairs. Chimpanzees have 48 – two of ours fused into one long ago.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "telo-13",
+    "category": "telo",
+    "question": "Kolik mléčných zubů má dítě?",
+    "answer": 20,
+    "unit": {
+      "one": "zub",
+      "few": "zuby",
+      "many": "zubů"
+    },
+    "fact": "Dítě má 20 mléčných zubů, dospělý chrup jich má 32. Mléčné zuby se začínají prořezávat kolem šestého měsíce a vypadávat kolem šesti let.",
+    "sourceTitle": "Wikipedia (EN): Human tooth",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Human_tooth",
+    "sourceQuote": "Humans usually have 20 primary (deciduous, \"baby\" or \"milk\") teeth and 32 permanent (adult) teeth.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many milk teeth does a child have?",
+      "unit": {
+        "one": "tooth",
+        "other": "teeth"
+      },
+      "fact": "A child has 20 milk teeth; the adult set has 32. Milk teeth start coming through around six months and falling out around age six.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "telo-14",
+    "category": "telo",
+    "question": "Kolik milimetrů měřil Nepálec Chandra Bahadur Dangi, nejmenší dospělý člověk, jakého kdy Guinnessova kniha rekordů ověřila?",
+    "answer": 546,
+    "unit": {
+      "one": "milimetr",
+      "few": "milimetry",
+      "many": "milimetrů"
+    },
+    "fact": "Chandra Bahadur Dangi měřil 54,6 cm – méně než průměrný novorozenec je dlouhý ve třech měsících. Rekord mu Guinness uznal v roce 2012, ve 72 letech.",
+    "sourceTitle": "Wikipedia (EN): Chandra Bahadur Dangi",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Chandra_Bahadur_Dangi",
+    "sourceQuote": "Measuring 54.6 cm (1 ft 9+1⁄2 in), he was recognized by Guinness World Records as the shortest adult human ever verified in 2012.",
+    "answerNote": "54,6 cm.",
+    "confidence": "high",
+    "en": {
+      "question": "How many millimetres tall was Nepal's Chandra Bahadur Dangi, the shortest adult ever verified by Guinness World Records?",
+      "unit": {
+        "one": "millimetre",
+        "other": "millimetres"
+      },
+      "fact": "Chandra Bahadur Dangi measured 54.6 cm – shorter than the average three-month-old baby. Guinness recognised the record in 2012, when he was 72.",
+      "answerNote": "54.6 cm."
+    }
+  },
+  {
+    "id": "telo-15",
+    "category": "telo",
+    "question": "Kolika let se dožil Japonec Džiróemon Kimura, nejstarší ověřeně žijící muž v historii?",
+    "answer": 116,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Kimura zemřel v roce 2013 ve věku 116 let a 54 dní. Je jediným mužem, u něhož je věk 116 let ověřený – ženy ho přesto přežily: rekordmanka Jeanne Calmentová se dožila 122 let.",
+    "sourceTitle": "Wikipedia (EN): Jiroemon Kimura",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jiroemon_Kimura",
+    "sourceQuote": "his own death at age 116 years and 54 days on 12 June 2013",
+    "answerNote": "116 let a 54 dní (1897–2013).",
+    "confidence": "high",
+    "en": {
+      "question": "To what age did Japan's Jiroemon Kimura, the oldest verified man in history, live?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "Kimura died in 2013 aged 116 years and 54 days. He is the only man ever verified to reach 116 – women have still outlived him: record holder Jeanne Calment reached 122.",
+      "answerNote": "116 years and 54 days (1897–2013)."
+    }
+  },
+  {
+    "id": "telo-16",
+    "category": "telo",
+    "question": "Kolik kostí má jedna lidská noha (chodidlo včetně kotníku)?",
+    "answer": 26,
+    "unit": {
+      "one": "kost",
+      "few": "kosti",
+      "many": "kostí"
+    },
+    "fact": "Chodidlo má 26 kostí a 33 kloubů – obě nohy dohromady tvoří čtvrtinu všech kostí v těle.",
+    "sourceTitle": "Wikipedia (EN): Foot",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Foot",
+    "sourceQuote": "The human foot is a strong and complex mechanical structure containing 26 bones, 33 joints (20 of which are actively articulated), and more than one hundred muscles, tendons, and ligaments.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many bones are in one human foot (including the ankle)?",
+      "unit": {
+        "one": "bone",
+        "other": "bones"
+      },
+      "fact": "The foot has 26 bones and 33 joints – both feet together make up a quarter of all the bones in the body.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "telo-17",
+    "category": "telo",
+    "question": "Kolik dní vydržel bez spánku sedmnáctiletý Randy Gardner při slavném pokusu na přelomu let 1963 a 1964?",
+    "answer": 11,
+    "unit": {
+      "one": "den",
+      "few": "dny",
+      "many": "dní"
+    },
+    "fact": "Randy Gardner vydržel vzhůru 11 dní a 25 minut (264 hodin). Guinness podobné pokusy od té doby ze zdravotních důvodů neuznává.",
+    "sourceTitle": "Wikipedia (EN): Randy Gardner sleep deprivation experiment",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Randy_Gardner_sleep_deprivation_experiment",
+    "sourceQuote": "the then 17-year-old Gardner stayed awake for 11 days and 25 minutes (264.4 hours), breaking the previous record of 260 hours held by Tom Rounds.",
+    "answerNote": "11 dní a 25 minut.",
+    "confidence": "high",
+    "en": {
+      "question": "How many days did 17-year-old Randy Gardner stay awake in his famous 1963–64 experiment?",
+      "unit": {
+        "one": "day",
+        "other": "days"
+      },
+      "fact": "Randy Gardner stayed awake for 11 days and 25 minutes (264 hours). Guinness no longer recognises such attempts, for health reasons.",
+      "answerNote": "11 days and 25 minutes."
+    }
+  },
+  {
+    "id": "telo-18",
+    "category": "telo",
+    "question": "V kolika letech porodila Španělka Maria del Carmen Bousada v roce 2006 dvojčata a stala se tehdy nejstarší doloženou matkou světa?",
+    "answer": 66,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Maria del Carmen Bousada porodila dvojčata ve věku 66 let, týden před 67. narozeninami. Klinice v Kalifornii tvrdila, že je jí 55.",
+    "sourceTitle": "Wikipedia (EN): Maria del Carmen Bousada de Lara",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Maria_del_Carmen_Bousada_de_Lara",
+    "sourceQuote": "at the age of 66, she became the world's oldest mother on 29 or 30 December 2006, when she gave birth to twins.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How old was Spaniard Maria del Carmen Bousada when she gave birth to twins in 2006 and became the oldest verified mother in the world at the time?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "Maria del Carmen Bousada gave birth to twins at 66, a week before her 67th birthday. She had told the clinic in California she was 55.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "telo-19",
+    "category": "telo",
+    "question": "Kolik prstů na rukou a nohou dohromady měl při narození Ind Akshat Saxena, držitel světového rekordu?",
+    "answer": 34,
+    "unit": {
+      "one": "prst",
+      "few": "prsty",
+      "many": "prstů"
+    },
+    "fact": "Akshat Saxena se v roce 2010 narodil se 7 prsty na každé ruce a 10 na každé noze – dohromady 34. Nadbytečné prsty mu později lékaři operativně odstranili.",
+    "sourceTitle": "Wikipedia (EN): Polydactyly",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Polydactyly",
+    "sourceQuote": "He was born in 2010 with seven digits on each hand and 10 digits on each foot, for a total of 34 digits.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many fingers and toes in total was Akshat Saxena of India, the world record holder, born with?",
+      "unit": {
+        "one": "digit",
+        "other": "digits"
+      },
+      "fact": "Akshat Saxena was born in 2010 with 7 fingers on each hand and 10 toes on each foot – 34 in all. Doctors later surgically removed the extra ones.",
+      "answerNote": ""
+    }
+  }
+]

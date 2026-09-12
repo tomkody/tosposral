@@ -1,0 +1,548 @@
+[
+  {
+    "id": "historie-01",
+    "category": "historie",
+    "question": "Kolik let ve skutečnosti trvala stoletá válka mezi Anglií a Francií?",
+    "answer": 116,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Stoletá válka si na svůj název moc nepotrpěla: mezi Anglií a Francií se s přestávkami táhla od roku 1337 do roku 1453, tedy 116 let. Historici ji zkrátka pojmenovali s velkorysým zaokrouhlením dolů.",
+    "sourceTitle": "Wikipedia (EN): Hundred Years' War",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hundred_Years%27_War",
+    "sourceQuote": "The periodisation of the war typically charts it as taking place over 116 years.",
+    "answerNote": "Obvyklá periodizace 24. 5. 1337 – 19. 10. 1453 (válka probíhala s přestávkami).",
+    "confidence": "high",
+    "en": {
+      "question": "How many years did the Hundred Years' War between England and France actually last?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "The Hundred Years' War didn't take its name too seriously: with pauses, it dragged on between England and France from 1337 to 1453 – 116 years. Historians simply rounded generously down.",
+      "answerNote": "Usual periodisation 24 May 1337 – 19 Oct 1453 (fought with interruptions)."
+    }
+  },
+  {
+    "id": "historie-02",
+    "category": "historie",
+    "question": "Kolik dní trvalo Napoleonovo „stodenní císařství“ – od jeho návratu do Paříže po druhou restauraci Ludvíka XVIII.?",
+    "answer": 110,
+    "unit": {
+      "one": "den",
+      "few": "dny",
+      "many": "dní"
+    },
+    "fact": "Napoleonových „sto dní“ trvalo ve skutečnosti 110 dní: z Elby se do Paříže vrátil 20. března 1815 a Ludvík XVIII. byl podruhé dosazen na trůn 8. července 1815. Stihl při tom i prohrát u Waterloo.",
+    "sourceTitle": "Wikipedia (EN): Hundred Days",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hundred_Days",
+    "sourceQuote": "Napoleon's return from eleven months of exile on the island of Elba to Paris on 20 March 1815 and the second restoration of King Louis XVIII on 8 July 1815 (a period of 110 days)",
+    "answerNote": "Období 20. 3. 1815 – 8. 7. 1815, jak je vymezuje Wikipedie.",
+    "confidence": "high",
+    "en": {
+      "question": "How many days did Napoleon's 'Hundred Days' last, from his return to Paris to the second restoration of Louis XVIII?",
+      "unit": {
+        "one": "day",
+        "other": "days"
+      },
+      "fact": "Napoleon's 'Hundred Days' actually lasted 110: he returned from Elba to Paris on 20 March 1815 and Louis XVIII was restored for the second time on 8 July 1815. He managed to lose Waterloo in between.",
+      "answerNote": "Period 20 March – 8 July 1815, as defined by Wikipedia."
+    }
+  },
+  {
+    "id": "historie-03",
+    "category": "historie",
+    "question": "Kolik záchranných člunů měl na palubě Titanic při své jediné plavbě v roce 1912?",
+    "answer": 20,
+    "unit": {
+      "one": "člun",
+      "few": "čluny",
+      "many": "člunů"
+    },
+    "fact": "Titanic vezl 20 záchranných člunů – 14 dřevěných, 2 kutry a 4 skládací. Podle tehdejších norem pojaly 1 178 lidí, tedy jen o něco víc než polovinu z 2 209 osob, které byly v noci potopení na palubě.",
+    "sourceTitle": "Wikipedia (EN): Lifeboats of the Titanic",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lifeboats_of_the_Titanic",
+    "sourceQuote": "The ship had been supplied with 20 lifeboats that, by lifeboat capacity of that time, could accommodate 1,178 people, a little over half of the 2,209 on board the night it sank.",
+    "answerNote": "Včetně 4 skládacích člunů Engelhardt (14 dřevěných záchranných člunů + 2 kutry + 4 skládací).",
+    "confidence": "high",
+    "en": {
+      "question": "How many lifeboats did the Titanic carry on its only voyage in 1912?",
+      "unit": {
+        "one": "lifeboat",
+        "other": "lifeboats"
+      },
+      "fact": "Titanic carried 20 lifeboats – 14 wooden, 2 cutters and 4 collapsibles. By the standards of the day they held 1,178 people, only a little over half of the 2,209 on board the night it sank.",
+      "answerNote": "Including 4 Engelhardt collapsibles (14 wooden lifeboats + 2 cutters + 4 collapsibles)."
+    }
+  },
+  {
+    "id": "historie-04",
+    "category": "historie",
+    "question": "Kolik mužů se z Magalhãesovy výpravy kolem světa vrátilo v roce 1522 do Španělska na lodi Victoria?",
+    "answer": 18,
+    "unit": {
+      "one": "muž",
+      "few": "muži",
+      "many": "mužů"
+    },
+    "fact": "V září 1519 vyplulo ze Španělska pět lodí s asi 270 muži. O tři roky později se do stejného přístavu vrátila jediná loď Victoria a na ní pouhých 18 mužů – Magalhães sám mezi nimi nebyl, padl na Filipínách.",
+    "sourceTitle": "Wikipedia (EN): Magellan expedition",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Magellan_expedition",
+    "sourceQuote": "returned to the harbour of departure after completing the first circumnavigation of the Earth, only 18 men out of the original 270 were on board.",
+    "answerNote": "Muži na palubě lodi Victoria při jejím návratu do Španělska v září 1522; výprava vyplula s asi 270 muži.",
+    "confidence": "high",
+    "en": {
+      "question": "How many men from Magellan's round-the-world expedition returned to Spain aboard the Victoria in 1522?",
+      "unit": {
+        "one": "man",
+        "other": "men"
+      },
+      "fact": "Five ships and about 270 men left Spain in September 1519. Three years later a single ship, the Victoria, returned to the same harbour with just 18 men – Magellan himself wasn't among them, he had died in the Philippines.",
+      "answerNote": "Men aboard the Victoria on its return to Spain in September 1522; the expedition set out with about 270."
+    }
+  },
+  {
+    "id": "historie-05",
+    "category": "historie",
+    "question": "Kolik dní trvala vláda britské královny Alžběty II.?",
+    "answer": 25782,
+    "unit": {
+      "one": "den",
+      "few": "dny",
+      "many": "dní"
+    },
+    "fact": "Alžběta II. nastoupila na trůn 6. února 1952 a vládla až do své smrti 8. září 2022 – 70 let a 214 dní, celkem 25 782 dní. Žádný jiný britský panovník nevládl déle.",
+    "sourceTitle": "Wikipedia (EN): List of British monarchy records",
+    "sourceUrl": "https://en.wikipedia.org/wiki/List_of_British_monarchy_records",
+    "sourceQuote": "25,782 days (70 years)",
+    "answerNote": "Vláda 6. 2. 1952 – 8. 9. 2022 (70 let a 214 dní).",
+    "confidence": "high",
+    "en": {
+      "question": "How many days did the reign of Queen Elizabeth II last?",
+      "unit": {
+        "one": "day",
+        "other": "days"
+      },
+      "fact": "Elizabeth II came to the throne on 6 February 1952 and reigned until her death on 8 September 2022 – 70 years and 214 days, a total of 25,782 days. No other British monarch reigned longer.",
+      "answerNote": "Reign 6 Feb 1952 – 8 Sept 2022 (70 years and 214 days)."
+    }
+  },
+  {
+    "id": "historie-06",
+    "category": "historie",
+    "question": "Kolik vchodů v přízemí mělo římské Koloseum?",
+    "answer": 80,
+    "unit": {
+      "one": "vchod",
+      "few": "vchody",
+      "many": "vchodů"
+    },
+    "fact": "Koloseum lemovalo v přízemí 80 očíslovaných vchodů, z nichž 76 sloužilo obyčejným divákům; čtyři hlavní vchody byly vyhrazeny císaři a elitě. Díky tomu se davy rychle dostaly dovnitř i ven.",
+    "sourceTitle": "Wikipedia (EN): Colosseum",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Colosseum",
+    "sourceQuote": "The amphitheatre was ringed by eighty entrances at ground level, 76 of which were used by ordinary spectators.",
+    "answerNote": "Vchody v přízemí; 76 z nich sloužilo běžným divákům.",
+    "confidence": "high",
+    "en": {
+      "question": "How many ground-level entrances did the Roman Colosseum have?",
+      "unit": {
+        "one": "entrance",
+        "other": "entrances"
+      },
+      "fact": "The Colosseum was ringed by 80 numbered ground-level entrances, 76 of them for ordinary spectators; four main entrances were reserved for the emperor and the elite. That's how crowds got in and out so quickly.",
+      "answerNote": "Ground-level entrances; 76 of them for ordinary spectators."
+    }
+  },
+  {
+    "id": "historie-07",
+    "category": "historie",
+    "question": "Kolik tetování bylo nalezeno na těle Ötziho, ledového muže z Alp starého přes 5 000 let?",
+    "answer": 61,
+    "unit": {
+      "one": "tetování",
+      "few": "tetování",
+      "many": "tetování"
+    },
+    "fact": "Ötzi, muž z doby měděné, jehož mumii vydal alpský ledovec v roce 1991, má na těle 61 tetování – samé čárky a křížky. Soustředí se kolem kloubů a páteře, takže šlo nejspíš o pravěkou léčbu bolesti, ne o módu.",
+    "sourceTitle": "South Tyrol Museum of Archaeology (iceman.it)",
+    "sourceUrl": "https://www.iceman.it/en/oetzi/the-body",
+    "sourceQuote": "61 tattoos were found on Ötzi's body, all in the form of lines or crosses.",
+    "answerNote": "Počet tetování podle Jihotyrolského archeologického muzea v Bolzanu, kde je mumie uložena.",
+    "confidence": "high",
+    "en": {
+      "question": "How many tattoos were found on the body of Ötzi, the 5,000-year-old Iceman from the Alps?",
+      "unit": {
+        "one": "tattoo",
+        "other": "tattoos"
+      },
+      "fact": "Ötzi, the Copper Age man released by an Alpine glacier in 1991, has 61 tattoos – all lines and crosses. They cluster around joints and the spine, so they were most likely prehistoric pain treatment, not fashion.",
+      "answerNote": "Count according to the South Tyrol Museum of Archaeology in Bolzano, where the mummy is kept."
+    }
+  },
+  {
+    "id": "historie-08",
+    "category": "historie",
+    "question": "Kolik míst (sídel) je zaznamenáno v Domesday Book, velkém soupisu Anglie z roku 1086?",
+    "answer": 13418,
+    "unit": {
+      "one": "místo",
+      "few": "místa",
+      "many": "míst"
+    },
+    "fact": "Vilém Dobyvatel si nechal roku 1086 sepsat prakticky celou Anglii. Domesday Book jmenuje 13 418 míst a u každého uvádí, komu patří a co vynáší. Jméno „kniha posledního soudu“ dostala proto, že proti jejím záznamům nebylo odvolání.",
+    "sourceTitle": "Wikipedia (EN): Domesday Book",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Domesday_Book",
+    "sourceQuote": "Domesday names a total of 13,418 places.",
+    "answerNote": "Počet míst jmenovaných v Domesday Book (soupis dokončen roku 1086).",
+    "confidence": "high",
+    "en": {
+      "question": "How many places are recorded in the Domesday Book, the great survey of England from 1086?",
+      "unit": {
+        "one": "place",
+        "other": "places"
+      },
+      "fact": "In 1086 William the Conqueror had practically all of England written down. The Domesday Book names 13,418 places and lists who owns each and what it yields. It got its name because there was no appeal against its records.",
+      "answerNote": "Number of places named in the Domesday Book (survey completed in 1086)."
+    }
+  },
+  {
+    "id": "historie-09",
+    "category": "historie",
+    "question": "Kolik minut trvala nejkratší válka v dějinách – anglicko-zanzibarská válka z roku 1896 – podle Guinnessovy knihy rekordů?",
+    "answer": 45,
+    "unit": {
+      "one": "minuta",
+      "few": "minuty",
+      "many": "minut"
+    },
+    "fact": "Nejkratší válka na světě se odehrála 27. srpna 1896 na Zanzibaru: podle Guinnessovy knihy rekordů trvala od 9:00 do 9:45, tedy 45 minut. Britské lodě ostřelovaly sultánův palác, dokud uzurpátor Chálid neutekl na německý konzulát.",
+    "sourceTitle": "Guinness World Records: Shortest war",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/65353-shortest-war",
+    "sourceQuote": "The shortest war on record was that between Britain and Zanzibar (now part of Tanzania), which lasted from 9:00 am to 9:45 am on 27 August 1896.",
+    "answerNote": "Podle Guinness World Records (9:00–9:45 dne 27. 8. 1896); jiné zdroje uvádějí 38 až 45 minut.",
+    "confidence": "medium",
+    "en": {
+      "question": "How many minutes did the shortest war in history, the Anglo-Zanzibar War of 1896, last according to Guinness World Records?",
+      "unit": {
+        "one": "minute",
+        "other": "minutes"
+      },
+      "fact": "The world's shortest war took place on 27 August 1896 in Zanzibar: according to Guinness World Records it lasted from 9:00 to 9:45, i.e. 45 minutes. British ships shelled the sultan's palace until the usurper Khalid fled to the German consulate.",
+      "answerNote": "According to Guinness World Records (9:00–9:45 on 27 Aug 1896); other sources say 38 to 45 minutes."
+    }
+  },
+  {
+    "id": "historie-10",
+    "category": "historie",
+    "question": "Kolik let trvala stavba katedrály v Kolíně nad Rýnem – od položení základního kamene v roce 1248 do dokončení?",
+    "answer": 632,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Základní kámen kolínské katedrály byl položen 15. srpna 1248, stavba ale na staletí zamrzla a dokončení se slavilo až 15. října 1880 – po 632 letech. Se 157 metry byla v tu chvíli nejvyšší budovou světa.",
+    "sourceTitle": "Wikipedia (EN): Cologne Cathedral",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cologne_Cathedral",
+    "sourceQuote": "The completion of Germany's largest cathedral was celebrated as a national event on 15 October 1880, 632 years after construction had begun.",
+    "answerNote": "Od položení základního kamene (15. 8. 1248) do slavnostního dokončení (15. 10. 1880), včetně staletí, kdy stavba stála.",
+    "confidence": "high",
+    "en": {
+      "question": "How many years did it take to build Cologne Cathedral, from the foundation stone in 1248 to completion?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "The foundation stone of Cologne Cathedral was laid on 15 August 1248, but construction froze for centuries and completion was celebrated only on 15 October 1880 – 632 years later. At 157 metres it was then the tallest building in the world.",
+      "answerNote": "From the foundation stone (15 Aug 1248) to the completion ceremony (15 Oct 1880), including centuries when work stood still."
+    }
+  },
+  {
+    "id": "historie-11",
+    "category": "historie",
+    "question": "Kolik článků měla Magna charta libertatum, kterou anglický král Jan Bezzemek podepsal v roce 1215?",
+    "answer": 63,
+    "unit": {
+      "one": "článek",
+      "few": "články",
+      "many": "článků"
+    },
+    "fact": "Magna charta z roku 1215 má 63 článků – od svobodné volby biskupů přes jednotné míry a váhy až po volný přístup cizích obchodníků. Dodnes z ní platí jen tři.",
+    "sourceTitle": "Wikipedie (CS): Magna charta libertatum",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Magna_charta_libertatum",
+    "sourceQuote": "Magna charta obsahuje 63 článků",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many clauses did Magna Carta, signed by King John of England in 1215, contain?",
+      "unit": {
+        "one": "clause",
+        "other": "clauses"
+      },
+      "fact": "The 1215 Magna Carta has 63 clauses – from free election of bishops and uniform weights and measures to free passage for foreign merchants. Only three of them are still in force today.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "historie-12",
+    "category": "historie",
+    "question": "Kolik let vládl francouzský král Ludvík XIV., nejdéle vládnoucí panovník v dějinách?",
+    "answer": 72,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Ludvík XIV. vládl 72 let a 110 dní – na trůn usedl ve čtyřech letech. Přežil svého syna i vnuka, takže po něm nastoupil pravnuk.",
+    "sourceTitle": "Wikipedia (EN): Louis XIV",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_XIV",
+    "sourceQuote": "His reign of 72 years and 110 days remains the longest of any sovereign monarch in history.",
+    "answerNote": "72 let a 110 dní (1643–1715).",
+    "confidence": "high",
+    "en": {
+      "question": "How many years did Louis XIV of France, the longest-reigning monarch in history, rule?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "Louis XIV reigned for 72 years and 110 days – he came to the throne at the age of four. He outlived both his son and his grandson, so his great-grandson succeeded him.",
+      "answerNote": "72 years and 110 days (1643–1715)."
+    }
+  },
+  {
+    "id": "historie-13",
+    "category": "historie",
+    "question": "Kolik úřadujících prezidentů USA bylo zavražděno?",
+    "answer": 4,
+    "unit": {
+      "one": "prezident",
+      "few": "prezidenti",
+      "many": "prezidentů"
+    },
+    "fact": "Zavražděni byli čtyři úřadující prezidenti USA: Lincoln (1865), Garfield (1881), McKinley (1901) a Kennedy (1963). Pokusů o atentát bylo mnohem víc.",
+    "sourceTitle": "Wikipedia (EN): List of United States presidential assassination attempts and plots",
+    "sourceUrl": "https://en.wikipedia.org/wiki/List_of_United_States_presidential_assassination_attempts_and_plots",
+    "sourceQuote": "Four sitting U.S. presidents have been killed: Abraham Lincoln (1865), James A. Garfield (1881), William McKinley (1901), and John F. Kennedy (1963).",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many sitting US presidents have been assassinated?",
+      "unit": {
+        "one": "president",
+        "other": "presidents"
+      },
+      "fact": "Four sitting US presidents were assassinated: Lincoln (1865), Garfield (1881), McKinley (1901) and Kennedy (1963). There were many more attempts.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "historie-14",
+    "category": "historie",
+    "question": "Kolik vězňů bylo v Bastile, když ji 14. července 1789 dobyl pařížský dav?",
+    "answer": 7,
+    "unit": {
+      "one": "vězeň",
+      "few": "vězni",
+      "many": "vězňů"
+    },
+    "fact": "Symbol tyranie byl v den dobytí skoro prázdný: v Bastile sedělo jen sedm vězňů – čtyři padělatelé, dva duševně nemocní a jeden šlechtic, kterého tam nechala zavřít vlastní rodina.",
+    "sourceTitle": "Wikipedia (EN): Storming of the Bastille",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Storming_of_the_Bastille",
+    "sourceQuote": "At this point, the Bastille was nearly empty, housing only seven prisoners",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many prisoners were in the Bastille when the Paris mob stormed it on 14 July 1789?",
+      "unit": {
+        "one": "prisoner",
+        "other": "prisoners"
+      },
+      "fact": "The symbol of tyranny was almost empty on the day it fell: the Bastille held just seven prisoners – four forgers, two mentally ill men and one aristocrat locked up at his own family's request.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "historie-15",
+    "category": "historie",
+    "question": "Kolik delegátů podepsalo Deklaraci nezávislosti Spojených států?",
+    "answer": 56,
+    "unit": {
+      "one": "delegát",
+      "few": "delegáti",
+      "many": "delegátů"
+    },
+    "fact": "Deklaraci nezávislosti podepsalo 56 delegátů. Většina až 2. srpna 1776 – slavný 4. červenec byl dnem schválení textu, ne podpisu.",
+    "sourceTitle": "Wikipedia (EN): Signing of the United States Declaration of Independence",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Signing_of_the_United_States_Declaration_of_Independence",
+    "sourceQuote": "Fifty-six delegates eventually signed the Declaration of Independence",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many delegates signed the United States Declaration of Independence?",
+      "unit": {
+        "one": "delegate",
+        "other": "delegates"
+      },
+      "fact": "The Declaration of Independence was signed by 56 delegates, most of them not until 2 August 1776 – the famous 4th of July was the day the text was adopted, not signed.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "historie-16",
+    "category": "historie",
+    "question": "Kolik let strávil Nelson Mandela ve vězení?",
+    "answer": 27,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Nelson Mandela seděl 27 let, z toho 18 na ostrově Robben Island. Čtyři roky po propuštění se stal prvním černošským prezidentem Jihoafrické republiky.",
+    "sourceTitle": "Wikipedia (EN): Nelson Mandela",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Nelson_Mandela",
+    "sourceQuote": "Mandela served 27 years in prison, initially on Robben Island, and later in Pollsmoor Prison and Victor Verster Prison.",
+    "answerNote": "1962–1990.",
+    "confidence": "high",
+    "en": {
+      "question": "How many years did Nelson Mandela spend in prison?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "Nelson Mandela served 27 years, 18 of them on Robben Island. Four years after his release he became South Africa's first Black president.",
+      "answerNote": "1962–1990."
+    }
+  },
+  {
+    "id": "historie-17",
+    "category": "historie",
+    "question": "Kolik států založilo v roce 1945 Organizaci spojených národů?",
+    "answer": 51,
+    "unit": {
+      "one": "stát",
+      "few": "státy",
+      "many": "států"
+    },
+    "fact": "OSN založilo v roce 1945 51 států včetně Československa. Dnes má organizace 193 členů.",
+    "sourceTitle": "Wikipedia (EN): Member states of the United Nations",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations",
+    "sourceQuote": "A total of 51 original members (or founding members) joined that year",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many states founded the United Nations in 1945?",
+      "unit": {
+        "one": "state",
+        "other": "states"
+      },
+      "fact": "The UN was founded in 1945 by 51 states, including Czechoslovakia. Today the organisation has 193 members.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "historie-18",
+    "category": "historie",
+    "question": "Kolik dní trvala karibská (kubánská) raketová krize v říjnu 1962?",
+    "answer": 13,
+    "unit": {
+      "one": "den",
+      "few": "dny",
+      "many": "dní"
+    },
+    "fact": "Kubánská krize trvala 13 dní (16.–28. října 1962) a svět se během ní ocitl nejblíž jaderné válce v historii. Skončila tajnou dohodou o stažení amerických raket z Turecka.",
+    "sourceTitle": "Wikipedia (EN): Cuban Missile Crisis",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis",
+    "sourceQuote": "a 13-day confrontation between the governments of the United States and the Soviet Union",
+    "answerNote": "16.–28. 10. 1962.",
+    "confidence": "high",
+    "en": {
+      "question": "How many days did the Cuban Missile Crisis of October 1962 last?",
+      "unit": {
+        "one": "day",
+        "other": "days"
+      },
+      "fact": "The Cuban Missile Crisis lasted 13 days (16–28 October 1962) and brought the world closer to nuclear war than ever before. It ended with a secret deal to remove US missiles from Turkey.",
+      "answerNote": "16–28 October 1962."
+    }
+  },
+  {
+    "id": "historie-19",
+    "category": "historie",
+    "question": "Kolik států podepsalo v roce 1955 Varšavskou smlouvu?",
+    "answer": 8,
+    "unit": {
+      "one": "stát",
+      "few": "státy",
+      "many": "států"
+    },
+    "fact": "Varšavskou smlouvu podepsalo osm států: SSSR, Československo, Polsko, NDR, Maďarsko, Rumunsko, Bulharsko a Albánie. Albánie ji ale v roce 1968 opustila.",
+    "sourceTitle": "Wikipedia (EN): Warsaw Pact",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Warsaw_Pact",
+    "sourceQuote": "On 14 May 1955, the USSR and seven other Eastern European countries established the Warsaw Pact",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many states signed the Warsaw Pact in 1955?",
+      "unit": {
+        "one": "state",
+        "other": "states"
+      },
+      "fact": "Eight states signed the Warsaw Pact: the USSR, Czechoslovakia, Poland, East Germany, Hungary, Romania, Bulgaria and Albania. Albania left it in 1968.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "historie-20",
+    "category": "historie",
+    "question": "Kolik dětí porodila císařovna Marie Terezie?",
+    "answer": 16,
+    "unit": {
+      "one": "dítě",
+      "few": "děti",
+      "many": "dětí"
+    },
+    "fact": "Marie Terezie porodila za 19 let 16 dětí, mezi nimi i budoucí francouzskou královnu Marii Antoinettu – a přitom vládla obrovské říši.",
+    "sourceTitle": "Wikipedia (EN): Maria Theresa",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Maria_Theresa",
+    "sourceQuote": "Maria Theresa gave birth to sixteen children in nineteen years from 1737 to 1756.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many children did Empress Maria Theresa give birth to?",
+      "unit": {
+        "one": "child",
+        "other": "children"
+      },
+      "fact": "Maria Theresa bore 16 children in 19 years, among them the future French queen Marie Antoinette – all while ruling a vast empire.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "historie-21",
+    "category": "historie",
+    "question": "Kolik členských států má NATO (stav k roku 2026)?",
+    "answer": 32,
+    "unit": {
+      "one": "stát",
+      "few": "státy",
+      "many": "států"
+    },
+    "fact": "NATO má 32 členů. Založilo ho v roce 1949 dvanáct států, Česko vstoupilo v roce 1999 a zatím poslední přibylo Švédsko v roce 2024.",
+    "sourceTitle": "Wikipedia (EN): NATO",
+    "sourceUrl": "https://en.wikipedia.org/wiki/NATO",
+    "sourceQuote": "an intergovernmental military alliance between 32 member states",
+    "answerNote": "Stav k roku 2026.",
+    "confidence": "high",
+    "en": {
+      "question": "How many member states does NATO have (as of 2026)?",
+      "unit": {
+        "one": "state",
+        "other": "states"
+      },
+      "fact": "NATO has 32 members. Twelve states founded it in 1949, Czechia joined in 1999 and the latest addition was Sweden in 2024.",
+      "answerNote": "As of 2026."
+    }
+  }
+]

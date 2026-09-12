@@ -1,0 +1,652 @@
+[
+  {
+    "id": "zemepis-01",
+    "category": "zemepis",
+    "question": "Kolik metrů měří maximální hloubka Bajkalu, nejhlubšího jezera světa?",
+    "answer": 1642,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Bajkal je s hloubkou 1 642 metrů nejhlubší jezero planety a drží zhruba pětinu veškeré nezamrzlé sladké povrchové vody na Zemi.",
+    "sourceTitle": "Wikipedia (EN): Lake Baikal",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Baikal",
+    "sourceQuote": "with a maximum depth of 1,642 metres (5,387 feet)",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres is the maximum depth of Lake Baikal, the deepest lake in the world?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "At 1,642 metres Baikal is the deepest lake on the planet and holds roughly a fifth of all the unfrozen fresh surface water on Earth.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zemepis-02",
+    "category": "zemepis",
+    "question": "Kolik metrů měří Angel Falls (Salto Ángel) ve Venezuele, nejvyšší nepřerušovaný vodopád světa?",
+    "answer": 979,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Angel Falls padá z výšky 979 metrů – to je skoro tři Eiffelovy věže nad sebou. Samotný volný pád vody měří 807 metrů.",
+    "sourceTitle": "Wikipedia (EN): Angel Falls",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Angel_Falls",
+    "sourceQuote": "It is the world's tallest uninterrupted waterfall, with a height of 979 metres (3,212 ft), and a plunge of 807 m (2,648 ft).",
+    "answerNote": "Celková výška vodopádu; volný pád 807 m.",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres tall is Angel Falls in Venezuela, the world's tallest uninterrupted waterfall?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "Angel Falls drops from 979 metres – almost three Eiffel Towers stacked up. The uninterrupted plunge alone is 807 metres.",
+      "answerNote": "Total height of the falls; plunge 807 m."
+    }
+  },
+  {
+    "id": "zemepis-03",
+    "category": "zemepis",
+    "question": "Územím kolika států Dunaj protéká nebo tvoří jejich hranici?",
+    "answer": 10,
+    "unit": {
+      "one": "stát",
+      "few": "státy",
+      "many": "států"
+    },
+    "fact": "Dunaj pramení v Německu a na své 2 850 km dlouhé cestě k Černému moři protéká nebo lemuje celkem 10 států – víc než kterákoli jiná řeka na světě.",
+    "sourceTitle": "Wikipedia (EN): Danube",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Danube",
+    "sourceQuote": "Originating in Germany, the Danube flows southeast for 2,850 km (1,770 mi), passing through or bordering Austria, Slovakia, Hungary, Croatia, Serbia, Romania, Bulgaria, Moldova, and Ukraine.",
+    "answerNote": "Německo, Rakousko, Slovensko, Maďarsko, Chorvatsko, Srbsko, Rumunsko, Bulharsko, Moldavsko a Ukrajina.",
+    "confidence": "high",
+    "en": {
+      "question": "How many countries does the Danube flow through or border?",
+      "unit": {
+        "one": "country",
+        "other": "countries"
+      },
+      "fact": "The Danube rises in Germany and on its 2,850 km journey to the Black Sea flows through or borders 10 countries – more than any other river in the world.",
+      "answerNote": "Germany, Austria, Slovakia, Hungary, Croatia, Serbia, Romania, Bulgaria, Moldova and Ukraine."
+    }
+  },
+  {
+    "id": "zemepis-04",
+    "category": "zemepis",
+    "question": "Kolik kilometrů měří Transsibiřská magistrála z Moskvy do Vladivostoku?",
+    "answer": 9289,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Transsibiřská magistrála měří 9 289 km a je nejdelší železniční tratí světa. Cesta bez přestupu z Moskvy do Vladivostoku zabere asi týden.",
+    "sourceTitle": "Wikipedia (EN): Trans-Siberian Railway",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Trans-Siberian_Railway",
+    "sourceQuote": "9,289 km (5,772 mi)",
+    "answerNote": "Hlavní trať Moskva – Vladivostok.",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres long is the Trans-Siberian Railway from Moscow to Vladivostok?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "The Trans-Siberian is 9,289 km long and the longest railway line in the world. The journey from Moscow to Vladivostok without changing trains takes about a week.",
+      "answerNote": "Main line Moscow – Vladivostok."
+    }
+  },
+  {
+    "id": "zemepis-05",
+    "category": "zemepis",
+    "question": "Kolik kilometrů měří hranice mezi Kanadou a Spojenými státy, nejdelší státní hranice na světě?",
+    "answer": 8891,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Hranice mezi Kanadou a USA měří 8 891 km včetně úseku s Aljaškou. Je to nejdelší hranice mezi dvěma státy na světě.",
+    "sourceTitle": "Wikipedia (EN): Canada–United States border",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Canada%E2%80%93United_States_border",
+    "sourceQuote": "Length: 8,891 km (5,525 mi)",
+    "answerNote": "Včetně hranice Aljašky s Kanadou.",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres long is the border between Canada and the United States, the longest international border in the world?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "The Canada–US border is 8,891 km long including the Alaska section. It is the longest border between two countries in the world.",
+      "answerNote": "Including the Alaska–Canada border."
+    }
+  },
+  {
+    "id": "zemepis-06",
+    "category": "zemepis",
+    "question": "Kolik kilometrů měří všechny dochované úseky Velké čínské zdi podle čínského průzkumu z roku 2012 (zaokrouhleno na celé kilometry)?",
+    "answer": 21196,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Čínský průzkum z roku 2012 sečetl všechny zdi a příkopy Velké čínské zdi na 21 196 km – to je zhruba polovina obvodu Země.",
+    "sourceTitle": "Wikipedia (EN): Great Wall of China",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+    "sourceQuote": "with the walls and trenches spanning a total length of 21,196.18 km (13,170.70 mi)",
+    "answerNote": "Přesně 21 196,18 km podle průzkumu čínské Státní správy kulturního dědictví (2012).",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres do all surviving sections of the Great Wall of China add up to, according to the 2012 Chinese survey (rounded to whole kilometres)?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "The 2012 Chinese survey added up all the walls and trenches of the Great Wall to 21,196 km – about half the circumference of the Earth.",
+      "answerNote": "Exactly 21,196.18 km according to the survey by China's National Cultural Heritage Administration (2012)."
+    }
+  },
+  {
+    "id": "zemepis-07",
+    "category": "zemepis",
+    "question": "Kolik časových pásem má Rusko?",
+    "answer": 11,
+    "unit": {
+      "one": "časové pásmo",
+      "few": "časová pásma",
+      "many": "časových pásem"
+    },
+    "fact": "Rusko se rozkládá přes 11 časových pásem – když v Kaliningradu snídají, ve Vladivostoku už je čas večeře.",
+    "sourceTitle": "Wikipedia (EN): Time in Russia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Time_in_Russia",
+    "sourceQuote": "There are 11 time zones in Russia, which currently observe times ranging from UTC+02:00 to UTC+12:00.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many time zones does Russia have?",
+      "unit": {
+        "one": "time zone",
+        "other": "time zones"
+      },
+      "fact": "Russia spans 11 time zones – when they're having breakfast in Kaliningrad, it's dinner time in Vladivostok.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zemepis-08",
+    "category": "zemepis",
+    "question": "Kolik ostrovů má Švédsko podle švédského statistického úřadu (zpráva z roku 2013)?",
+    "answer": 267570,
+    "unit": {
+      "one": "ostrov",
+      "few": "ostrovy",
+      "many": "ostrovů"
+    },
+    "fact": "Švédsko má podle sčítání z roku 2013 celkem 267 570 ostrovů, nejvíc na světě. Trvale obydlených je ale méně než tisíc.",
+    "sourceTitle": "Wikipedia (EN): List of islands of Sweden",
+    "sourceUrl": "https://en.wikipedia.org/wiki/List_of_islands_of_Sweden",
+    "sourceQuote": "A 2013 statistics report concluded that there are 267,570 islands in Sweden, though fewer than 1,000 of these are inhabited.",
+    "answerNote": "Podle zprávy Statistics Sweden „Coast, shores and islands in Sweden 2013“.",
+    "confidence": "high",
+    "en": {
+      "question": "How many islands does Sweden have according to Statistics Sweden (2013 report)?",
+      "unit": {
+        "one": "island",
+        "other": "islands"
+      },
+      "fact": "According to the 2013 count Sweden has 267,570 islands, the most in the world. Fewer than a thousand are permanently inhabited.",
+      "answerNote": "According to the Statistics Sweden report 'Coast, shores and islands in Sweden 2013'."
+    }
+  },
+  {
+    "id": "zemepis-09",
+    "category": "zemepis",
+    "question": "Kolik kilometrů měří obvod Země na rovníku (zaokrouhleno na celé kilometry)?",
+    "answer": 40075,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Rovník měří 40 075 km. Obvod přes póly je o 67 km kratší, protože Země je na pólech mírně zploštělá.",
+    "sourceTitle": "Wikipedia (EN): Earth's circumference",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Earth%27s_circumference",
+    "sourceQuote": "Measured around the equator, it is 40,075.017 km (24,901.461 mi). Measured passing through the poles, the circumference is 40,007.863 km (24,859.734 mi).",
+    "answerNote": "Přesně 40 075,017 km.",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres is the Earth's circumference at the equator (rounded to whole kilometres)?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "The equator is 40,075 km long. The circumference through the poles is 67 km shorter because the Earth is slightly flattened at the poles.",
+      "answerNote": "Exactly 40,075.017 km."
+    }
+  },
+  {
+    "id": "zemepis-10",
+    "category": "zemepis",
+    "question": "Kolik členských států OSN leží v Africe?",
+    "answer": 54,
+    "unit": {
+      "one": "stát",
+      "few": "státy",
+      "many": "států"
+    },
+    "fact": "V Africe leží 54 členských států OSN – víc než na kterémkoli jiném kontinentu. K tomu se přidávají dva státy s omezeným uznáním: Západní Sahara a Somaliland.",
+    "sourceTitle": "Wikipedia (EN): List of sovereign states and dependent territories in Africa",
+    "sourceUrl": "https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_Africa",
+    "sourceQuote": "It lists 56 sovereign states (54 of which are member states of the United Nations)",
+    "answerNote": "Členské státy OSN; včetně dvou částečně uznaných států je to 56.",
+    "confidence": "high",
+    "en": {
+      "question": "How many UN member states are in Africa?",
+      "unit": {
+        "one": "state",
+        "other": "states"
+      },
+      "fact": "Africa has 54 UN member states – more than any other continent. Add two states with limited recognition: Western Sahara and Somaliland.",
+      "answerNote": "UN member states; 56 including the two partially recognised states."
+    }
+  },
+  {
+    "id": "zemepis-11",
+    "category": "zemepis",
+    "question": "S kolika státy sousedí Čína po souši?",
+    "answer": 14,
+    "unit": {
+      "one": "stát",
+      "few": "státy",
+      "many": "států"
+    },
+    "fact": "Čína má 14 pozemních sousedů – od Ruska a Mongolska přes Indii a Pákistán až po Vietnam. Její pozemní hranice měří přes 20 000 km.",
+    "sourceTitle": "Wikipedia (EN): Geography of China",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Geography_of_China",
+    "sourceQuote": "Borders: Afghanistan, Bhutan, Myanmar, India, North Korea, Kazakhstan, Kyrgyzstan, Pakistan, Laos, Mongolia, Nepal, Russia, Tajikistan, Vietnam",
+    "answerNote": "Afghánistán, Bhútán, Myanmar, Indie, KLDR, Kazachstán, Kyrgyzstán, Pákistán, Laos, Mongolsko, Nepál, Rusko, Tádžikistán, Vietnam.",
+    "confidence": "high",
+    "en": {
+      "question": "How many countries does China border by land?",
+      "unit": {
+        "one": "country",
+        "other": "countries"
+      },
+      "fact": "China has 14 land neighbours – from Russia and Mongolia through India and Pakistan to Vietnam. Its land border is over 20,000 km long.",
+      "answerNote": "Afghanistan, Bhutan, Myanmar, India, North Korea, Kazakhstan, Kyrgyzstan, Pakistan, Laos, Mongolia, Nepal, Russia, Tajikistan, Vietnam."
+    }
+  },
+  {
+    "id": "zemepis-12",
+    "category": "zemepis",
+    "question": "Kolik metrů měří Mount Everest podle společného čínsko-nepálského měření z roku 2020 (zaokrouhleno na celé metry)?",
+    "answer": 8849,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Everest měří 8 848,86 m, tedy zaokrouhleně 8 849 metrů. Díky pohybu tektonických desek stále roste – zhruba o 4 mm ročně.",
+    "sourceTitle": "Wikipedia (EN): Mount Everest",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Everest",
+    "sourceQuote": "Its height was most recently measured in 2020 through a joint survey by Nepalese and Chinese authorities as 8,848.86 m (29,031 ft 8+1⁄2 in).",
+    "answerNote": "Přesně 8 848,86 m (měření 2020).",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres tall is Mount Everest according to the joint China–Nepal survey of 2020 (rounded to whole metres)?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "Everest is 8,848.86 m, rounded 8,849 metres. Thanks to tectonic plate movement it is still growing – about 4 mm a year.",
+      "answerNote": "Exactly 8,848.86 m (2020 survey)."
+    }
+  },
+  {
+    "id": "zemepis-13",
+    "category": "zemepis",
+    "question": "Kolik jazyků uvádí osmý dodatek indické ústavy jako úředně uznané (tzv. scheduled languages)?",
+    "answer": 22,
+    "unit": {
+      "one": "jazyk",
+      "few": "jazyky",
+      "many": "jazyků"
+    },
+    "fact": "Indická ústava uznává 22 jazyků, mezi nimi hindštinu, bengálštinu, tamilštinu i sanskrt. Angličtina mezi nimi není – ústava ji vede jako pomocný úřední jazyk.",
+    "sourceTitle": "Wikipedia (EN): Languages of India",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Languages_of_India",
+    "sourceQuote": "The Eighth Schedule of the Indian Constitution lists 22 languages",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many languages does the Eighth Schedule of the Indian Constitution list as officially recognised ('scheduled languages')?",
+      "unit": {
+        "one": "language",
+        "other": "languages"
+      },
+      "fact": "India's constitution recognises 22 languages, including Hindi, Bengali, Tamil and Sanskrit. English isn't among them – the constitution treats it as a subsidiary official language.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zemepis-14",
+    "category": "zemepis",
+    "question": "Kolik kilometrů měří Panamský průplav?",
+    "answer": 82,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Panamský průplav měří 82 km a od otevření v roce 1914 zkracuje lodím cestu mezi oceány o zhruba 13 000 km. Průjezd trvá 8 až 10 hodin.",
+    "sourceTitle": "Wikipedia (EN): Panama Canal",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Panama_Canal",
+    "sourceQuote": "The Panama Canal (Spanish: Canal de Panamá) is an artificial 82-kilometer (51-mile) waterway in Panama that connects the Caribbean Sea with the Pacific Ocean.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres long is the Panama Canal?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "The Panama Canal is 82 km long and since opening in 1914 has cut ships' journeys between the oceans by around 13,000 km. Transit takes 8 to 10 hours.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zemepis-15",
+    "category": "zemepis",
+    "question": "Kolik časových pásem používá Francie včetně svých zámořských území – nejvíc ze všech států světa?",
+    "answer": 12,
+    "unit": {
+      "one": "časové pásmo",
+      "few": "časová pásma",
+      "many": "časových pásem"
+    },
+    "fact": "Francie díky zámořským územím od Polynésie po Réunion používá 12 časových pásem, víc než Rusko nebo USA. S územím v Antarktidě by to bylo 13.",
+    "sourceTitle": "Wikipedia (EN): Time in France",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Time_in_France",
+    "sourceQuote": "With its overseas territories, France uses 12 different time zones (13 including its claim in Antarctica), more than any other country in the world.",
+    "answerNote": "Bez nároku v Antarktidě.",
+    "confidence": "high",
+    "en": {
+      "question": "How many time zones does France use including its overseas territories – more than any other country?",
+      "unit": {
+        "one": "time zone",
+        "other": "time zones"
+      },
+      "fact": "Thanks to overseas territories from Polynesia to Réunion, France uses 12 time zones, more than Russia or the USA. Counting its Antarctic claim it would be 13.",
+      "answerNote": "Excluding the Antarctic claim."
+    }
+  },
+  {
+    "id": "zemepis-16",
+    "category": "zemepis",
+    "question": "Kolik metrů nad mořem měří Kilimandžáro, nejvyšší hora Afriky?",
+    "answer": 5895,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Kilimandžáro měří 5 895 m a je nejvyšší samostatně stojící horou světa – nad okolní planinu se zvedá o 4 900 metrů. Na vrcholu je ledovec, i když stojí 300 km od rovníku.",
+    "sourceTitle": "Wikipedia (EN): Mount Kilimanjaro",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Kilimanjaro",
+    "sourceQuote": "It is the highest mountain in Africa and the highest free-standing mountain above sea level in the world, at 5,895 m (19,341 ft) above sea level",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres above sea level is Kilimanjaro, the highest mountain in Africa?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "Kilimanjaro is 5,895 m and the highest free-standing mountain in the world – it rises 4,900 metres above the surrounding plain. There's a glacier on top, even though it stands 300 km from the equator.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zemepis-17",
+    "category": "zemepis",
+    "question": "Kolik kilometrů čtverečních má Grónsko, největší ostrov světa?",
+    "answer": 2166086,
+    "unit": {
+      "one": "kilometr čtvereční",
+      "few": "kilometry čtvereční",
+      "many": "kilometrů čtverečních"
+    },
+    "fact": "Grónsko má 2 166 086 km², tedy 27krát víc než Česko, ale žije v něm jen asi 57 000 lidí. Přes 80 % povrchu pokrývá ledovec.",
+    "sourceTitle": "Wikipedia (EN): Greenland",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Greenland",
+    "sourceQuote": "The total area is 2,166,086 km2 (836,330 sq mi)",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many square kilometres is Greenland, the largest island in the world?",
+      "unit": {
+        "one": "square kilometre",
+        "other": "square kilometres"
+      },
+      "fact": "Greenland covers 2,166,086 km², 27 times the size of Czechia, yet only about 57,000 people live there. Over 80% of it is covered by ice sheet.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zemepis-18",
+    "category": "zemepis",
+    "question": "Kolik metrů měří maximální hloubka jezera Tanganika, druhého nejhlubšího jezera světa?",
+    "answer": 1470,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Tanganika v Africe je hluboká 1 470 metrů a v objemu vody i hloubce je druhá po Bajkalu. Táhne se v délce 673 km – nejdelší sladkovodní jezero světa.",
+    "sourceTitle": "Wikipedia (EN): Lake Tanganyika",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Tanganyika",
+    "sourceQuote": "1,470 m (4,820 ft)",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres is the maximum depth of Lake Tanganyika, the second deepest lake in the world?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "Tanganyika in Africa is 1,470 metres deep and second only to Baikal in both volume and depth. It stretches 673 km – the longest freshwater lake in the world.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zemepis-19",
+    "category": "zemepis",
+    "question": "Kolik hektarů má rozlohu Monako (zaokrouhleno na celé hektary)?",
+    "answer": 208,
+    "unit": {
+      "one": "hektar",
+      "few": "hektary",
+      "many": "hektarů"
+    },
+    "fact": "Monako má 2,08 km², tedy 208 hektarů – vešlo by se dvakrát do pražské Stromovky. Přesto v něm žije přes 38 000 lidí.",
+    "sourceTitle": "Wikipedia (EN): Monaco",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Monaco",
+    "sourceQuote": "With the inauguration of Le Portier in 2024, Monaco's total area grew to 2.08 km2 (0.80 sq mi).",
+    "answerNote": "2,08 km² (po rozšíření v roce 2024).",
+    "confidence": "high",
+    "en": {
+      "question": "How many hectares is the area of Monaco (rounded to whole hectares)?",
+      "unit": {
+        "one": "hectare",
+        "other": "hectares"
+      },
+      "fact": "Monaco covers 2.08 km², i.e. 208 hectares – it would fit twice into New York's Central Park. Yet over 38,000 people live there.",
+      "answerNote": "2.08 km² (after the 2024 expansion)."
+    }
+  },
+  {
+    "id": "zemepis-20",
+    "category": "zemepis",
+    "question": "Kolik metrů nad mořem měří hora Fudži, nejvyšší hora Japonska (zaokrouhleno na celé metry)?",
+    "answer": 3776,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Fudži měří 3 776 metrů a je to aktivní sopka – naposledy vybuchla v roce 1707. Každé léto na ni vyleze přes 200 000 lidí.",
+    "sourceTitle": "Wikipedia (EN): Mount Fuji",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Fuji",
+    "sourceQuote": "with a summit elevation of 3,776.24 m (12,389 ft 3 in)",
+    "answerNote": "Přesně 3 776,24 m.",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres above sea level is Mount Fuji, the highest mountain in Japan (rounded to whole metres)?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "Fuji is 3,776 metres tall and an active volcano – it last erupted in 1707. Over 200,000 people climb it every summer.",
+      "answerNote": "Exactly 3,776.24 m."
+    }
+  },
+  {
+    "id": "zemepis-21",
+    "category": "zemepis",
+    "question": "Kolik ostrovů má Japonsko podle oficiálního sčítání z roku 2023?",
+    "answer": 14125,
+    "unit": {
+      "one": "ostrov",
+      "few": "ostrovy",
+      "many": "ostrovů"
+    },
+    "fact": "Japonsko má 14 125 ostrovů – nové sčítání z roku 2023 jich napočítalo dvakrát víc než předchozí z roku 1987, protože se použily přesnější mapy.",
+    "sourceTitle": "Wikipedia (EN): Japan",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Japan",
+    "sourceQuote": "Japan comprises 14,125 islands that extend along the Pacific coast of Asia.",
+    "answerNote": "Sčítání japonského geografického úřadu z roku 2023.",
+    "confidence": "high",
+    "en": {
+      "question": "How many islands does Japan have according to the official 2023 count?",
+      "unit": {
+        "one": "island",
+        "other": "islands"
+      },
+      "fact": "Japan has 14,125 islands – the new 2023 count found twice as many as the previous one from 1987, because more accurate maps were used.",
+      "answerNote": "2023 count by the Geospatial Information Authority of Japan."
+    }
+  },
+  {
+    "id": "zemepis-22",
+    "category": "zemepis",
+    "question": "Kolik kilometrů čtverečních má Rusko, největší stát světa?",
+    "answer": 17098246,
+    "unit": {
+      "one": "kilometr čtvereční",
+      "few": "kilometry čtvereční",
+      "many": "kilometrů čtverečních"
+    },
+    "fact": "Rusko má 17 098 246 km² – větší je jen Antarktida a povrch Pluta. Česko by se do něj vešlo 217krát.",
+    "sourceTitle": "Wikipedia (EN): Russia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Russia",
+    "sourceQuote": "17,098,246 km2 (6,601,670 sq mi) (within internationally recognised borders)",
+    "answerNote": "V mezinárodně uznaných hranicích.",
+    "confidence": "high",
+    "en": {
+      "question": "How many square kilometres is Russia, the largest country in the world?",
+      "unit": {
+        "one": "square kilometre",
+        "other": "square kilometres"
+      },
+      "fact": "Russia covers 17,098,246 km² – only Antarctica and the surface of Pluto are bigger. Czechia would fit into it 217 times.",
+      "answerNote": "Within internationally recognised borders."
+    }
+  },
+  {
+    "id": "zemepis-23",
+    "category": "zemepis",
+    "question": "Kolik metrů měří most Danyang–Kunshan v Číně, nejdelší most světa?",
+    "answer": 164800,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Most Danyang–Kunshan na vysokorychlostní trati Peking–Šanghaj měří 164,8 km. Vlaky ho přejedou zhruba za půl hodiny.",
+    "sourceTitle": "Wikipedia (EN): Danyang–Kunshan Grand Bridge",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Danyang%E2%80%93Kunshan_Grand_Bridge",
+    "sourceQuote": "The Danyang–Kunshan Grand Bridge is a 164.8-kilometre-long (102.4 mi) viaduct on the Beijing–Shanghai High-Speed Railway. It is the longest bridge in the world since its designation by Guinness World Record in 2011.",
+    "answerNote": "164,8 km.",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres long is the Danyang–Kunshan Grand Bridge in China, the longest bridge in the world?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "The Danyang–Kunshan Grand Bridge on the Beijing–Shanghai high-speed line is 164.8 km long. Trains cross it in about half an hour.",
+      "answerNote": "164.8 km."
+    }
+  },
+  {
+    "id": "zemepis-24",
+    "category": "zemepis",
+    "question": "Kolik kilometrů měří Gotthardský úpatní tunel ve Švýcarsku, nejdelší železniční tunel světa (zaokrouhleno na celé kilometry)?",
+    "answer": 57,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Gotthardský tunel měří 57 km a vlaky jím projedou za 20 minut. Stavba trvala 17 let a vyžádala si vytěžení 28 milionů tun horniny.",
+    "sourceTitle": "Wikipedia (EN): Gotthard Base Tunnel",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gotthard_Base_Tunnel",
+    "sourceQuote": "With a route length of 57.09 km (35.47 mi), it is the world's longest railway and deepest traffic tunnel.",
+    "answerNote": "Přesně 57,09 km.",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres long is the Gotthard Base Tunnel in Switzerland, the longest railway tunnel in the world (rounded to whole kilometres)?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "The Gotthard Base Tunnel is 57 km long and trains pass through it in 20 minutes. Construction took 17 years and 28 million tonnes of rock had to be excavated.",
+      "answerNote": "Exactly 57.09 km."
+    }
+  },
+  {
+    "id": "zemepis-25",
+    "category": "zemepis",
+    "question": "Kolik nezávislých států leží v Jižní Americe?",
+    "answer": 12,
+    "unit": {
+      "one": "stát",
+      "few": "státy",
+      "many": "států"
+    },
+    "fact": "V Jižní Americe je 12 nezávislých států. Brazílie z nich sousedí se všemi kromě Chile a Ekvádoru.",
+    "sourceTitle": "Wikipedia (EN): South America",
+    "sourceUrl": "https://en.wikipedia.org/wiki/South_America",
+    "sourceQuote": "The continent includes twelve sovereign countries: Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, and Venezuela",
+    "answerNote": "Bez závislých území (Francouzská Guyana, Falklandy).",
+    "confidence": "high",
+    "en": {
+      "question": "How many sovereign countries are there in South America?",
+      "unit": {
+        "one": "country",
+        "other": "countries"
+      },
+      "fact": "South America has 12 sovereign countries. Brazil borders all of them except Chile and Ecuador.",
+      "answerNote": "Excluding dependent territories (French Guiana, Falklands)."
+    }
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "jidlo-01",
+    "category": "jidlo",
+    "question": "Kolik kilokalorií (kcal) má jeden Big Mac podle oficiálních výživových hodnot McDonald's ČR?",
+    "answer": 510,
+    "unit": {
+      "one": "kilokalorie",
+      "few": "kilokalorie",
+      "many": "kilokalorií"
+    },
+    "fact": "Jeden Big Mac má podle výživové tabulky českého McDonald's 2135 kJ, tedy 510 kcal – zhruba čtvrtinu referenčního denního příjmu dospělého. A to ještě bez hranolek a koly.",
+    "sourceTitle": "McDonald's ČR – Big Mac (výživové hodnoty)",
+    "sourceUrl": "https://www.mcdonalds.cz/menu/hovezi-burgery/big-mac/",
+    "sourceQuote": "Energie | 510 kcal | 237 kcal | 25",
+    "answerNote": "Hodnota na porci z tabulky „Výživové hodnoty“ (sloupce Na porci / Na 100g / % RI) na mcdonalds.cz, ověřeno v září 2026; v jiných zemích se hodnoty liší.",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilocalories (kcal) does one Big Mac have according to the official nutrition data of McDonald's Czech Republic?",
+      "unit": {
+        "one": "kilocalorie",
+        "other": "kilocalories"
+      },
+      "fact": "According to the Czech McDonald's nutrition table one Big Mac has 2,135 kJ, i.e. 510 kcal – about a quarter of an adult's daily reference intake. And that's before the fries and the Coke.",
+      "answerNote": "Per-portion value from the 'Nutrition facts' table on mcdonalds.cz, verified September 2026; values differ in other countries."
+    }
+  },
+  {
+    "id": "jidlo-02",
+    "category": "jidlo",
+    "question": "Kolik hot dogů snědl Joey Chestnut za 10 minut, když v roce 2021 stanovil rekord soutěže Nathan's na Coney Islandu?",
+    "answer": 76,
+    "unit": {
+      "one": "hot dog",
+      "few": "hot dogy",
+      "many": "hot dogů"
+    },
+    "fact": "Joey „Jaws“ Chestnut spořádal 4. července 2021 za deset minut 76 hot dogů i s houskami – víc než sedm za minutu. Guinnessova kniha rekordů to eviduje jako mužský rekord soutěže Nathan's Famous.",
+    "sourceTitle": "Guinness World Records – Most hot dogs eaten at a Nathan's contest",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/546576-most-hot-dogs-eaten-at-a-nathans-hot-dog-eating-contest-male",
+    "sourceQuote": "The most hot dogs eaten at a Nathan's Hot Dog Eating Contest (male) is 76 and was achieved by Joey Chestnut (USA) in Coney Island, New York, USA, on 4 July 2021.",
+    "answerNote": "Mužský rekord Nathan's Hot Dog Eating Contest, 4. 7. 2021, časový limit 10 minut.",
+    "confidence": "high",
+    "en": {
+      "question": "How many hot dogs did Joey Chestnut eat in 10 minutes when he set the Nathan's contest record on Coney Island in 2021?",
+      "unit": {
+        "one": "hot dog",
+        "other": "hot dogs"
+      },
+      "fact": "On 4 July 2021 Joey 'Jaws' Chestnut put away 76 hot dogs, buns included, in ten minutes – more than seven a minute. Guinness World Records lists it as the men's record of the Nathan's Famous contest.",
+      "answerNote": "Men's record of the Nathan's Hot Dog Eating Contest, 4 July 2021, 10-minute limit."
+    }
+  },
+  {
+    "id": "jidlo-03",
+    "category": "jidlo",
+    "question": "Kolik jednotek Scovilleovy stupnice (SHU) má v průměru paprička Pepper X, kterou Guinnessova kniha rekordů v roce 2023 vyhlásila nejpálivějším chilli světa?",
+    "answer": 2693000,
+    "unit": {
+      "one": "SHU",
+      "few": "SHU",
+      "many": "SHU"
+    },
+    "fact": "Papričku Pepper X vyšlechtil Američan Ed Currie, autor i předchozího rekordmana Carolina Reaper (průměrně 1,64 milionu SHU). Guinness jí v říjnu 2023 uznal průměrných 2 693 000 SHU – pálivost oproti Reaperu stoupla o víc než milion jednotek.",
+    "sourceTitle": "Guinness World Records – Pepper X dethrones Carolina Reaper",
+    "sourceUrl": "https://www.guinnessworldrecords.com/news/2023/10/pepper-x-dethrones-carolina-reaper-as-worlds-hottest-chilli-pepper-759706",
+    "sourceQuote": "'Pepper X' is now officially the world's hottest chilli pepper, rating at an average of 2,693,000 Scoville Heat Units (SHU).",
+    "answerNote": "Průměrná naměřená hodnota; rekord oznámen Guinness World Records 16. 10. 2023.",
+    "confidence": "high",
+    "en": {
+      "question": "How many Scoville heat units (SHU) does Pepper X, declared the world's hottest chilli by Guinness World Records in 2023, have on average?",
+      "unit": {
+        "one": "SHU",
+        "other": "SHU"
+      },
+      "fact": "Pepper X was bred by American Ed Currie, who also created the previous record holder, the Carolina Reaper (averaging 1.64 million SHU). In October 2023 Guinness credited it with an average of 2,693,000 SHU – over a million units hotter than the Reaper.",
+      "answerNote": "Average measured value; record announced by Guinness World Records on 16 Oct 2023."
+    }
+  },
+  {
+    "id": "jidlo-04",
+    "category": "jidlo",
+    "question": "Kolik litrů piva vypil v roce 2023 průměrný obyvatel Česka podle Českého svazu pivovarů a sladoven?",
+    "answer": 128,
+    "unit": {
+      "one": "litr",
+      "few": "litry",
+      "many": "litrů"
+    },
+    "fact": "Spotřeba piva v Česku klesla v roce 2023 na historické minimum 128 litrů na hlavu – pořád je to ale 256 půllitrů ročně, tedy bezmála pět týdně. Pokles překonal i nejnižší hodnoty z doby covidových omezení.",
+    "sourceTitle": "Český svaz pivovarů a sladoven – tisková zpráva 2024",
+    "sourceUrl": "https://ceske-pivo.cz/tz2024/spotreba-piva-v-cesku-dale-klesa-roste-pouze-kategorie-nealkoholickeho-piva",
+    "sourceQuote": "Ta v loňském roce dosáhla historického minima s hodnotou 128 litrů a překonala i nejnižší průměrné hodnoty spotřeby z doby covidových omezení.",
+    "answerNote": "Průměrná spotřeba na obyvatele za rok 2023 podle tiskové zprávy ČSPS vydané v roce 2024 („v loňském roce“ = 2023).",
+    "confidence": "high",
+    "en": {
+      "question": "How many litres of beer did the average Czech drink in 2023 according to the Czech Beer and Malt Association?",
+      "unit": {
+        "one": "litre",
+        "other": "litres"
+      },
+      "fact": "Czech beer consumption fell in 2023 to a record low of 128 litres per head – still 256 pints a year, or almost five a week. The drop went below even the lowest figures from the Covid restrictions.",
+      "answerNote": "Average per-capita consumption for 2023 according to the 2024 press release of the Czech Beer and Malt Association ('last year' = 2023)."
+    }
+  },
+  {
+    "id": "jidlo-05",
+    "category": "jidlo",
+    "question": "Kolik gramů vážila nejtěžší jahoda světa zapsaná v Guinnessově knize rekordů (Izrael, 2021)?",
+    "answer": 322,
+    "unit": {
+      "one": "gram",
+      "few": "gramy",
+      "many": "gramů"
+    },
+    "fact": "Nejtěžší jahoda světa vážila 322 gramů – víc než kostka másla. Vypěstoval ji izraelský farmář Chahi Ariel v Kadima-Zoran a Guinnessova kniha rekordů ji ověřila 5. března 2021.",
+    "sourceTitle": "Guinness World Records – Heaviest strawberry",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/heaviest-strawberry",
+    "sourceQuote": "The heaviest strawberry weighs 322 g (11.35 oz) and was grown by Chahi Ariel (Israel)",
+    "answerNote": "Rekord ověřen 5. 3. 2021 v Kadima-Zoran, Izrael.",
+    "confidence": "high",
+    "en": {
+      "question": "How many grams did the heaviest strawberry in the world, recorded by Guinness World Records (Israel, 2021), weigh?",
+      "unit": {
+        "one": "gram",
+        "other": "grams"
+      },
+      "fact": "The world's heaviest strawberry weighed 322 grams – more than a pack of butter. Israeli farmer Chahi Ariel grew it in Kadima-Zoran and Guinness World Records verified it on 5 March 2021.",
+      "answerNote": "Record verified on 5 March 2021 in Kadima-Zoran, Israel."
+    }
+  },
+  {
+    "id": "jidlo-06",
+    "category": "jidlo",
+    "question": "Kolik měsíců musí minimálně zrát sýr Parmigiano Reggiano, aby směl nést své chráněné označení?",
+    "answer": 12,
+    "unit": {
+      "one": "měsíc",
+      "few": "měsíce",
+      "many": "měsíců"
+    },
+    "fact": "Parmigiano Reggiano musí podle pravidel konsorcia zrát nejméně 12 měsíců – teprve pak projde kontrolou kvality a smí nést chráněné označení. Mnohé bochníky ale zrají dva roky i déle.",
+    "sourceTitle": "Consorzio del Formaggio Parmigiano Reggiano – FAQ",
+    "sourceUrl": "https://www.parmigianoreggiano.com/en-US/faq",
+    "sourceQuote": "For Parmigiano Reggiano, the minimum maturation time is 12 months.",
+    "answerNote": "Minimální doba zrání podle oficiálních FAQ konsorcia Parmigiano Reggiano.",
+    "confidence": "high",
+    "en": {
+      "question": "How many months must Parmigiano Reggiano cheese be aged at minimum to carry its protected designation?",
+      "unit": {
+        "one": "month",
+        "other": "months"
+      },
+      "fact": "Under the consortium's rules Parmigiano Reggiano must age for at least 12 months – only then does it pass quality inspection and earn the protected name. Many wheels age for two years or more.",
+      "answerNote": "Minimum maturation according to the official FAQ of the Parmigiano Reggiano consortium."
+    }
+  },
+  {
+    "id": "jidlo-07",
+    "category": "jidlo",
+    "question": "Za kolik britských liber se v roce 2023 v aukční síni Sotheby's vydražila láhev whisky The Macallan 1926 (Valerio Adami) – nejdražší láhev whisky v historii aukcí?",
+    "answer": 2187500,
+    "unit": {
+      "one": "libra",
+      "few": "libry",
+      "many": "liber"
+    },
+    "fact": "Láhev The Macallan 1926 zrála 60 let a etiketu jí navrhl italský malíř Valerio Adami. V Sotheby's v Londýně se 18. listopadu 2023 prodala za 2 187 500 liber – téměř dvojnásobek horního odhadu 1,2 milionu liber.",
+    "sourceTitle": "Sotheby's – The Macallan Valerio Adami 60 Year Old",
+    "sourceUrl": "https://www.sothebys.com/en/articles/the-macallan-valerio-adami-60-year-old-revisiting-the-most-expensive-whisky-ever-sold",
+    "sourceQuote": "The Macallan Valerio Adami 60 Year Old hammered for 2,187,500 GBP - nearly twice the maximum estimate of 1,200,000 GBP.",
+    "answerNote": "Cena 2 187 500 GBP dosažená 18. 11. 2023 v Sotheby's Londýn; aukční rekord za láhev whisky.",
+    "confidence": "high",
+    "en": {
+      "question": "How many pounds sterling did a bottle of The Macallan 1926 (Valerio Adami) – the most expensive bottle of whisky ever auctioned – sell for at Sotheby's in 2023?",
+      "unit": {
+        "one": "pound",
+        "other": "pounds"
+      },
+      "fact": "The bottle of The Macallan 1926 was aged for 60 years and its label was designed by Italian painter Valerio Adami. At Sotheby's in London on 18 November 2023 it sold for £2,187,500 – almost double the top estimate of £1.2 million.",
+      "answerNote": "£2,187,500 achieved on 18 Nov 2023 at Sotheby's London; auction record for a bottle of whisky."
+    }
+  },
+  {
+    "id": "jidlo-08",
+    "category": "jidlo",
+    "question": "Kolik gramů cukru obsahuje podle výrobce jedna americká plechovka Coca-Coly (12 uncí, tj. 355 ml)?",
+    "answer": 39,
+    "unit": {
+      "one": "gram",
+      "few": "gramy",
+      "many": "gramů"
+    },
+    "fact": "Coca-Cola sama uvádí, že v americké plechovce o objemu 12 uncí (355 ml) je 39 gramů cukru a 140 kalorií – při čtyřgramových kostkách to je bezmála deset kostek cukru v jedné plechovce.",
+    "sourceTitle": "Coca-Cola USA – FAQ: How much sugar is in Coca-Cola?",
+    "sourceUrl": "https://www.coca-cola.com/us/en/about-us/faq/how-much-sugar-is-in-coca-cola",
+    "sourceQuote": "There are 39 grams of sugar in a 12 oz Coca‑Cola can.",
+    "answerNote": "Údaj z oficiálních FAQ Coca-Cola USA pro plechovku 12 fl oz (355 ml); evropské receptury a balení se liší.",
+    "confidence": "high",
+    "en": {
+      "question": "How many grams of sugar does one US can of Coca-Cola (12 oz, i.e. 355 ml) contain according to the manufacturer?",
+      "unit": {
+        "one": "gram",
+        "other": "grams"
+      },
+      "fact": "Coca-Cola itself states that a US 12 oz (355 ml) can contains 39 grams of sugar and 140 calories – at four grams a cube, that's almost ten sugar cubes in one can.",
+      "answerNote": "From the official Coca-Cola USA FAQ for a 12 fl oz (355 ml) can; European recipes and packaging differ."
+    }
+  },
+  {
+    "id": "jidlo-09",
+    "category": "jidlo",
+    "question": "Kolik gramů vážilo nejtěžší jablko světa podle Guinnessovy knihy rekordů (Japonsko, 2005)?",
+    "answer": 1849,
+    "unit": {
+      "one": "gram",
+      "few": "gramy",
+      "many": "gramů"
+    },
+    "fact": "Rekordní jablko vážilo 1,849 kg – bezmála dvě kila – a sklidil ho pěstitel Chisato Iwasaki na své farmě v japonském Hirosaki 24. října 2005. Rekord platí už přes dvacet let.",
+    "sourceTitle": "Guinness World Records – Heaviest apple",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/heaviest-apple",
+    "sourceQuote": "The heaviest apple weighed 1.849 kg (4 lb 1 oz) and was grown and picked by Chisato Iwasaki at his apple farm in Hirosaki City, Japan October 24 2005.",
+    "answerNote": "Guinness uvádí 1,849 kg, tj. 1 849 g.",
+    "confidence": "high",
+    "en": {
+      "question": "How many grams did the world's heaviest apple, recorded by Guinness World Records (Japan, 2005), weigh?",
+      "unit": {
+        "one": "gram",
+        "other": "grams"
+      },
+      "fact": "The record apple weighed 1.849 kg – almost two kilos – and was picked by grower Chisato Iwasaki on his farm in Hirosaki, Japan on 24 October 2005. The record has stood for over twenty years.",
+      "answerNote": "Guinness gives 1.849 kg, i.e. 1,849 g."
+    }
+  },
+  {
+    "id": "jidlo-10",
+    "category": "jidlo",
+    "question": "Kolik litrů vína pojme obří láhev šampaňského zvaná Nebukadnezar (Nebuchadnezzar)?",
+    "answer": 15,
+    "unit": {
+      "one": "litr",
+      "few": "litry",
+      "many": "litrů"
+    },
+    "fact": "Velké láhve šampaňského nesou jména biblických králů: Nebukadnezar pojme 15 litrů, tedy dvacet běžných lahví. A ještě větší Melchior má 18 litrů, což je 24 lahví.",
+    "sourceTitle": "Wikipedia (EN): Wine bottle",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wine_bottle",
+    "sourceQuote": "15.0 | 20 | Nebuchadnezzar | Biblical, King of Babylon",
+    "answerNote": "Podle tabulky velikostí lahví: 15,0 l = 20 standardních lahví po 0,75 l (Champagne, Bordeaux, Burgundsko).",
+    "confidence": "high",
+    "en": {
+      "question": "How many litres of wine does the giant champagne bottle called a Nebuchadnezzar hold?",
+      "unit": {
+        "one": "litre",
+        "other": "litres"
+      },
+      "fact": "Large champagne bottles are named after biblical kings: a Nebuchadnezzar holds 15 litres, or twenty standard bottles. The even bigger Melchior holds 18 litres, i.e. 24 bottles.",
+      "answerNote": "According to the bottle size table: 15.0 l = 20 standard 0.75 l bottles (Champagne, Bordeaux, Burgundy)."
+    }
+  },
+  {
+    "id": "jidlo-11",
+    "category": "jidlo",
+    "question": "Kolik procent alkoholu má Becherovka?",
+    "answer": 38,
+    "unit": {
+      "one": "%",
+      "few": "%",
+      "many": "%"
+    },
+    "fact": "Becherovka má 38 % alkoholu a její přesné složení znají jen dva lidé ve firmě. Původně se v roce 1807 prodávala jako žaludeční kapky.",
+    "sourceTitle": "Wikipedia (EN): Becherovka",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Becherovka",
+    "sourceQuote": "Its alcohol content is 38% ABV (76 proof), and it is usually served chilled.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "What percentage of alcohol does the Czech herbal liqueur Becherovka contain?",
+      "unit": {
+        "one": "%",
+        "other": "%"
+      },
+      "fact": "Becherovka is 38% alcohol and its exact recipe is known to only two people at the company. It was originally sold in 1807 as stomach drops.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "jidlo-12",
+    "category": "jidlo",
+    "question": "Z kolika bylin, plodů, kořenů a koření se vyrábí likér Jägermeister?",
+    "answer": 56,
+    "unit": {
+      "one": "ingredience",
+      "few": "ingredience",
+      "many": "ingrediencí"
+    },
+    "fact": "Jägermeister obsahuje 56 bylin, plodů, kořenů a koření včetně šafránu, zázvoru a lékořice. Recept je od roku 1934 stejný.",
+    "sourceTitle": "Wikipedia (EN): Jägermeister",
+    "sourceUrl": "https://en.wikipedia.org/wiki/J%C3%A4germeister",
+    "sourceQuote": "Jägermeister's ingredients consist of 56 herbs, fruits, roots, and spices, including citrus peel, licorice, anise, saffron, and ginger.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many herbs, fruits, roots and spices is Jägermeister made from?",
+      "unit": {
+        "one": "ingredient",
+        "other": "ingredients"
+      },
+      "fact": "Jägermeister contains 56 herbs, fruits, roots and spices including saffron, ginger and liquorice. The recipe has been the same since 1934.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "jidlo-13",
+    "category": "jidlo",
+    "question": "Kolik procent kakaové sušiny musí podle pravidel EU minimálně obsahovat výrobek, aby se směl nazývat čokoláda?",
+    "answer": 35,
+    "unit": {
+      "one": "%",
+      "few": "%",
+      "many": "%"
+    },
+    "fact": "V EU musí mít čokoláda aspoň 35 % kakaové sušiny. Bílá čokoláda žádnou nemá – proto se jí smí říkat jen „bílá čokoláda“ s adjektivem.",
+    "sourceTitle": "Wikipedia (EN): Types of chocolate",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Types_of_chocolate",
+    "sourceQuote": "European Union rules specify a minimum of 35% cocoa solids.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "What minimum percentage of cocoa solids must a product contain under EU rules to be called chocolate?",
+      "unit": {
+        "one": "%",
+        "other": "%"
+      },
+      "fact": "In the EU chocolate must contain at least 35% cocoa solids. White chocolate has none – which is why it may only be called 'white chocolate' with the adjective.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "jidlo-14",
+    "category": "jidlo",
+    "question": "Kolik gramů soli denně maximálně doporučuje dospělým Světová zdravotnická organizace?",
+    "answer": 5,
+    "unit": {
+      "one": "gram",
+      "few": "gramy",
+      "many": "gramů"
+    },
+    "fact": "WHO doporučuje méně než 5 g soli denně (jedna čajová lžička). Průměrný dospělý na světě jich sní 11.",
+    "sourceTitle": "WHO – Sodium reduction (fact sheet)",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/sodium-reduction",
+    "sourceQuote": "less than 2000 mg/day of sodium (equivalent to less than 5 g/day salt)",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many grams of salt per day at most does the World Health Organization recommend for adults?",
+      "unit": {
+        "one": "gram",
+        "other": "grams"
+      },
+      "fact": "The WHO recommends less than 5 g of salt a day (one teaspoon). The average adult worldwide eats 11.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "jidlo-15",
+    "category": "jidlo",
+    "question": "Kolik mililitrů má britská pinta piva (zaokrouhleno na celé mililitry)?",
+    "answer": 568,
+    "unit": {
+      "one": "mililitr",
+      "few": "mililitry",
+      "many": "mililitrů"
+    },
+    "fact": "Britská pinta má 568 ml, americká jen 473 ml. Kdo si v Londýně objedná pintu, dostane skoro o pětinu víc než v New Yorku.",
+    "sourceTitle": "Wikipedia (EN): Pint",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pint",
+    "sourceQuote": "The imperial pint is equal to one-eighth of an imperial gallon of exactly 4.54609 L, i.e. 568.26125 millilitres.",
+    "answerNote": "Přesně 568,26 ml.",
+    "confidence": "high",
+    "en": {
+      "question": "How many millilitres is a British pint of beer (rounded to whole millilitres)?",
+      "unit": {
+        "one": "millilitre",
+        "other": "millilitres"
+      },
+      "fact": "A British pint is 568 ml, a US pint only 473 ml. Order a pint in London and you get almost a fifth more than in New York.",
+      "answerNote": "Exactly 568.26 ml."
+    }
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "zvirata-01",
+    "category": "zvirata",
+    "question": "Kolik štěňat porodila v roce 2004 fena neapolského mastina Tia z Anglie – největší psí vrh, jaký kdy uznala Guinnessova kniha rekordů?",
+    "answer": 24,
+    "unit": {
+      "one": "štěně",
+      "few": "štěňata",
+      "many": "štěňat"
+    },
+    "fact": "Fena neapolského mastina jménem Tia z hrabství Cambridgeshire přivedla 29. listopadu 2004 na svět rovných 24 štěňat. Kdo někdy hlídal jediné štěně, tuší, jak asi vypadaly následující týdny.",
+    "sourceTitle": "Guinness World Records: Largest litter of dogs",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/largest-litter-dog",
+    "sourceQuote": "The largest litter of puppies is 24, all of whom were born on 29 November 2004 to Tia, a Neapolitan mastiff",
+    "answerNote": "Podle Guinness World Records; vrh z 29. 11. 2004, majitelé Damian Ward a Anne Kellegher.",
+    "confidence": "high",
+    "en": {
+      "question": "How many puppies did Tia, a Neapolitan mastiff from England, have in 2004 – the largest litter ever recognised by Guinness World Records?",
+      "unit": {
+        "one": "puppy",
+        "other": "puppies"
+      },
+      "fact": "Tia, a Neapolitan mastiff from Cambridgeshire, gave birth to a round 24 puppies on 29 November 2004. Anyone who has looked after a single puppy can imagine the weeks that followed.",
+      "answerNote": "According to Guinness World Records; litter born 29 Nov 2004, owners Damian Ward and Anne Kellegher."
+    }
+  },
+  {
+    "id": "zvirata-02",
+    "category": "zvirata",
+    "question": "Kolika let se dožila kočka Creme Puff z texaského Austinu, podle Guinnessovy knihy rekordů nejstarší kočka všech dob?",
+    "answer": 38,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Creme Puff se narodila 3. srpna 1967 a odešla až 6. srpna 2005 – ve věku 38 let a 3 dnů. Devět životů zjevně nepotřebovala, vystačila si s jedním pořádně dlouhým.",
+    "sourceTitle": "Guinness World Records: Oldest cat ever",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/oldest-cat-ever",
+    "sourceQuote": "The oldest cat ever is Creme Puff who was born on 3 August 1967 and lived until 6 August 2005 - an amazing 38 years and 3 days!",
+    "answerNote": "38 let a 3 dny (3. 8. 1967 – 6. 8. 2005); počítá se dovršený věk v letech.",
+    "confidence": "high",
+    "en": {
+      "question": "How many years did Creme Puff from Austin, Texas, the oldest cat ever according to Guinness World Records, live?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "Creme Puff was born on 3 August 1967 and didn't leave until 6 August 2005 – aged 38 years and 3 days. She clearly didn't need nine lives; one really long one was enough.",
+      "answerNote": "38 years and 3 days (3 Aug 1967 – 6 Aug 2005); completed years counted."
+    }
+  },
+  {
+    "id": "zvirata-03",
+    "category": "zvirata",
+    "question": "Kolik kilogramů vážilo srdce plejtváka obrovského, který uvízl na pobřeží severního Atlantiku – největší srdce, jaké kdy bylo u živočicha zváženo?",
+    "answer": 180,
+    "unit": {
+      "one": "kilogram",
+      "few": "kilogramy",
+      "many": "kilogramů"
+    },
+    "fact": "Srdce plejtváka obrovského uvízlého v severním Atlantiku vážilo 180 kilogramů – zhruba jako dva dospělí lidé. Žádný jiný známý živočich nemá větší.",
+    "sourceTitle": "Wikipedia (EN): Blue whale",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Blue_whale",
+    "sourceQuote": "The weight of the heart of a stranded North Atlantic blue whale was 180 kg (400 lb), the largest known in any animal.",
+    "answerNote": "Srdce uvízlého severoatlantického jedince, 180 kg (400 lb).",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilograms did the heart of a blue whale stranded on the North Atlantic coast weigh – the largest heart ever weighed in any animal?",
+      "unit": {
+        "one": "kilogram",
+        "other": "kilograms"
+      },
+      "fact": "The heart of a blue whale stranded in the North Atlantic weighed 180 kilograms – about as much as two adult humans. No other known animal has a bigger one.",
+      "answerNote": "Heart of a stranded North Atlantic individual, 180 kg (400 lb)."
+    }
+  },
+  {
+    "id": "zvirata-04",
+    "category": "zvirata",
+    "question": "Kolik vajec snesla rekordní slepice plemene leghornka bílá za 364 dní v oficiálním testu na Missourské univerzitě, ukončeném v srpnu 1979?",
+    "answer": 371,
+    "unit": {
+      "one": "vejce",
+      "few": "vejce",
+      "many": "vajec"
+    },
+    "fact": "Leghornka s číslem 2988 snesla v testu profesora Harolda V. Bielliera, ukončeném 29. srpna 1979, 371 vajec za 364 dní – v průměru tedy víc než jedno vejce denně. Guinnessova kniha rekordů to dodnes vede jako nejvyšší ověřenou snášku.",
+    "sourceTitle": "Guinness World Records: Most prolific chicken",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/70781-most-prolific-chicken",
+    "sourceQuote": "The highest authenticated rate of egg-laying is 371 in 364 days, laid by a White Leghorn (No. 2988) in an official test conducted by Prof. Harold V. Biellier ending on 29 August 1979",
+    "answerNote": "371 vajec za 364 dní, College of Agriculture, University of Missouri, test ukončen 29. 8. 1979.",
+    "confidence": "high",
+    "en": {
+      "question": "How many eggs did a record White Leghorn hen lay in 364 days in an official test at the University of Missouri that ended in August 1979?",
+      "unit": {
+        "one": "egg",
+        "other": "eggs"
+      },
+      "fact": "White Leghorn no. 2988 laid 371 eggs in 364 days in Professor Harold V. Biellier's test, which ended on 29 August 1979 – more than one egg a day on average. Guinness World Records still lists it as the highest authenticated laying rate.",
+      "answerNote": "371 eggs in 364 days, College of Agriculture, University of Missouri, test ended 29 Aug 1979."
+    }
+  },
+  {
+    "id": "zvirata-05",
+    "category": "zvirata",
+    "question": "Kolika let se dožil mořský mlž Ming (druh Arctica islandica), vylovený v roce 2006 u Islandu – nejstarší známý jednotlivý živočich s přesně určeným věkem?",
+    "answer": 507,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Mlž druhu Arctica islandica, vylovený roku 2006 u severního pobřeží Islandu, měl podle vědců 507 let. Vylíhl se tedy ještě za vlády čínské dynastie Ming – odtud jeho přezdívka.",
+    "sourceTitle": "Wikipedia (EN): Ming (clam)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ming_(clam)",
+    "sourceQuote": "Ming was 507 years old when it was caught.",
+    "answerNote": "507 let v době vylovení (2006), druh Arctica islandica.",
+    "confidence": "high",
+    "en": {
+      "question": "How many years old was Ming the clam (Arctica islandica), dredged up off Iceland in 2006 – the oldest known individual animal with a precisely determined age?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "The Arctica islandica clam dredged up off northern Iceland in 2006 was 507 years old according to scientists. It hatched during the Chinese Ming dynasty – hence the nickname.",
+      "answerNote": "507 years old when caught (2006), species Arctica islandica."
+    }
+  },
+  {
+    "id": "zvirata-06",
+    "category": "zvirata",
+    "question": "Za kolik setin sekundy zaběhla gepardice Sarah z cincinnatské zoo v roce 2012 rekordních 100 metrů na certifikované atletické dráze?",
+    "answer": 595,
+    "unit": {
+      "one": "setina sekundy",
+      "few": "setiny sekundy",
+      "many": "setin sekundy"
+    },
+    "fact": "Jedenáctiletá gepardice Sarah zaběhla v červnu 2012 stovku za 5,95 sekundy, tedy 595 setin, a radar jí naměřil až 98 km/h. Usain Bolt by jí se svým rekordem 9,58 s koukal jen na ocas.",
+    "sourceTitle": "National Geographic (2012)",
+    "sourceUrl": "https://www.nationalgeographic.com/science/article/120802-cheetah-sarah-cincinnati-zoo-fastest-record-science-usain-bolt-olympics",
+    "sourceQuote": "Sarah the cheetah has shattered the world record for the standing 100-meter dash, clocking a time of 5.95 seconds",
+    "answerNote": "5,95 s = 595 setin sekundy; max. rychlost 98 km/h (61 mph).",
+    "confidence": "high",
+    "en": {
+      "question": "In how many hundredths of a second did Sarah the cheetah from Cincinnati Zoo run a record 100 metres on a certified athletics track in 2012?",
+      "unit": {
+        "one": "hundredth of a second",
+        "other": "hundredths of a second"
+      },
+      "fact": "Eleven-year-old Sarah ran the 100 m in June 2012 in 5.95 seconds – 595 hundredths – and radar clocked her at up to 98 km/h. Usain Bolt with his 9.58 s would only see her tail.",
+      "answerNote": "5.95 s = 595 hundredths of a second; top speed 98 km/h (61 mph)."
+    }
+  },
+  {
+    "id": "zvirata-07",
+    "category": "zvirata",
+    "question": "Kolik nohou má rekordní samice mnohonožky Eumillipes persephone ze Západní Austrálie – živočich s nejvíce nohama, jaký byl kdy objeven?",
+    "answer": 1306,
+    "unit": {
+      "one": "noha",
+      "few": "nohy",
+      "many": "nohou"
+    },
+    "fact": "Mnohonožka Eumillipes persephone byla objevena v srpnu 2020 v hloubce 60 metrů pod zemí v západoaustralské oblasti Eastern Goldfields. Rekordní samice má 1 306 nohou – jako první mnohonožka na světě tak opravdu překonala tisícovku.",
+    "sourceTitle": "Wikipedia (EN): Eumillipes",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eumillipes",
+    "sourceQuote": "This millipede can have as many as 1,306 legs, which makes this species the animal with the most legs on Earth and the first millipede discovered to have 1,000 legs or more",
+    "answerNote": "Samice-paratyp s 1 306 nohama, nalezena v srpnu 2020; druh popsán v roce 2021.",
+    "confidence": "high",
+    "en": {
+      "question": "How many legs does the record female of the millipede Eumillipes persephone from Western Australia have – the leggiest animal ever discovered?",
+      "unit": {
+        "one": "leg",
+        "other": "legs"
+      },
+      "fact": "Eumillipes persephone was discovered in August 2020 60 metres underground in Western Australia's Eastern Goldfields. The record female has 1,306 legs – the first millipede in the world to truly pass a thousand.",
+      "answerNote": "Paratype female with 1,306 legs, found August 2020; species described in 2021."
+    }
+  },
+  {
+    "id": "zvirata-08",
+    "category": "zvirata",
+    "question": "Kolik úderů za minutu dosáhla nejvyšší tepová frekvence, jaká kdy byla naměřena u kolibříka (konkrétně u kolibříka modrohrdlého)?",
+    "answer": 1260,
+    "unit": {
+      "one": "úder za minutu",
+      "few": "údery za minutu",
+      "many": "úderů za minutu"
+    },
+    "fact": "Srdce kolibříka modrohrdlého bylo naměřeno na 1 260 úderů za minutu, tedy 21 úderů každou sekundu; v klidu přitom tento ptáček dýchá 250krát za minutu. Lidské srdce by takové tempo vydrželo tak akorát na jednu písničku.",
+    "sourceTitle": "Wikipedia (EN): Hummingbird",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hummingbird",
+    "sourceQuote": "The heart rate of hummingbirds can reach as high as 1,260 beats per minute, a rate measured in a blue-throated hummingbird with a breathing rate of 250 breaths per minute at rest.",
+    "answerNote": "Až 1 260 tepů/min naměřeno u kolibříka modrohrdlého (blue-throated hummingbird).",
+    "confidence": "high",
+    "en": {
+      "question": "How many beats per minute was the highest heart rate ever measured in a hummingbird (specifically a blue-throated hummingbird)?",
+      "unit": {
+        "one": "beat per minute",
+        "other": "beats per minute"
+      },
+      "fact": "A blue-throated hummingbird's heart was measured at 1,260 beats per minute, 21 beats every second; at rest the bird breathes 250 times a minute. A human heart could keep that up for about one song.",
+      "answerNote": "Up to 1,260 bpm measured in a blue-throated hummingbird."
+    }
+  },
+  {
+    "id": "zvirata-09",
+    "category": "zvirata",
+    "question": "Do jaké hloubky v metrech se potopil vorvaňovec zobatý při rekordním ponoru zaznamenaném v roce 2014 u pobřeží Kalifornie – nejhlubším, jaký byl kdy u savce změřen?",
+    "answer": 2992,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Vorvaňovec zobatý se v roce 2014 u pobřeží Kalifornie potopil do hloubky 2 992 metrů – nejhlubší ponor, jaký byl u savce kdy zaznamenán. Tento druh drží i rekord v délce ponoru: v roce 2020 vydržel jeden jedinec pod hladinou 222 minut.",
+    "sourceTitle": "Wikipedia (EN): Cuvier's beaked whale",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cuvier%27s_beaked_whale",
+    "sourceQuote": "In 2014, researchers recorded a dive of 2,992 m (9,816 ft) off the coast of California.",
+    "answerNote": "Ponor 2 992 m (9 816 ft) zaznamenaný v roce 2014 u Kalifornie.",
+    "confidence": "high",
+    "en": {
+      "question": "To what depth in metres did a Cuvier's beaked whale dive in a record dive recorded off California in 2014 – the deepest ever measured in a mammal?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "A Cuvier's beaked whale dived to 2,992 metres off the coast of California in 2014 – the deepest dive ever recorded in a mammal. The species also holds the duration record: in 2020 one individual stayed under for 222 minutes.",
+      "answerNote": "Dive of 2,992 m (9,816 ft) recorded off California in 2014."
+    }
+  },
+  {
+    "id": "zvirata-10",
+    "category": "zvirata",
+    "question": "Kolik kilometrů uletěl rekordní rybák dlouhoocasý z Farnských ostrovů při roční migraci tam a zpět do Antarktidy, kterou v letech 2015–2016 sledovali vědci z Newcastleské univerzity?",
+    "answer": 96000,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Rybák dlouhoocasý váží pouhých 100 gramů, přesto má ze všech ptáků nejdelší tah. Jeden sledovaný jedinec z Farnských ostrovů nalétal mezi Northumberlandem a Weddellovým mořem v Antarktidě 96 000 kilometrů – víc než dvakrát kolem světa.",
+    "sourceTitle": "Newcastle University (2016)",
+    "sourceUrl": "https://www.ncl.ac.uk/press/articles/archive/2016/06/arcticterns/",
+    "sourceQuote": "One bird was found to have made a 96,000km round trip between Northumberland and its winter home in the Weddell Sea, Antarctica.",
+    "answerNote": "Jeden sledovaný jedinec, 96 000 km tam a zpět (Northumberland – Weddellovo moře).",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres did a record Arctic tern from the Farne Islands fly on its annual round trip to Antarctica, tracked by Newcastle University scientists in 2015–2016?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "The Arctic tern weighs just 100 grams yet has the longest migration of any bird. One tracked individual from the Farne Islands flew 96,000 kilometres between Northumberland and the Weddell Sea in Antarctica – more than twice around the world.",
+      "answerNote": "One tracked individual, 96,000 km round trip (Northumberland – Weddell Sea)."
+    }
+  },
+  {
+    "id": "zvirata-11",
+    "category": "zvirata",
+    "question": "Kolik centimetrů měřila krajta mřížkovaná Medusa, podle Guinnessovy knihy rekordů nejdelší had chovaný v zajetí?",
+    "answer": 767,
+    "unit": {
+      "one": "centimetr",
+      "few": "centimetry",
+      "many": "centimetrů"
+    },
+    "fact": "Medusa z Kansas City měřila při měření v roce 2011 7,67 metru a vážila skoro 159 kg. Na fotku se ji muselo držet patnáct lidí.",
+    "sourceTitle": "Wikipedia (EN): Reticulated python",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Reticulated_python",
+    "sourceQuote": "in 2011, Medusa measured 7.67 m (25 ft 2 in) and weighed 158.8 kg (350 lb 2 oz)",
+    "answerNote": "Měření z roku 2011.",
+    "confidence": "high",
+    "en": {
+      "question": "How many centimetres long was Medusa the reticulated python, the longest snake ever kept in captivity according to Guinness World Records?",
+      "unit": {
+        "one": "centimetre",
+        "other": "centimetres"
+      },
+      "fact": "Medusa from Kansas City measured 7.67 metres in 2011 and weighed almost 159 kg. It took fifteen people to hold her for the photo.",
+      "answerNote": "Measured in 2011."
+    }
+  },
+  {
+    "id": "zvirata-12",
+    "category": "zvirata",
+    "question": "Kolik kilometrů uletěl bez zastávky rekordní břehouš rudý při migraci z Aljašky do Tasmánie v roce 2022?",
+    "answer": 13560,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Mladý břehouš s vysílačkou B6 letěl v říjnu 2022 bez jediné zastávky 11 dní a 1 hodinu a urazil nejméně 13 560 km z Aljašky do Tasmánie – nejdelší známý nepřetržitý let ptáka.",
+    "sourceTitle": "Wikipedia (EN): Bar-tailed godwit",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bar-tailed_godwit",
+    "sourceQuote": "It flew a minimum of 13,560 km (8,430 mi) in 11 days 1 hour, a record non-stop distance.",
+    "answerNote": "Minimální naměřená vzdálenost, říjen 2022.",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres did a record bar-tailed godwit fly non-stop from Alaska to Tasmania in 2022?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "A young godwit fitted with tag B6 flew for 11 days and 1 hour without a single stop in October 2022, covering at least 13,560 km from Alaska to Tasmania – the longest known non-stop flight by a bird.",
+      "answerNote": "Minimum measured distance, October 2022."
+    }
+  },
+  {
+    "id": "zvirata-13",
+    "category": "zvirata",
+    "question": "Do jaké hloubky v metrech se potopil rekordní tučňák císařský při ponoru zaznamenaném v roce 1994?",
+    "answer": 564,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Tučňák císařský z kolonie Auster se v roce 1994 potopil do hloubky 564 metrů a pod vodou vydržel skoro 22 minut – žádný jiný pták se ani nepřiblíží.",
+    "sourceTitle": "Wikipedia (EN): Emperor penguin",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Emperor_penguin",
+    "sourceQuote": "In 1994, a penguin from Auster rookery reached a depth of 564 m (1,850 ft); the entire dive took him 21.8 min.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "To what depth in metres did a record emperor penguin dive in a dive recorded in 1994?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "An emperor penguin from the Auster colony dived to 564 metres in 1994 and stayed under for almost 22 minutes – no other bird comes close.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zvirata-14",
+    "category": "zvirata",
+    "question": "Kolik srdcí má chobotnice?",
+    "answer": 3,
+    "unit": {
+      "one": "srdce",
+      "few": "srdce",
+      "many": "srdcí"
+    },
+    "fact": "Chobotnice má tři srdce: jedno hlavní a dvě, která ženou krev žábrami. Krev má navíc modrou, protože kyslík přenáší měď místo železa.",
+    "sourceTitle": "Wikipedia (EN): Octopus",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Octopus",
+    "sourceQuote": "They have three hearts; a systemic or main heart that circulates blood around the body and two branchial or gill hearts that pump it through the two gills.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many hearts does an octopus have?",
+      "unit": {
+        "one": "heart",
+        "other": "hearts"
+      },
+      "fact": "An octopus has three hearts: one main heart and two that pump blood through the gills. Its blood is blue, too, because it carries oxygen with copper instead of iron.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zvirata-15",
+    "category": "zvirata",
+    "question": "Kolika let se dožil kakadu Cookie ze zoo v Brookfieldu, nejstarší známý papoušek?",
+    "answer": 83,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Kakadu Cookie žil v zoo u Chicaga od roku 1934 a zemřel v roce 2016 ve věku 83 let. Přežil několik generací ošetřovatelů.",
+    "sourceTitle": "Wikipedia (EN): Cookie (cockatoo)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cookie_(cockatoo)",
+    "sourceQuote": "Cookie died on August 27, 2016, at 83 years of age.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How old was Cookie the cockatoo from Brookfield Zoo, the oldest known parrot, when he died?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "Cookie the cockatoo lived at the zoo near Chicago from 1934 and died in 2016 aged 83. He outlived several generations of keepers.",
+      "answerNote": ""
+    }
+  }
+]

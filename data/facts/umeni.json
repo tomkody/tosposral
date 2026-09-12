@@ -1,0 +1,470 @@
+[
+  {
+    "id": "umeni-01",
+    "category": "umeni",
+    "question": "Kolik centimetrů měří na výšku Michelangelova socha Davida ve Florencii?",
+    "answer": 517,
+    "unit": {
+      "one": "centimetr",
+      "few": "centimetry",
+      "many": "centimetrů"
+    },
+    "fact": "Michelangelův David měří 517 cm, tedy přes pět metrů. Sochař ho v letech 1501–1504 vytesal z jediného bloku mramoru, na kterém se předtím neúspěšně pokoušeli pracovat dva jiní umělci.",
+    "sourceTitle": "Wikipedia (EN): David (Michelangelo)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/David_(Michelangelo)",
+    "sourceQuote": "517 cm × 199 cm (17 ft × 6.5 ft)",
+    "answerNote": "výška sochy 5,17 m podle infoboxu Wikipedie",
+    "confidence": "high",
+    "en": {
+      "question": "How many centimetres tall is Michelangelo's statue of David in Florence?",
+      "unit": {
+        "one": "centimetre",
+        "other": "centimetres"
+      },
+      "fact": "Michelangelo's David stands 517 cm, over five metres tall. He carved it in 1501–1504 from a single block of marble that two other artists had already tried and failed to work.",
+      "answerNote": "Statue height 5.17 m per the Wikipedia infobox."
+    }
+  },
+  {
+    "id": "umeni-02",
+    "category": "umeni",
+    "question": "Za kolik milionů dolarů se v roce 2017 v aukci prodal obraz Salvator Mundi připisovaný Leonardovi da Vinci (včetně aukční přirážky)?",
+    "answer": 450,
+    "unit": {
+      "one": "milion dolarů",
+      "few": "miliony dolarů",
+      "many": "milionů dolarů"
+    },
+    "fact": "Salvator Mundi se 15. listopadu 2017 v newyorské aukční síni Christie's vydražil za 450 312 500 dolarů, což je dodnes nejvyšší cena za obraz v historii aukcí. V roce 1958 se přitom tentýž obraz prodal jako kopie za pouhých 45 liber.",
+    "sourceTitle": "Guinness World Records",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/62456-most-expensive-painting-sold-at-auction",
+    "sourceQuote": "Salvator Mundi by Leonardo da Vinci, which sold for $450,312,500 (£343,033,000; €383,867,000), including buyer's premium, at an auction held by Christie's in New York, USA, on 15 November 2017",
+    "answerNote": "450 312 500 USD včetně kupní přirážky (kladívková cena 400 milionů), Christie's New York, 15. 11. 2017",
+    "confidence": "high",
+    "en": {
+      "question": "How many million dollars did Salvator Mundi, attributed to Leonardo da Vinci, sell for at auction in 2017 (including buyer's premium)?",
+      "unit": {
+        "one": "million dollars",
+        "other": "million dollars"
+      },
+      "fact": "Salvator Mundi sold at Christie's in New York on 15 November 2017 for $450,312,500, still the highest price ever paid for a painting at auction. In 1958 the same picture had sold as a copy for just £45.",
+      "answerNote": "$450,312,500 including buyer's premium (hammer price $400 million), Christie's New York, 15 Nov 2017."
+    }
+  },
+  {
+    "id": "umeni-03",
+    "category": "umeni",
+    "question": "Kolik věží bude mít podle Gaudího návrhu dokončená bazilika Sagrada Família v Barceloně?",
+    "answer": 18,
+    "unit": {
+      "one": "věž",
+      "few": "věže",
+      "many": "věží"
+    },
+    "fact": "Gaudí navrhl 18 věží: dvanáct pro apoštoly, čtyři pro evangelisty, jednu pro Pannu Marii a nejvyšší, 172,5 metru vysokou, pro Ježíše Krista. Základní kámen byl přitom položen už v roce 1882.",
+    "sourceTitle": "Sagrada Família – oficiální informační brožura č. 4 (PDF)",
+    "sourceUrl": "https://sagradafamilia.org/documents/20142/1000561/Booklet_04.pdf/5eb8514a-7bd2-77d0-15dc-9c9c0315cf23",
+    "sourceQuote": "Gaudí designed a total of eighteen towers, with the shortest twelve on the façades (the bell towers, which will each be roughly 100 meters tall and represent the apostles) and the six tallest in the centre",
+    "answerNote": "počet věží podle Gaudího projektu (12 apoštolů + 4 evangelisté + Panna Marie + Ježíš Kristus)",
+    "confidence": "high",
+    "en": {
+      "question": "How many towers will the completed Sagrada Família basilica in Barcelona have according to Gaudí's design?",
+      "unit": {
+        "one": "tower",
+        "other": "towers"
+      },
+      "fact": "Gaudí designed 18 towers: twelve for the apostles, four for the evangelists, one for the Virgin Mary and the tallest, 172.5 metres, for Jesus Christ. The foundation stone was laid back in 1882.",
+      "answerNote": "Number of towers in Gaudí's design (12 apostles + 4 evangelists + Virgin Mary + Jesus Christ)."
+    }
+  },
+  {
+    "id": "umeni-04",
+    "category": "umeni",
+    "question": "Kolik let trvala stavba katedrály svatého Víta na Pražském hradě od položení základního kamene až po dokončení?",
+    "answer": 585,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Základní kámen katedrály položil Jan Lucemburský v roce 1344, hotovo bylo až v září 1929 za prezidenta Masaryka. Stavba tak trvala 585 let a protáhla se přes gotiku, baroko i novogotiku.",
+    "sourceTitle": "Katedrála sv. Víta – oficiální web",
+    "sourceUrl": "https://www.katedralasvatehovita.cz/en/about-the-cathedral/history-of-the-cathedral/",
+    "sourceQuote": "It took 585 long years before St. Vitus Cathedral was actually completed.",
+    "answerNote": "od položení základního kamene 21. 11. 1344 do dokončení a vysvěcení 28. 9. 1929",
+    "confidence": "high",
+    "en": {
+      "question": "How many years did it take to build St. Vitus Cathedral at Prague Castle, from the foundation stone to completion?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "John of Luxembourg laid the cathedral's foundation stone in 1344; it was finished only in September 1929 under President Masaryk. Construction took 585 years and spanned Gothic, Baroque and Neo-Gothic.",
+      "answerNote": "From the foundation stone on 21 Nov 1344 to completion and consecration on 28 Sept 1929."
+    }
+  },
+  {
+    "id": "umeni-05",
+    "category": "umeni",
+    "question": "Kolik centimetrů je široká Leonardova nástěnná malba Poslední večeře v Miláně?",
+    "answer": 880,
+    "unit": {
+      "one": "centimetr",
+      "few": "centimetry",
+      "many": "centimetrů"
+    },
+    "fact": "Poslední večeře není obraz na plátně: Leonardo ji v letech 1495–1498 namaloval přímo na stěnu refektáře kláštera Santa Maria delle Grazie v Miláně. Měří 460 × 880 cm, takže apoštolové jsou skoro v životní velikosti.",
+    "sourceTitle": "Wikipedia (EN): The Last Supper (Leonardo)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)",
+    "sourceQuote": "460 cm × 880 cm (181 in × 346 in)",
+    "answerNote": "rozměry malby 460 × 880 cm (výška × šířka)",
+    "confidence": "high",
+    "en": {
+      "question": "How many centimetres wide is Leonardo's mural The Last Supper in Milan?",
+      "unit": {
+        "one": "centimetre",
+        "other": "centimetres"
+      },
+      "fact": "The Last Supper isn't a canvas: Leonardo painted it in 1495–1498 straight onto the refectory wall of Santa Maria delle Grazie in Milan. It measures 460 × 880 cm, so the apostles are almost life-size.",
+      "answerNote": "Painting dimensions 460 × 880 cm (height × width)."
+    }
+  },
+  {
+    "id": "umeni-06",
+    "category": "umeni",
+    "question": "Na kolik milionů dolarů byla podle Guinnessovy knihy rekordů oceněna Mona Lisa pro účely pojištění při převozu na výstavu do USA v roce 1962?",
+    "answer": 100,
+    "unit": {
+      "one": "milion dolarů",
+      "few": "miliony dolarů",
+      "many": "milionů dolarů"
+    },
+    "fact": "Když Mona Lisa v prosinci 1962 cestovala z Louvru do Washingtonu a New Yorku, byla pro pojištění oceněna na 100 milionů dolarů. Podle Guinnessovy knihy rekordů jde dodnes o nejvyšší pojistnou hodnotu obrazu v historii.",
+    "sourceTitle": "Guinness World Records",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/highest-insurance-valuation-for-a-painting",
+    "sourceQuote": "The highest known insurance valuation for a painting is $100million (£53.55 million) assessed for the move of The Mona Lisa",
+    "answerNote": "ocenění pro pojištění k 14. 12. 1962 (Guinness World Records)",
+    "confidence": "high",
+    "en": {
+      "question": "How many million dollars was the Mona Lisa valued at for insurance when it travelled to an exhibition in the USA in 1962, according to Guinness World Records?",
+      "unit": {
+        "one": "million dollars",
+        "other": "million dollars"
+      },
+      "fact": "When the Mona Lisa travelled from the Louvre to Washington and New York in December 1962 it was valued at $100 million for insurance. According to Guinness World Records that is still the highest insurance valuation of any painting.",
+      "answerNote": "Insurance valuation as of 14 Dec 1962 (Guinness World Records)."
+    }
+  },
+  {
+    "id": "umeni-07",
+    "category": "umeni",
+    "question": "Za kolik franků prodal Vincent van Gogh v roce 1890 obraz Červená vinice – jediný obraz, o němž je doloženo, že ho za života prodal?",
+    "answer": 400,
+    "unit": {
+      "one": "frank",
+      "few": "franky",
+      "many": "franků"
+    },
+    "fact": "Červenou vinici koupila v roce 1890 na výstavě v Bruselu belgická malířka Anna Boch za 400 franků. Dnes visí v Puškinově muzeu v Moskvě a je jediným obrazem, o kterém se s jistotou ví, že ho Van Gogh za života prodal.",
+    "sourceTitle": "Wikipedia (EN): The Red Vineyard",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Red_Vineyard",
+    "sourceQuote": "sold for 400 francs (US$2,100 in 2025) to Belgian painter and collector Anna Boch",
+    "answerNote": "prodej na výstavě spolku Les XX v Bruselu, 1890",
+    "confidence": "high",
+    "en": {
+      "question": "How many francs did Vincent van Gogh sell The Red Vineyard for in 1890 – the only painting he is documented to have sold in his lifetime?",
+      "unit": {
+        "one": "franc",
+        "other": "francs"
+      },
+      "fact": "Belgian painter Anna Boch bought The Red Vineyard at an exhibition in Brussels in 1890 for 400 francs. It now hangs in the Pushkin Museum in Moscow and is the only painting known for certain to have been sold in Van Gogh's lifetime.",
+      "answerNote": "Sold at the Les XX exhibition in Brussels, 1890."
+    }
+  },
+  {
+    "id": "umeni-08",
+    "category": "umeni",
+    "question": "Kolik oken má koruna Sochy Svobody v New Yorku?",
+    "answer": 25,
+    "unit": {
+      "one": "okno",
+      "few": "okna",
+      "many": "oken"
+    },
+    "fact": "Korunu Sochy Svobody tvoří 7 paprsků a 25 oken, kterými se návštěvníci dívají na newyorský přístav. Od země po špičku pochodně měří socha bezmála 93 metrů.",
+    "sourceTitle": "National Park Service – Statue of Liberty",
+    "sourceUrl": "https://www.nps.gov/stli/learn/historyculture/statue-statistics.htm",
+    "sourceQuote": "25 windows and seven rays make up the crown.",
+    "answerNote": "údaj National Park Service",
+    "confidence": "high",
+    "en": {
+      "question": "How many windows does the crown of the Statue of Liberty in New York have?",
+      "unit": {
+        "one": "window",
+        "other": "windows"
+      },
+      "fact": "The Statue of Liberty's crown has 7 rays and 25 windows through which visitors look out over New York Harbor. From the ground to the tip of the torch the statue is almost 93 metres tall.",
+      "answerNote": "National Park Service figure."
+    }
+  },
+  {
+    "id": "umeni-09",
+    "category": "umeni",
+    "question": "Kolik obrazů a návrhů podle Guinnessovy knihy rekordů vytvořil za svou 75 let trvající kariéru Pablo Picasso?",
+    "answer": 13500,
+    "unit": {
+      "one": "obraz",
+      "few": "obrazy",
+      "many": "obrazů"
+    },
+    "fact": "Guinnessova kniha rekordů vede Picassa jako nejplodnějšího malíře historie: asi 13 500 obrazů a návrhů, 100 000 grafik a rytin, 34 000 knižních ilustrací a 300 soch a keramik.",
+    "sourceTitle": "Guinness World Records",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/most-prolific-painter",
+    "sourceQuote": "Picasso produced about 13,500 paintings and designs, 100,000 prints and engravings, 34,000 book illustrations and 300 sculptures and ceramics.",
+    "answerNote": "odhad Guinness World Records (\"about 13,500 paintings and designs\")",
+    "confidence": "medium",
+    "en": {
+      "question": "How many paintings and designs did Pablo Picasso produce in his 75-year career, according to Guinness World Records?",
+      "unit": {
+        "one": "painting",
+        "other": "paintings"
+      },
+      "fact": "Guinness World Records lists Picasso as the most prolific painter in history: about 13,500 paintings and designs, 100,000 prints and engravings, 34,000 book illustrations and 300 sculptures and ceramics.",
+      "answerNote": "Guinness World Records estimate ('about 13,500 paintings and designs')."
+    }
+  },
+  {
+    "id": "umeni-10",
+    "category": "umeni",
+    "question": "Kolik tun barvy se spotřebuje na jeden kompletní nátěr Eiffelovy věže?",
+    "answer": 60,
+    "unit": {
+      "one": "tuna",
+      "few": "tuny",
+      "many": "tun"
+    },
+    "fact": "Aby Eiffelova věž nerezivěla, natírá se zhruba každých 7 let a na jeden nátěr padne 60 tun barvy. Je z čeho: věž tvoří 18 038 kovových dílů spojených 2,5 milionu nýtů.",
+    "sourceTitle": "Wikipedia (EN): Eiffel Tower",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+    "sourceQuote": "Maintenance of the tower includes applying 60 tons of paint every 7 years to prevent it from rusting.",
+    "answerNote": "údaj Wikipedie (EN): 60 tun barvy každých 7 let",
+    "confidence": "high",
+    "en": {
+      "question": "How many tonnes of paint does one complete repainting of the Eiffel Tower use?",
+      "unit": {
+        "one": "tonne",
+        "other": "tonnes"
+      },
+      "fact": "To keep the Eiffel Tower from rusting it is repainted roughly every 7 years, using 60 tonnes of paint each time. There's plenty to cover: 18,038 metal parts held together by 2.5 million rivets.",
+      "answerNote": "Wikipedia (EN) figure: 60 tonnes of paint every 7 years."
+    }
+  },
+  {
+    "id": "umeni-11",
+    "category": "umeni",
+    "question": "Kolik centimetrů měří Mona Lisa na výšku?",
+    "answer": 77,
+    "unit": {
+      "one": "centimetr",
+      "few": "centimetry",
+      "many": "centimetrů"
+    },
+    "fact": "Mona Lisa je překvapivě malá: jen 77 × 53 cm, namalovaná na topolové desce. V Louvru ji denně vidí přes 20 000 lidí, většinou přes moře hlav a mobilů.",
+    "sourceTitle": "Wikipedia (EN): Mona Lisa",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mona_Lisa",
+    "sourceQuote": "77 cm × 53 cm (30 in × 21 in)",
+    "answerNote": "Výška × šířka: 77 × 53 cm.",
+    "confidence": "high",
+    "en": {
+      "question": "How many centimetres tall is the Mona Lisa?",
+      "unit": {
+        "one": "centimetre",
+        "other": "centimetres"
+      },
+      "fact": "The Mona Lisa is surprisingly small: just 77 × 53 cm, painted on a poplar panel. Over 20,000 people see it at the Louvre every day, mostly over a sea of heads and phones.",
+      "answerNote": "Height × width: 77 × 53 cm."
+    }
+  },
+  {
+    "id": "umeni-12",
+    "category": "umeni",
+    "question": "Kolik metrů měří Burdž Chalífa v Dubaji, nejvyšší budova světa (architektonická výška včetně špice)?",
+    "answer": 828,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Burdž Chalífa měří 828 metrů a má 163 podlaží. Výtahy jedou rychlostí 10 m/s, takže na vyhlídku ve 124. patře dorazíte za minutu.",
+    "sourceTitle": "Wikipedia (EN): Burj Khalifa",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+    "sourceQuote": "a roof height (excluding the antenna, but including a 242.6 m spire) of 828 m (2,717 ft)",
+    "answerNote": "Včetně špice, bez antény; celková výška 829,8 m.",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres tall is the Burj Khalifa in Dubai, the world's tallest building (architectural height including spire)?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "The Burj Khalifa is 828 metres tall with 163 floors. Its lifts travel at 10 m/s, so you reach the observation deck on the 124th floor in a minute.",
+      "answerNote": "Including spire, excluding antenna; total height 829.8 m."
+    }
+  },
+  {
+    "id": "umeni-13",
+    "category": "umeni",
+    "question": "Kolik metrů měří socha Krista Spasitele v Riu de Janeiru (bez podstavce)?",
+    "answer": 30,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Kristus Spasitel měří 30 metrů (plus 8 metrů podstavce) a jeho rozpažené ruce jsou od sebe 28 metrů. Socha je z železobetonu obloženého mastkem a do blesků ji trefí několikrát ročně.",
+    "sourceTitle": "Wikipedia (EN): Christ the Redeemer (statue)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+    "sourceQuote": "the statue is 30 metres (98 ft) high, excluding its 8-metre (26 ft) pedestal, and faces east. The arms stretch 28 metres (92 ft) wide.",
+    "answerNote": "Bez podstavce (8 m).",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres tall is the Christ the Redeemer statue in Rio de Janeiro (excluding the pedestal)?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "Christ the Redeemer is 30 metres tall (plus an 8-metre pedestal) and its outstretched arms span 28 metres. It is reinforced concrete clad in soapstone and gets struck by lightning several times a year.",
+      "answerNote": "Excluding the 8 m pedestal."
+    }
+  },
+  {
+    "id": "umeni-14",
+    "category": "umeni",
+    "question": "Za kolik milionů dolarů koupil Ronald Lauder v roce 2006 Klimtův Portrét Adele Bloch-Bauerové I, tehdy nejdražší obraz světa?",
+    "answer": 135,
+    "unit": {
+      "one": "milion dolarů",
+      "few": "miliony dolarů",
+      "many": "milionů dolarů"
+    },
+    "fact": "„Zlatá Adele“ se v roce 2006 prodala za 135 milionů dolarů, tehdejší rekord. Rakousko ji muselo předtím vydat dědičce původní majitelky – příběh zfilmovala Helen Mirren ve filmu Žena ve zlatém.",
+    "sourceTitle": "Wikipedia (EN): Portrait of Adele Bloch-Bauer I",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Portrait_of_Adele_Bloch-Bauer_I",
+    "sourceQuote": "In June 2006 the Portrait of Adele Bloch-Bauer I was sold to Ronald Lauder for US$135 million for his public art museum, at the time a record price for a painting.",
+    "answerNote": "Soukromý prodej, červen 2006.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million dollars did Ronald Lauder pay in 2006 for Klimt's Portrait of Adele Bloch-Bauer I, then the most expensive painting in the world?",
+      "unit": {
+        "one": "million dollars",
+        "other": "million dollars"
+      },
+      "fact": "The 'Golden Adele' sold in 2006 for $135 million, a record at the time. Austria first had to hand it over to the original owner's heir – a story filmed with Helen Mirren as Woman in Gold.",
+      "answerNote": "Private sale, June 2006."
+    }
+  },
+  {
+    "id": "umeni-15",
+    "category": "umeni",
+    "question": "Kolik metrů měří Petronas Towers v Kuala Lumpuru, nejvyšší dvojčata na světě (zaokrouhleno na celé metry)?",
+    "answer": 452,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Petronas Towers měří 451,9 m a mají 88 pater. V letech 1998–2004 to byla nejvyšší budova světa; ve 41. patře je spojuje 58 metrů dlouhý most.",
+    "sourceTitle": "Wikipedia (EN): Petronas Towers",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Petronas_Towers",
+    "sourceQuote": "are an interlinked pair of 88-storey supertall skyscrapers in Kuala Lumpur, Malaysia, standing at 451.9 m (1,483 ft).",
+    "answerNote": "Přesně 451,9 m.",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres tall are the Petronas Towers in Kuala Lumpur, the tallest twin towers in the world (rounded to whole metres)?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "The Petronas Towers stand 451.9 m tall with 88 floors. They were the world's tallest building from 1998 to 2004; a 58-metre skybridge links them on the 41st floor.",
+      "answerNote": "Exactly 451.9 m."
+    }
+  },
+  {
+    "id": "umeni-16",
+    "category": "umeni",
+    "question": "Kolik metrů měří Velká sfinga v Gíze na délku (od tlap po ocas)?",
+    "answer": 73,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Sfinga je 73 metrů dlouhá a 20 metrů vysoká a je vytesaná z jediného kusu vápence. Nos jí chybí už nejméně od 15. století.",
+    "sourceTitle": "Wikipedia (EN): Great Sphinx of Giza",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza",
+    "sourceQuote": "The monument is 73 m (240 ft) long from paw to tail, 20 m (66 ft) high from the base to the top of the head, and 19 m (62 ft) wide at its rear haunches.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres long is the Great Sphinx of Giza (from paw to tail)?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "The Sphinx is 73 metres long and 20 metres high, carved from a single mass of limestone. Its nose has been missing since at least the 15th century.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "umeni-17",
+    "category": "umeni",
+    "question": "Kolik detektivních románů napsala Agatha Christie?",
+    "answer": 66,
+    "unit": {
+      "one": "román",
+      "few": "romány",
+      "many": "románů"
+    },
+    "fact": "Agatha Christie napsala 66 detektivek a 14 povídkových sbírek a prodalo se jich přes dvě miliardy – víc má jen Bible a Shakespeare.",
+    "sourceTitle": "Wikipedia (EN): Agatha Christie",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Agatha_Christie",
+    "sourceQuote": "was an English author known for her 66 detective novels and 14 short-story collections",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many detective novels did Agatha Christie write?",
+      "unit": {
+        "one": "novel",
+        "other": "novels"
+      },
+      "fact": "Agatha Christie wrote 66 detective novels and 14 short-story collections, which have sold over two billion copies – only the Bible and Shakespeare have sold more.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "umeni-18",
+    "category": "umeni",
+    "question": "Kolik sonetů napsal William Shakespeare?",
+    "answer": 154,
+    "unit": {
+      "one": "sonet",
+      "few": "sonety",
+      "many": "sonetů"
+    },
+    "fact": "Shakespeare napsal 154 sonetů, poprvé vyšly společně v roce 1609. Prvních 126 je adresováno mladému muži, zbytek tajemné „temné dámě“.",
+    "sourceTitle": "Wikipedia (EN): Shakespeare's sonnets",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Shakespeare%27s_sonnets",
+    "sourceQuote": "the 154 sonnets that were first published all together in a quarto in 1609.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many sonnets did William Shakespeare write?",
+      "unit": {
+        "one": "sonnet",
+        "other": "sonnets"
+      },
+      "fact": "Shakespeare wrote 154 sonnets, first published together in 1609. The first 126 are addressed to a young man, the rest to a mysterious 'Dark Lady'.",
+      "answerNote": ""
+    }
+  }
+]

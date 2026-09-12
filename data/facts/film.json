@@ -1,0 +1,496 @@
+[
+  {
+    "id": "film-01",
+    "category": "film",
+    "question": "Kolik dílů má seriál Přátelé (Friends) celkem za všech deset řad?",
+    "answer": 236,
+    "unit": {
+      "one": "díl",
+      "few": "díly",
+      "many": "dílů"
+    },
+    "fact": "Přátelé běželi deset řad, od pilotního dílu 22. září 1994 po finále 6. května 2004, a nasbírali přesně 236 dílů. Ross se mezitím stihl třikrát rozvést.",
+    "sourceTitle": "Wikipedia (EN): List of Friends episodes",
+    "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Friends_episodes",
+    "sourceQuote": "the series finished its ten-season run with the series finale on May 6, 2004, with 236 episodes.",
+    "answerNote": "10 řad (1994–2004); bez speciálu Friends: The Reunion (2021).",
+    "confidence": "high",
+    "en": {
+      "question": "How many episodes of Friends were made across all ten seasons?",
+      "unit": {
+        "one": "episode",
+        "other": "episodes"
+      },
+      "fact": "Friends ran for ten seasons, from the pilot on 22 September 1994 to the finale on 6 May 2004, and racked up exactly 236 episodes. Ross managed three divorces in the meantime.",
+      "answerNote": "10 seasons (1994–2004); excluding Friends: The Reunion (2021)."
+    }
+  },
+  {
+    "id": "film-02",
+    "category": "film",
+    "question": "Kolik cen Emmy (Primetime Emmy Awards) získal seriál Hra o trůny za celou dobu svého vysílání?",
+    "answer": 59,
+    "unit": {
+      "one": "cena",
+      "few": "ceny",
+      "many": "cen"
+    },
+    "fact": "Hra o trůny nasbírala 59 cen Primetime Emmy – nejvíc ze všech dramatických seriálů v historii. Ani rozporuplná poslední řada tomu nezabránila: v roce 2019 seriál ještě vyhrál cenu za nejlepší drama.",
+    "sourceTitle": "Wikipedia (EN): Game of Thrones",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Game_of_Thrones",
+    "sourceQuote": "The series received 59 Primetime Emmy Awards, the most by a drama series, including Outstanding Drama Series in 2015, 2016, 2018 and 2019.",
+    "answerNote": "Celkem 59 Primetime Emmy včetně technických kategorií (Creative Arts); 8 řad, 2011–2019.",
+    "confidence": "high",
+    "en": {
+      "question": "How many Primetime Emmy Awards did Game of Thrones win over its entire run?",
+      "unit": {
+        "one": "award",
+        "other": "awards"
+      },
+      "fact": "Game of Thrones collected 59 Primetime Emmys – the most of any drama series in history. Even the divisive final season didn't stop it: the show still won Outstanding Drama Series in 2019.",
+      "answerNote": "59 Primetime Emmys in total including Creative Arts categories; 8 seasons, 2011–2019."
+    }
+  },
+  {
+    "id": "film-03",
+    "category": "film",
+    "question": "Kolik oficiálních bondovek (filmů produkovaných společností Eon Productions) vzniklo od roku 1962 do roku 2025?",
+    "answer": 25,
+    "unit": {
+      "one": "film",
+      "few": "filmy",
+      "many": "filmů"
+    },
+    "fact": "Od Dr. No (1962) po Není čas zemřít (2021) natočila Eon Productions přesně 25 oficiálních bondovek. Dvě další – Casino Royale z roku 1967 a Nikdy neříkej nikdy z roku 1983 – se do oficiální série nepočítají.",
+    "sourceTitle": "Wikipedia (EN): James Bond in film",
+    "sourceUrl": "https://en.wikipedia.org/wiki/James_Bond_in_film",
+    "sourceQuote": "The Eon series currently has twenty-five films, with the most recent, No Time to Die, released in September 2021.",
+    "answerNote": "Pouze oficiální série Eon Productions, stav k roku 2025 (poslední film No Time to Die, 2021); nezapočítány Casino Royale (1967) a Never Say Never Again (1983).",
+    "confidence": "high",
+    "en": {
+      "question": "How many official James Bond films (produced by Eon Productions) were made from 1962 to 2025?",
+      "unit": {
+        "one": "film",
+        "other": "films"
+      },
+      "fact": "From Dr. No (1962) to No Time to Die (2021), Eon Productions made exactly 25 official Bond films. Two others – Casino Royale (1967) and Never Say Never Again (1983) – don't count as part of the official series.",
+      "answerNote": "Official Eon Productions series only, as of 2025 (latest film No Time to Die, 2021); excludes Casino Royale (1967) and Never Say Never Again (1983)."
+    }
+  },
+  {
+    "id": "film-04",
+    "category": "film",
+    "question": "Kolik dní trvalo hlavní natáčení celé filmové trilogie Pán prstenů na Novém Zélandu?",
+    "answer": 438,
+    "unit": {
+      "one": "den",
+      "few": "dny",
+      "many": "dní"
+    },
+    "fact": "Peter Jackson natáčel všechny tři díly Pána prstenů najednou: hlavní natáčení běželo od 11. října 1999 do 22. prosince 2000, celkem 438 dní. Dotáčky pak probíhaly každý rok až do roku 2003.",
+    "sourceTitle": "Wikipedia (EN): Production of The Lord of the Rings film series",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Production_of_The_Lord_of_the_Rings_film_series",
+    "sourceQuote": "Principal photography for The Lord of the Rings film trilogy was conducted concurrently in New Zealand for 438 days from 11 October 1999 through 22 December 2000.",
+    "answerNote": "Pouze hlavní natáčení (principal photography), bez pozdějších dotáček.",
+    "confidence": "high",
+    "en": {
+      "question": "How many days did principal photography of the entire Lord of the Rings trilogy take in New Zealand?",
+      "unit": {
+        "one": "day",
+        "other": "days"
+      },
+      "fact": "Peter Jackson shot all three Lord of the Rings films at once: principal photography ran from 11 October 1999 to 22 December 2000, a total of 438 days. Pick-up shoots then continued every year until 2003.",
+      "answerNote": "Principal photography only, excluding later pick-ups."
+    }
+  },
+  {
+    "id": "film-05",
+    "category": "film",
+    "question": "Kolik milionů dolarů utržil film Avatar (2009) v kinech po celém světě, včetně všech obnovených premiér (stav k září 2026)?",
+    "answer": 2924,
+    "unit": {
+      "one": "milion dolarů",
+      "few": "miliony dolarů",
+      "many": "milionů dolarů"
+    },
+    "fact": "Avatar Jamese Camerona utržil v kinech po celém světě 2 923 710 708 dolarů – bezmála tři miliardy. Nejde jen o původní uvedení z roku 2009, číslo zahrnuje i pozdější obnovené premiéry.",
+    "sourceTitle": "Box Office Mojo: Avatar (2009)",
+    "sourceUrl": "https://www.boxofficemojo.com/title/tt0499549/",
+    "sourceQuote": "Worldwide $2,923,710,708",
+    "answerNote": "Celosvětové tržby 2 923 710 708 USD (všechna uvedení do kin, stav k září 2026), zaokrouhleno na celé miliony.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million dollars has Avatar (2009) grossed worldwide, including all re-releases (as of September 2026)?",
+      "unit": {
+        "one": "million dollars",
+        "other": "million dollars"
+      },
+      "fact": "James Cameron's Avatar has grossed $2,923,710,708 worldwide – nearly three billion. That's not just the 2009 run; the figure includes its later re-releases.",
+      "answerNote": "Worldwide gross of $2,923,710,708 (all theatrical releases, as of September 2026), rounded to whole millions."
+    }
+  },
+  {
+    "id": "film-06",
+    "category": "film",
+    "question": "Kolik nominací na Oscara nasbírala Meryl Streepová za svou kariéru (stav k roku 2026)?",
+    "answer": 21,
+    "unit": {
+      "one": "nominace",
+      "few": "nominace",
+      "many": "nominací"
+    },
+    "fact": "Meryl Streepová drží rekord mezi všemi herci a herečkami: 21 nominací na Oscara, z toho 17 za hlavní a 4 za vedlejší roli. Proměnila „jen“ tři – za Kramerová versus Kramer, Sophiinu volbu a Železnou lady.",
+    "sourceTitle": "Wikipedia (EN): List of awards and nominations received by Meryl Streep",
+    "sourceUrl": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Meryl_Streep",
+    "sourceQuote": "She holds the record for the most Academy Award nominations of any actor, having been nominated 21 times—17 for Best Actress, and four for Best Supporting Actress",
+    "answerNote": "Herecké nominace (17× hlavní role, 4× vedlejší role), stav k roku 2026.",
+    "confidence": "high",
+    "en": {
+      "question": "How many Oscar nominations has Meryl Streep received in her career (as of 2026)?",
+      "unit": {
+        "one": "nomination",
+        "other": "nominations"
+      },
+      "fact": "Meryl Streep holds the record among all actors: 21 Oscar nominations, 17 for Best Actress and 4 for Best Supporting Actress. She has won 'only' three – for Kramer vs. Kramer, Sophie's Choice and The Iron Lady.",
+      "answerNote": "Acting nominations (17 lead, 4 supporting), as of 2026."
+    }
+  },
+  {
+    "id": "film-07",
+    "category": "film",
+    "question": "Kolik diváků přišlo na Pelíšky (1999) do českých kin?",
+    "answer": 1059182,
+    "unit": {
+      "one": "divák",
+      "few": "diváci",
+      "many": "diváků"
+    },
+    "fact": "Hřebejkovy Pelíšky přilákaly do českých kin 1 059 182 diváků a zařadily se tak mezi hrstku polistopadových českých filmů, které překonaly hranici milionu. A to nepočítáme každoroční vánoční reprízy v televizi.",
+    "sourceTitle": "Wikipedie (CS): Seznam nejnavštěvovanějších českých filmů",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Seznam_nejnav%C5%A1t%C4%9Bvovan%C4%9Bj%C5%A1%C3%ADch_%C4%8Desk%C3%BDch_film%C5%AF",
+    "sourceQuote": "Pelíšky 1 059 182 1999",
+    "answerNote": "Návštěvnost v kinech v ČR podle údajů Unie filmových distributorů (seznam aktuální k lednu 2026).",
+    "confidence": "medium",
+    "en": {
+      "question": "How many cinema admissions did the Czech film Cosy Dens (Pelíšky, 1999) have in Czech cinemas?",
+      "unit": {
+        "one": "admission",
+        "other": "admissions"
+      },
+      "fact": "Jan Hřebejk's Cosy Dens drew 1,059,182 people to Czech cinemas, one of only a handful of post-1989 Czech films to pass the million mark. And that's without counting the annual Christmas TV reruns.",
+      "answerNote": "Czech cinema admissions according to the Union of Film Distributors (list current as of January 2026)."
+    }
+  },
+  {
+    "id": "film-08",
+    "category": "film",
+    "question": "Kolik Českých lvů získal film Masaryk (2016), dosud rekordman v počtu těchto cen?",
+    "answer": 12,
+    "unit": {
+      "one": "lev",
+      "few": "lvi",
+      "many": "lvů"
+    },
+    "fact": "Životopisné drama Masaryk režiséra Julia Ševčíka posbíralo za rok 2016 rekordních 12 Českých lvů. Tenhle rekord zatím žádný jiný český film nepřekonal.",
+    "sourceTitle": "Wikipedie (CS): Český lev",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_lev",
+    "sourceQuote": "Nejvyšší počet 12 lvů obdržel film Masaryk (2016)",
+    "answerNote": "Ročník Český lev 2016 (ceny udělené v roce 2017); rekord platný k roku 2026.",
+    "confidence": "high",
+    "en": {
+      "question": "How many Czech Lion awards did the film Masaryk (2016), the current record holder, win?",
+      "unit": {
+        "one": "Lion",
+        "other": "Lions"
+      },
+      "fact": "Julius Ševčík's biographical drama Masaryk collected a record 12 Czech Lions for 2016. No other Czech film has beaten that yet.",
+      "answerNote": "Czech Lion 2016 (awarded in 2017); record still standing as of 2026."
+    }
+  },
+  {
+    "id": "film-09",
+    "category": "film",
+    "question": "Kolik milionů hodin sledování nasbírala první řada seriálu Hra na oliheň (Squid Game) na Netflixu za prvních 28 dní od premiéry?",
+    "answer": 1650,
+    "unit": {
+      "one": "milion hodin",
+      "few": "miliony hodin",
+      "many": "milionů hodin"
+    },
+    "fact": "Korejská Hra na oliheň nasbírala za prvních 28 dní od premiéry v září 2021 přes 1,65 miliardy hodin sledování – tedy 1 650 milionů hodin, což je přes 180 tisíc let nepřetržitého koukání.",
+    "sourceTitle": "Netflix (About Netflix), tisková zpráva 14. 6. 2022",
+    "sourceUrl": "https://about.netflix.com/en/news/netflix-greenlights-squid-game-the-challenge-reality-competition-series",
+    "sourceQuote": "The scripted drama Squid Game holds the record as Netflix's most popular series of all time, with over 1.65 billion view hours in the first 28 days after its September 2021 premiere.",
+    "answerNote": "Oficiální údaj Netflixu: 1,65 miliardy hodin za prvních 28 dní (premiéra 17. 9. 2021), přepočteno na miliony hodin.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million hours of viewing did the first season of Squid Game rack up on Netflix in its first 28 days?",
+      "unit": {
+        "one": "million hours",
+        "other": "million hours"
+      },
+      "fact": "Korean series Squid Game logged over 1.65 billion viewing hours in the 28 days after its September 2021 premiere – 1,650 million hours, or more than 180,000 years of non-stop watching.",
+      "answerNote": "Official Netflix figure: 1.65 billion hours in the first 28 days (premiere 17 Sept 2021), converted to millions of hours."
+    }
+  },
+  {
+    "id": "film-10",
+    "category": "film",
+    "question": "Kolik hodin trvá nejdelší film, jaký byl kdy natočen – švédský experimentální snímek Logistics (2012)?",
+    "answer": 857,
+    "unit": {
+      "one": "hodina",
+      "few": "hodiny",
+      "many": "hodin"
+    },
+    "fact": "Švédský snímek Logistics (2012) sleduje v reálném čase a pozpátku cestu krokoměru z obchodu ve Stockholmu až do továrny v Číně. Trvá 857 hodin, tedy 35 dní a 17 hodin – Guinnessova kniha rekordů ho vede jako nejdelší film všech dob.",
+    "sourceTitle": "Guinness World Records: Longest film made",
+    "sourceUrl": "https://www.guinnessworldrecords.com/world-records/69763-longest-film-made",
+    "sourceQuote": "Logistics (Sweden, 2012) is the longest film ever made, with a running time of 857 hours (which is 35 days 17 hours).",
+    "answerNote": "Podle Guinness World Records; 857 hodin = 51 420 minut.",
+    "confidence": "high",
+    "en": {
+      "question": "How many hours long is the longest film ever made, the Swedish experimental film Logistics (2012)?",
+      "unit": {
+        "one": "hour",
+        "other": "hours"
+      },
+      "fact": "The Swedish film Logistics (2012) follows, in real time and in reverse, a pedometer's journey from a shop in Stockholm back to a factory in China. It runs 857 hours – 35 days and 17 hours – and Guinness World Records lists it as the longest film ever.",
+      "answerNote": "According to Guinness World Records; 857 hours = 51,420 minutes."
+    }
+  },
+  {
+    "id": "film-11",
+    "category": "film",
+    "question": "Kolik dílů má seriál Hra o trůny za všech osm řad?",
+    "answer": 73,
+    "unit": {
+      "one": "díl",
+      "few": "díly",
+      "many": "dílů"
+    },
+    "fact": "Hra o trůny má 73 dílů. Poslední řada má jen šest epizod, ale rozpočet každé z nich přesáhl 15 milionů dolarů.",
+    "sourceTitle": "Wikipedia (EN): Game of Thrones",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Game_of_Thrones",
+    "sourceQuote": "The show premiered on HBO in the United States on April 17, 2011, and concluded on May 19, 2019, with 73 episodes broadcast over eight seasons.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many episodes does Game of Thrones have across all eight seasons?",
+      "unit": {
+        "one": "episode",
+        "other": "episodes"
+      },
+      "fact": "Game of Thrones has 73 episodes. The final season has only six, but each cost more than $15 million.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "film-12",
+    "category": "film",
+    "question": "Kolik Oscarů získal film Titanic (1997)?",
+    "answer": 11,
+    "unit": {
+      "one": "Oscar",
+      "few": "Oscary",
+      "many": "Oscarů"
+    },
+    "fact": "Titanic proměnil 11 ze 14 nominací a vyrovnal rekord Ben Hura. Ani jednu cenu ale nedostal za herectví – Leonardo DiCaprio nebyl ani nominován.",
+    "sourceTitle": "Wikipedia (EN): Titanic (1997 film)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+    "sourceQuote": "the film received fourteen nominations at the 70th Academy Awards and won eleven, including Best Picture and Best Director.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many Oscars did Titanic (1997) win?",
+      "unit": {
+        "one": "Oscar",
+        "other": "Oscars"
+      },
+      "fact": "Titanic converted 11 of its 14 nominations, equalling Ben-Hur's record. It won none for acting – Leonardo DiCaprio wasn't even nominated.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "film-13",
+    "category": "film",
+    "question": "Kolik dílů má původní seriál Arabela z roku 1980?",
+    "answer": 13,
+    "unit": {
+      "one": "díl",
+      "few": "díly",
+      "many": "dílů"
+    },
+    "fact": "Arabela má jen 13 dílů, přesto ji zná několik generací. Pokračování Arabela se vrací z roku 1993 přidalo dalších 26 epizod.",
+    "sourceTitle": "Wikipedie (CS): Arabela (seriál)",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Arabela_(seri%C3%A1l)",
+    "sourceQuote": "Počet dílů: 13",
+    "answerNote": "Původní seriál (1980–1981), bez pokračování Arabela se vrací.",
+    "confidence": "high",
+    "en": {
+      "question": "How many episodes does the original 1980 Czech series Arabela have?",
+      "unit": {
+        "one": "episode",
+        "other": "episodes"
+      },
+      "fact": "Arabela has just 13 episodes, yet several generations know it by heart. The 1993 sequel Arabela Returns added another 26.",
+      "answerNote": "Original series (1980–1981), excluding the sequel Arabela Returns."
+    }
+  },
+  {
+    "id": "film-14",
+    "category": "film",
+    "question": "Kolik milionů dolarů stála výroba prvního filmu Star Wars (1977)?",
+    "answer": 11,
+    "unit": {
+      "one": "milion dolarů",
+      "few": "miliony dolarů",
+      "many": "milionů dolarů"
+    },
+    "fact": "První Star Wars stály nakonec 11 milionů dolarů (původní rozpočet byl 8). Jen při prvním uvedení film utržil 410 milionů, celkově přes 775 milionů dolarů.",
+    "sourceTitle": "Wikipedia (EN): Star Wars (film)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Star_Wars_(film)",
+    "sourceQuote": "Star Wars began production with a budget of $8 million; the total budget eventually reached $11 million",
+    "answerNote": "Celkový výrobní rozpočet.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million dollars did the first Star Wars film (1977) cost to make?",
+      "unit": {
+        "one": "million dollars",
+        "other": "million dollars"
+      },
+      "fact": "The first Star Wars ended up costing $11 million (the original budget was 8). It grossed $410 million on its first run alone and over $775 million in total.",
+      "answerNote": "Total production budget."
+    }
+  },
+  {
+    "id": "film-15",
+    "category": "film",
+    "question": "Kolik dílů mají Četnické humoresky za všechny tři řady?",
+    "answer": 39,
+    "unit": {
+      "one": "díl",
+      "few": "díly",
+      "many": "dílů"
+    },
+    "fact": "Četnické humoresky mají 39 dílů, každá ze tří řad přesně 13. Seriál se natáčel s přestávkami skoro deset let (1997–2007).",
+    "sourceTitle": "Wikipedie (CS): Četnické humoresky",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/%C4%8Cetnick%C3%A9_humoresky",
+    "sourceQuote": "Počet dílů 39",
+    "answerNote": "3 řady po 13 dílech.",
+    "confidence": "high",
+    "en": {
+      "question": "How many episodes do the Czech series Četnické humoresky have across all three seasons?",
+      "unit": {
+        "one": "episode",
+        "other": "episodes"
+      },
+      "fact": "Četnické humoresky has 39 episodes, exactly 13 per season. It was shot on and off over almost ten years (1997–2007).",
+      "answerNote": "3 seasons of 13 episodes each."
+    }
+  },
+  {
+    "id": "film-16",
+    "category": "film",
+    "question": "Kolik Oscarů za nejlepší ženský herecký výkon v hlavní roli získala Katharine Hepburnová?",
+    "answer": 4,
+    "unit": {
+      "one": "Oscar",
+      "few": "Oscary",
+      "many": "Oscarů"
+    },
+    "fact": "Katharine Hepburnová má rekordní čtyři Oscary za hlavní roli – a ani na jedno předávání si pro ně nepřišla.",
+    "sourceTitle": "Wikipedia (EN): Katharine Hepburn",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Katharine_Hepburn",
+    "sourceQuote": "Her accolades include a record four Academy Awards for Best Actress",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many Best Actress Oscars did Katharine Hepburn win?",
+      "unit": {
+        "one": "Oscar",
+        "other": "Oscars"
+      },
+      "fact": "Katharine Hepburn holds a record four Best Actress Oscars – and never turned up to collect a single one.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "film-17",
+    "category": "film",
+    "question": "Kolik milionů dolarů utržil film Avengers: Endgame (2019) v kinech po celém světě (stav k roku 2026)?",
+    "answer": 2799,
+    "unit": {
+      "one": "milion dolarů",
+      "few": "miliony dolarů",
+      "many": "milionů dolarů"
+    },
+    "fact": "Endgame utržil 2 799 milionů dolarů a v roce 2019 krátce sesadil Avatar z prvního místa – než se Avatar vrátil do kin a vedení si vzal zpět.",
+    "sourceTitle": "Box Office Mojo: Avengers: Endgame",
+    "sourceUrl": "https://www.boxofficemojo.com/title/tt4154796/",
+    "sourceQuote": "Worldwide $2,799,439,100",
+    "answerNote": "2 799 439 100 USD, stav k roku 2026.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million dollars did Avengers: Endgame (2019) gross worldwide (as of 2026)?",
+      "unit": {
+        "one": "million dollars",
+        "other": "million dollars"
+      },
+      "fact": "Endgame grossed $2,799 million and in 2019 briefly knocked Avatar off the top spot – until Avatar returned to cinemas and took the lead back.",
+      "answerNote": "$2,799,439,100 as of 2026."
+    }
+  },
+  {
+    "id": "film-18",
+    "category": "film",
+    "question": "Kolik dílů má seriál Chalupáři (1975)?",
+    "answer": 11,
+    "unit": {
+      "one": "díl",
+      "few": "díly",
+      "many": "dílů"
+    },
+    "fact": "Chalupáři s Jiřím Sovákem a Josefem Kemrem mají jen 11 dílů, přesto je Česká televize reprízuje skoro každý rok.",
+    "sourceTitle": "Wikipedie (CS): Chalupáři",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Chalup%C3%A1%C5%99i",
+    "sourceQuote": "Počet dílů: 11",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many episodes does the Czech series Chalupáři (1975) have?",
+      "unit": {
+        "one": "episode",
+        "other": "episodes"
+      },
+      "fact": "Chalupáři, starring Jiří Sovák and Josef Kemr, has only 11 episodes, yet Czech Television reruns it almost every year.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "film-19",
+    "category": "film",
+    "question": "Kolik dílů má původní seriál Nemocnice na kraji města (1978–1981)?",
+    "answer": 20,
+    "unit": {
+      "one": "díl",
+      "few": "díly",
+      "many": "dílů"
+    },
+    "fact": "Původní Nemocnice na kraji města má 20 dílů a vysílala se v letech 1978–1981. Seriál koupilo i západní Německo, kde měl obrovský úspěch.",
+    "sourceTitle": "Wikipedie (CS): Nemocnice na kraji města",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Nemocnice_na_kraji_m%C4%9Bsta",
+    "sourceQuote": "Počet dílů: 20",
+    "answerNote": "Bez pokračování z let 2003 a 2008.",
+    "confidence": "high",
+    "en": {
+      "question": "How many episodes does the original Czech series Hospital at the End of the City (1978–1981) have?",
+      "unit": {
+        "one": "episode",
+        "other": "episodes"
+      },
+      "fact": "The original Hospital at the End of the City has 20 episodes and aired from 1978 to 1981. West Germany bought it too, where it was a huge hit.",
+      "answerNote": "Excluding the 2003 and 2008 sequels."
+    }
+  }
+]

@@ -1,0 +1,548 @@
+[
+  {
+    "id": "cesko-01",
+    "category": "cesko",
+    "question": "Kolik metrů nad mořem měří Sněžka, nejvyšší hora Česka?",
+    "answer": 1603,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Sněžka měří 1 603 metrů nad mořem (přesně 1 603,3 m). Dlouho se uvádělo 1 602 metrů – hora tedy na papíře „vyrostla“ díky přesnějšímu měření.",
+    "sourceTitle": "Wikipedie (CS): Sněžka",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Sn%C4%9B%C5%BEka",
+    "sourceQuote": "Nejvyšší bod se nachází na polském území u kaple sv. Vavřince přibližně 3,5 m od státní hranice a jeho výška činí 1603 m (1603,296 m).",
+    "answerNote": "Zaokrouhleno na celé metry (1 603,3 m).",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres above sea level is Sněžka, the highest mountain in Czechia?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "Sněžka stands 1,603 metres above sea level (1,603.3 m to be exact). For decades the official figure was 1,602 m, so the mountain 'grew' on paper thanks to more precise surveying.",
+      "answerNote": "Rounded to whole metres (1,603.3 m)."
+    }
+  },
+  {
+    "id": "cesko-02",
+    "category": "cesko",
+    "question": "Kolik kilometrů měří Vltava, nejdelší řeka na území Česka (zaokrouhleno na celé kilometry)?",
+    "answer": 430,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Vltava měří 430 kilometrů a je nejdelší řekou Česka. Do Labe se u Mělníka vlévá s větším průtokem než samotné Labe – hydrologicky by tedy Labe mělo být přítokem Vltavy.",
+    "sourceTitle": "Wikipedie (CS): Vltava",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Vltava",
+    "sourceQuote": "Vltava (německy Moldau) je s délkou 430,2 km nejdelší řekou na území Česka.",
+    "answerNote": "Přesně 430,2 km.",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres long is the Vltava, the longest river in Czechia (rounded to whole kilometres)?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "The Vltava is 430 km long and the longest river in the Czech Republic. Where it joins the Elbe at Mělník it actually carries more water than the Elbe itself, so hydrologically the Elbe should be its tributary.",
+      "answerNote": "Exactly 430.2 km."
+    }
+  },
+  {
+    "id": "cesko-03",
+    "category": "cesko",
+    "question": "Kolik schodů má Petřínská rozhledna v Praze?",
+    "answer": 299,
+    "unit": {
+      "one": "schod",
+      "few": "schody",
+      "many": "schodů"
+    },
+    "fact": "Na vrchol Petřínské rozhledny vede 299 schodů. Pražská „malá Eiffelovka“ z roku 1891 měří 58,7 metru, ale díky kopci je její vrchol výš nad mořem než ten pařížský.",
+    "sourceTitle": "Wikipedie (CS): Petřínská rozhledna",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Pet%C5%99%C3%ADnsk%C3%A1_rozhledna",
+    "sourceQuote": "Počet schodů: 299 (i výtah)",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many steps does the Petřín Lookout Tower in Prague have?",
+      "unit": {
+        "one": "step",
+        "other": "steps"
+      },
+      "fact": "The Petřín tower has 299 steps to the top. Prague's 'little Eiffel Tower' from 1891 is only 58.7 m tall, but thanks to the hill its top is higher above sea level than the Paris original.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "cesko-04",
+    "category": "cesko",
+    "question": "Kolik písmen má česká abeceda (včetně ch, bez rozlišení velkých a malých písmen)?",
+    "answer": 42,
+    "unit": {
+      "one": "písmeno",
+      "few": "písmena",
+      "many": "písmen"
+    },
+    "fact": "Česká abeceda má 42 písmen včetně spřežky ch – to je o 16 víc než anglická. Háčky a čárky vymyslel podle tradice Jan Hus.",
+    "sourceTitle": "Wikipedie (CS): Česká abeceda",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%A1_abeceda",
+    "sourceQuote": "Obsahuje 42 písmen včetně ch, pokud nepřihlédneme na rozdíl mezi velkým a malým písmenem.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many letters does the Czech alphabet have (including 'ch', not counting upper and lower case separately)?",
+      "unit": {
+        "one": "letter",
+        "other": "letters"
+      },
+      "fact": "The Czech alphabet has 42 letters including the digraph 'ch' – 16 more than the English one. Tradition credits Jan Hus with inventing the háček and čárka diacritics.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "cesko-05",
+    "category": "cesko",
+    "question": "Kolik kilometrů čtverečních má rozlohu Česká republika?",
+    "answer": 78871,
+    "unit": {
+      "one": "kilometr čtvereční",
+      "few": "kilometry čtvereční",
+      "many": "kilometrů čtverečních"
+    },
+    "fact": "Česko má rozlohu 78 871 km². Na světovém žebříčku podle rozlohy je to zhruba 115. místo – vejde se do něj třeba Skotsko, ale Rakousko už ne.",
+    "sourceTitle": "Wikipedie (CS): Česko",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/%C4%8Cesko",
+    "sourceQuote": "78 871 km²",
+    "answerNote": "Podle Statistické ročenky ČR 2025.",
+    "confidence": "high",
+    "en": {
+      "question": "What is the area of the Czech Republic in square kilometres?",
+      "unit": {
+        "one": "square kilometre",
+        "other": "square kilometres"
+      },
+      "fact": "Czechia covers 78,871 km², roughly 115th in the world by area – Scotland would fit inside, Austria would not.",
+      "answerNote": "According to the Czech Statistical Yearbook 2025."
+    }
+  },
+  {
+    "id": "cesko-06",
+    "category": "cesko",
+    "question": "Kolik památek hmotného charakteru z Česka je zapsáno na Seznamu světového dědictví UNESCO (stav k roku 2026)?",
+    "answer": 17,
+    "unit": {
+      "one": "památka",
+      "few": "památky",
+      "many": "památek"
+    },
+    "fact": "Česko má na seznamu UNESCO 17 hmotných památek – od historického centra Prahy po zatím poslední přírůstek, Žatec a krajinu žateckého chmele (2023).",
+    "sourceTitle": "Wikipedie (CS): Seznam světového dědictví v Česku",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Seznam_sv%C4%9Btov%C3%A9ho_d%C4%9Bdictv%C3%AD_v_%C4%8Cesku",
+    "sourceQuote": "V současné době má Česko na Seznamu světového dědictví zapsáno celkem 17 památek hmotného charakteru",
+    "answerNote": "Hmotné památky (bez nehmotného dědictví), stav k roku 2026.",
+    "confidence": "high",
+    "en": {
+      "question": "How many tangible heritage sites in Czechia are inscribed on the UNESCO World Heritage List (as of 2026)?",
+      "unit": {
+        "one": "site",
+        "other": "sites"
+      },
+      "fact": "Czechia has 17 tangible sites on the UNESCO list, from the historic centre of Prague to the latest addition, Žatec and its hop-growing landscape (2023).",
+      "answerNote": "Tangible heritage only (no intangible heritage), as of 2026."
+    }
+  },
+  {
+    "id": "cesko-07",
+    "category": "cesko",
+    "question": "Kolik metrů měří Žižkovský televizní vysílač v Praze?",
+    "answer": 216,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Žižkovský vysílač je s výškou 216 metrů nejvyšší stavbou Prahy. Po jeho pilířích leze 10 obřích laminátových miminek Davida Černého.",
+    "sourceTitle": "Wikipedie (CS): Žižkovský vysílač",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/%C5%BDi%C5%BEkovsk%C3%BD_vys%C3%ADla%C4%8D",
+    "sourceQuote": "Výška stavby: 216 m",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres tall is the Žižkov Television Tower in Prague?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "At 216 metres the Žižkov Tower is the tallest structure in Prague. Ten giant fibreglass babies by David Černý crawl up and down its pillars.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "cesko-08",
+    "category": "cesko",
+    "question": "Kolik metrů měří Pančavský vodopád v Krkonoších, nejvyšší vodopád Česka?",
+    "answer": 148,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Pančavský vodopád padá z výšky 148 metrů do Labského dolu. Je nejvyšším vodopádem Česka, a přesto ho spousta lidí nikdy neviděla – v létě z něj často zbývá jen pramínek.",
+    "sourceTitle": "Wikipedie (CS): Pančavský vodopád",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Pan%C4%8Davsk%C3%BD_vodop%C3%A1d",
+    "sourceQuote": "Jedná se o nejvyšší vodopád v Česku. Měří 148 metrů",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres tall is the Pančava Waterfall in the Giant Mountains, the highest waterfall in Czechia?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "The Pančava Waterfall drops 148 metres into the Elbe valley. It is the highest waterfall in Czechia, yet many people have never seen it – in summer it often dwindles to a trickle.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "cesko-09",
+    "category": "cesko",
+    "question": "V kolika stanicích zastavuje pražské metro (stav k roku 2025, před otevřením linky D)?",
+    "answer": 61,
+    "unit": {
+      "one": "stanice",
+      "few": "stanice",
+      "many": "stanic"
+    },
+    "fact": "Pražské metro má na třech linkách 61 stanic a 65,4 km tratí. Nejhlouběji je Náměstí Míru, 53 metrů pod povrchem.",
+    "sourceTitle": "Wikipedie (CS): Metro v Praze",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Metro_v_Praze",
+    "sourceQuote": "Soupravy metra zastavují celkem v 61 stanicích",
+    "answerNote": "Linky A, B a C; stav před otevřením linky D.",
+    "confidence": "high",
+    "en": {
+      "question": "How many stations does the Prague Metro stop at (as of 2025, before line D opens)?",
+      "unit": {
+        "one": "station",
+        "other": "stations"
+      },
+      "fact": "The Prague Metro has 61 stations on three lines and 65.4 km of track. The deepest is Náměstí Míru, 53 metres below the surface.",
+      "answerNote": "Lines A, B and C; before line D opens."
+    }
+  },
+  {
+    "id": "cesko-10",
+    "category": "cesko",
+    "question": "Kolik titulů mistrů světa v ledním hokeji získala samostatná Česká republika od roku 1993 do roku 2024 včetně?",
+    "answer": 7,
+    "unit": {
+      "one": "titul",
+      "few": "tituly",
+      "many": "titulů"
+    },
+    "fact": "Česká reprezentace vyhrála mistrovství světa sedmkrát: 1996, 1999, 2000, 2001, 2005, 2010 a naposledy doma v Praze v roce 2024.",
+    "sourceTitle": "Wikipedie (CS): Česká hokejová reprezentace",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%A1_hokejov%C3%A1_reprezentace",
+    "sourceQuote": "Z celkem 31 účastí na MS (1993–2024) si česká reprezentace přivezla sedm zlatých (1996, 1999, 2000, 2001, 2005, 2010 a 2024)",
+    "answerNote": "Pouze samostatná ČR (bez titulů Československa), do MS 2024 včetně.",
+    "confidence": "high",
+    "en": {
+      "question": "How many Ice Hockey World Championship titles has the independent Czech Republic won from 1993 up to and including 2024?",
+      "unit": {
+        "one": "title",
+        "other": "titles"
+      },
+      "fact": "The Czech national team has won the World Championship seven times: 1996, 1999, 2000, 2001, 2005, 2010 and most recently at home in Prague in 2024.",
+      "answerNote": "Czech Republic only (not Czechoslovakia), up to and including the 2024 championship."
+    }
+  },
+  {
+    "id": "cesko-11",
+    "category": "cesko",
+    "question": "Kolik metrů měří brněnský AZ Tower, který se po dokončení v roce 2013 stal nejvyšší budovou Česka?",
+    "answer": 111,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "AZ Tower v Brně má 30 podlaží a 111 metrů. Nejvyšší budova Česka tedy nestojí v Praze – Žižkovský vysílač je sice vyšší, ale je to věž, ne budova.",
+    "sourceTitle": "Wikipedie (CS): AZ Tower",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/AZ_Tower",
+    "sourceQuote": "Podle plánů dosáhla po dokončení 30 podlaží a výšky 111 m, čímž se stala nejvyšší výškovou budovou v Česku.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres tall is Brno's AZ Tower, which became the tallest building in Czechia when completed in 2013?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "The AZ Tower in Brno has 30 floors and 111 metres. So the tallest building in Czechia isn't in Prague – the Žižkov Tower is taller, but it's a tower, not a building.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "cesko-12",
+    "category": "cesko",
+    "question": "Kolik metrů nad mořem leží nejnižší přirozený bod Česka – hladina Labe u Hřenska?",
+    "answer": 115,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Nejníže položené místo Česka je hladina Labe na hranici s Německem u Hřenska, pouhých 115 metrů nad mořem. Uměle vyhloubený lom Bílina jde ještě níž, na 20 metrů.",
+    "sourceTitle": "Wikipedie (CS): Geografie Česka",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Geografie_%C4%8Ceska",
+    "sourceQuote": "Hřensko (115 m n. m.; hladina Labe na státní hranici s Německem)",
+    "answerNote": "Nejnižší přirozený bod.",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres above sea level is the lowest natural point of Czechia, the surface of the Elbe at Hřensko?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "The lowest spot in Czechia is the Elbe on the German border at Hřensko, just 115 metres above sea level. The man-made Bílina quarry goes even lower, to 20 metres.",
+      "answerNote": "Lowest natural point."
+    }
+  },
+  {
+    "id": "cesko-13",
+    "category": "cesko",
+    "question": "Kolik národních parků má Česko?",
+    "answer": 4,
+    "unit": {
+      "one": "národní park",
+      "few": "národní parky",
+      "many": "národních parků"
+    },
+    "fact": "Česko má 4 národní parky: Krkonošský, Šumavu, Podyjí a České Švýcarsko. Dohromady zabírají 1 182 km², tedy asi 1,5 % rozlohy státu.",
+    "sourceTitle": "Wikipedie (CS): Geografie Česka",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Geografie_%C4%8Ceska",
+    "sourceQuote": "4 národní parky",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many national parks does Czechia have?",
+      "unit": {
+        "one": "national park",
+        "other": "national parks"
+      },
+      "fact": "Czechia has 4 national parks: Krkonoše, Šumava, Podyjí and Bohemian Switzerland. Together they cover 1,182 km², about 1.5% of the country.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "cesko-14",
+    "category": "cesko",
+    "question": "Kolik soch a sousoší stojí na Karlově mostě?",
+    "answer": 30,
+    "unit": {
+      "one": "socha",
+      "few": "sochy",
+      "many": "soch"
+    },
+    "fact": "Na Karlově mostě stojí 30 převážně barokních soch a sousoší. Most má 16 oblouků a měří necelých 516 metrů – a originály většiny soch jsou dnes v muzeích, na mostě stojí kopie.",
+    "sourceTitle": "Wikipedie (CS): Karlův most",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Karl%C5%AFv_most",
+    "sourceQuote": "Od konce 17. století bylo na most postupně umístěno 30 převážně barokních soch a sousoší.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many statues and sculptural groups stand on Charles Bridge in Prague?",
+      "unit": {
+        "one": "statue",
+        "other": "statues"
+      },
+      "fact": "Charles Bridge carries 30 mostly Baroque statues and groups. The bridge has 16 arches and is just under 516 metres long – and most of the originals are now in museums, with copies on the bridge.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "cesko-15",
+    "category": "cesko",
+    "question": "Kolik zlatých olympijských medailí získal Emil Zátopek?",
+    "answer": 4,
+    "unit": {
+      "one": "zlatá medaile",
+      "few": "zlaté medaile",
+      "many": "zlatých medailí"
+    },
+    "fact": "Zátopek má čtyři olympijská zlata: 10 000 m v Londýně 1948 a v Helsinkách 1952 nevídaný trojboj 5 000 m, 10 000 m a maraton – který běžel poprvé v životě.",
+    "sourceTitle": "Wikipedie (CS): Emil Zátopek",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Emil_Z%C3%A1topek",
+    "sourceQuote": "čtyřnásobný olympijský vítěz ve vytrvalostním běhu",
+    "answerNote": "1948: 10 000 m; 1952: 5 000 m, 10 000 m, maraton.",
+    "confidence": "high",
+    "en": {
+      "question": "How many Olympic gold medals did Emil Zátopek win?",
+      "unit": {
+        "one": "gold medal",
+        "other": "gold medals"
+      },
+      "fact": "Zátopek has four Olympic golds: the 10,000 m in London 1948 and, in Helsinki 1952, an unprecedented triple of 5,000 m, 10,000 m and the marathon – which he was running for the first time in his life.",
+      "answerNote": "1948: 10,000 m; 1952: 5,000 m, 10,000 m, marathon."
+    }
+  },
+  {
+    "id": "cesko-16",
+    "category": "cesko",
+    "question": "Kolik metrů měří Pražský hrad na délku?",
+    "answer": 570,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Pražský hrad je 570 metrů dlouhý a 128 metrů široký – podle Guinnessovy knihy rekordů největší starobylý hrad na světě. Je větší než anglický Windsor.",
+    "sourceTitle": "Wikipedie (CS): Pražský hrad",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Pra%C5%BEsk%C3%BD_hrad",
+    "sourceQuote": "se svými rozměry 570 m délky a 128 m šířky jeden z největších hradních komplexů na světě.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres long is Prague Castle?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "Prague Castle is 570 metres long and 128 metres wide – according to Guinness World Records the largest ancient castle in the world. It is bigger than Windsor.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "cesko-17",
+    "category": "cesko",
+    "question": "Kolik hektarů má rybník Rožmberk, největší rybník Česka?",
+    "answer": 489,
+    "unit": {
+      "one": "hektar",
+      "few": "hektary",
+      "many": "hektarů"
+    },
+    "fact": "Rožmberk u Třeboně má 489 hektarů, což je největší rybník v Česku a podle Wikipedie i největší rybník na světě. Jakub Krčín ho nechal vybudovat v letech 1584–1590.",
+    "sourceTitle": "Wikipedia (EN): Rožmberk Pond",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ro%C5%BEmberk_Pond",
+    "sourceQuote": "With an area of 4.89 km2 (1.89 sq mi), it is the largest fish pond in the world.",
+    "answerNote": "4,89 km².",
+    "confidence": "high",
+    "en": {
+      "question": "How many hectares does Rožmberk Pond, the largest pond in Czechia, cover?",
+      "unit": {
+        "one": "hectare",
+        "other": "hectares"
+      },
+      "fact": "Rožmberk near Třeboň covers 489 hectares, making it the largest pond in Czechia and, according to Wikipedia, the largest fish pond in the world. Jakub Krčín had it built in 1584–1590.",
+      "answerNote": "4.89 km²."
+    }
+  },
+  {
+    "id": "cesko-18",
+    "category": "cesko",
+    "question": "Kolika zámky jsou opatřeny dveře ke komoře s českými korunovačními klenoty?",
+    "answer": 7,
+    "unit": {
+      "one": "zámek",
+      "few": "zámky",
+      "many": "zámků"
+    },
+    "fact": "Dveře do korunní komory mají sedm zámků a každý klíč drží jiná osoba – od prezidenta přes premiéra a arcibiskupa po primátora Prahy. Otevřít je musí všichni najednou.",
+    "sourceTitle": "Wikipedie (CS): České korunovační klenoty",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%A9_korunova%C4%8Dn%C3%AD_klenoty",
+    "sourceQuote": "Vstupní dveře, které se nacházejí v kapli sv. Václava, jsou opatřeny sedmi zámky.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many locks are on the door to the chamber holding the Czech crown jewels?",
+      "unit": {
+        "one": "lock",
+        "other": "locks"
+      },
+      "fact": "The door to the crown chamber has seven locks and each key is held by a different person – from the president and prime minister to the archbishop and the mayor of Prague. All of them must open it together.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "cesko-19",
+    "category": "cesko",
+    "question": "Kolik kilometrů měří dálnice D1 z Prahy přes Brno do Ostravy a na polskou hranici (celková délka)?",
+    "answer": 371,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "D1 měří 371 km a je nejdelší českou dálnicí. Její první úsek se začal stavět už v roce 1939, dokončena byla až v roce 2021.",
+    "sourceTitle": "Wikipedie (CS): Dálnice D1",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/D%C3%A1lnice_D1",
+    "sourceQuote": "Celková délka: 371 km",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres long is the D1 motorway from Prague via Brno to Ostrava and the Polish border (total length)?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "The D1 is 371 km long and the longest Czech motorway. Its first section was started in 1939; it was only completed in 2021.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "cesko-20",
+    "category": "cesko",
+    "question": "Kolik metrů měří Žďákovský most přes Orlickou přehradu (zaokrouhleno na celé metry)?",
+    "answer": 543,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Žďákovský most měří 543 metrů a jeho ocelový oblouk má rozpětí 330 metrů – při dokončení v roce 1967 byl největším dvoukloubovým obloukovým mostem na světě.",
+    "sourceTitle": "Wikipedie (CS): Žďákovský most",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/%C5%BD%C4%8F%C3%A1kovsk%C3%BD_most",
+    "sourceQuote": "Délka mostu činí 542,91 m",
+    "answerNote": "Přesně 542,91 m.",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres long is the Žďákov Bridge over the Orlík reservoir (rounded to whole metres)?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "The Žďákov Bridge is 543 metres long and its steel arch spans 330 metres – when finished in 1967 it was the largest two-hinged arch bridge in the world.",
+      "answerNote": "Exactly 542.91 m."
+    }
+  },
+  {
+    "id": "cesko-21",
+    "category": "cesko",
+    "question": "Kolik obcí mělo Česko v lednu 2022?",
+    "answer": 6254,
+    "unit": {
+      "one": "obec",
+      "few": "obce",
+      "many": "obcí"
+    },
+    "fact": "Česko mělo v lednu 2022 6 254 obcí – na počet obyvatel jedno z nejvyšších čísel v Evropě. Většina z nich má méně než 500 obyvatel.",
+    "sourceTitle": "Wikipedie (CS): Obec (Česko)",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Obec_(%C4%8Cesko)",
+    "sourceQuote": "V lednu 2022 se v Česku nacházelo 6254 obcí a 4 vojenské újezdy",
+    "answerNote": "Stav k lednu 2022.",
+    "confidence": "high",
+    "en": {
+      "question": "How many municipalities did Czechia have in January 2022?",
+      "unit": {
+        "one": "municipality",
+        "other": "municipalities"
+      },
+      "fact": "In January 2022 Czechia had 6,254 municipalities – per capita one of the highest numbers in Europe. Most of them have fewer than 500 inhabitants.",
+      "answerNote": "As of January 2022."
+    }
+  }
+]

@@ -1,0 +1,496 @@
+[
+  {
+    "id": "technologie-01",
+    "category": "technologie",
+    "question": "Kolik milionů znaků pojal první pevný disk na světě, IBM 350 z roku 1956?",
+    "answer": 5,
+    "unit": {
+      "one": "milion znaků",
+      "few": "miliony znaků",
+      "many": "milionů znaků"
+    },
+    "fact": "První pevný disk světa, IBM 350 z roku 1956, vážil kolem tuny a skládal se ze stohu 24palcových talířů – to vše kvůli 5 milionům šestibitových znaků, tedy asi 3,75 MB. Jedna fotka z mobilu by se na něj nevešla.",
+    "sourceTitle": "Wikipedia (EN): IBM 350",
+    "sourceUrl": "https://en.wikipedia.org/wiki/IBM_350",
+    "sourceQuote": "The 350 stores 5 million 6-bit characters (3.75 MB).",
+    "answerNote": "Kapacita jednotky IBM 350 (1956): 5 milionů 6bitových znaků (≈ 3,75 MB).",
+    "confidence": "high",
+    "en": {
+      "question": "How many million characters did the world's first hard disk drive, the IBM 350 from 1956, hold?",
+      "unit": {
+        "one": "million characters",
+        "other": "million characters"
+      },
+      "fact": "The world's first hard drive, the IBM 350 from 1956, weighed about a ton and consisted of a stack of 24-inch platters – all for 5 million six-bit characters, roughly 3.75 MB. A single phone photo wouldn't fit.",
+      "answerNote": "IBM 350 capacity (1956): 5 million 6-bit characters (≈ 3.75 MB)."
+    }
+  },
+  {
+    "id": "technologie-02",
+    "category": "technologie",
+    "question": "Kolik sekund trvalo prvnímu digitálnímu fotoaparátu (Kodak, 1975) zaznamenat jeden snímek na kazetu?",
+    "answer": 23,
+    "unit": {
+      "one": "sekunda",
+      "few": "sekundy",
+      "many": "sekund"
+    },
+    "fact": "Prototyp digitálního fotoaparátu, který v roce 1975 sestrojil Steven Sasson v laboratořích Kodaku, vážil 3,6 kg, snímal v rozlišení 100 × 100 pixelů a každý snímek zapisoval na magnetofonovou kazetu 23 sekund.",
+    "sourceTitle": "Wikipedia (EN): Steven Sasson",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Steven_Sasson",
+    "sourceQuote": "The images were digitally recorded onto a cassette tape, a process that took twenty-three seconds per image.",
+    "answerNote": "Prototyp Stevena Sassona (Eastman Kodak, 1975); zdroj uvádí číslo slovy („twenty-three seconds“).",
+    "confidence": "high",
+    "en": {
+      "question": "How many seconds did the first digital camera (Kodak, 1975) take to record one image to cassette tape?",
+      "unit": {
+        "one": "second",
+        "other": "seconds"
+      },
+      "fact": "The digital camera prototype built by Steven Sasson at Kodak in 1975 weighed 3.6 kg, shot at 100 × 100 pixels and took 23 seconds to write each image to a cassette tape.",
+      "answerNote": "Steven Sasson's prototype (Eastman Kodak, 1975); the source spells the number out ('twenty-three seconds')."
+    }
+  },
+  {
+    "id": "technologie-03",
+    "category": "technologie",
+    "question": "Kolik minut hovoru vydržel na jedno nabití první komerční mobilní telefon Motorola DynaTAC 8000X?",
+    "answer": 30,
+    "unit": {
+      "one": "minuta",
+      "few": "minuty",
+      "many": "minut"
+    },
+    "fact": "Motorola DynaTAC 8000X, první komerčně prodávaný mobil (1984), stála 3 995 dolarů, vážila 790 gramů a nabíjela se zhruba 10 hodin. Odměnou za to bylo celých 30 minut hovoru.",
+    "sourceTitle": "Wikipedia (EN): Motorola DynaTAC",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Motorola_DynaTAC",
+    "sourceQuote": "A full charge took roughly 10 hours, and it offered 30 minutes of talk time.",
+    "answerNote": "Model DynaTAC 8000X (komerčně od roku 1984); doba hovoru na jedno plné nabití.",
+    "confidence": "high",
+    "en": {
+      "question": "How many minutes of talk time did the first commercial mobile phone, the Motorola DynaTAC 8000X, offer on one charge?",
+      "unit": {
+        "one": "minute",
+        "other": "minutes"
+      },
+      "fact": "The Motorola DynaTAC 8000X, the first commercially sold mobile phone (1984), cost $3,995, weighed 790 grams and took about 10 hours to charge. The reward: a full 30 minutes of talk time.",
+      "answerNote": "DynaTAC 8000X model (commercially available from 1984); talk time on a full charge."
+    }
+  },
+  {
+    "id": "technologie-04",
+    "category": "technologie",
+    "question": "V kolika jazycích jsou nahrány pozdravy na Zlaté desce sond Voyager?",
+    "answer": 55,
+    "unit": {
+      "one": "jazyk",
+      "few": "jazyky",
+      "many": "jazyků"
+    },
+    "fact": "Zlatá deska, kterou v roce 1977 odnesly sondy Voyager 1 a 2 ke hvězdám, nese obrázky, zvuky Země, hudbu a pozdravy v 55 jazycích. Je mezi nimi i čeština – Češi mimozemšťanům vzkazují, že jim přejí všechno nejlepší.",
+    "sourceTitle": "NASA: Voyager – Golden Record Greetings",
+    "sourceUrl": "https://science.nasa.gov/mission/voyager/golden-record-contents/greetings/",
+    "sourceQuote": "In addition to pictures and music and sounds from earth, greetings in 55 languages were included.",
+    "answerNote": "Mluvené pozdravy na Voyager Golden Record (1977) podle NASA; mezi jazyky je i čeština.",
+    "confidence": "high",
+    "en": {
+      "question": "In how many languages are the greetings recorded on the Voyager Golden Record?",
+      "unit": {
+        "one": "language",
+        "other": "languages"
+      },
+      "fact": "The Golden Record carried to the stars by Voyager 1 and 2 in 1977 holds images, sounds of Earth, music and greetings in 55 languages. Czech is among them – the Czechs wish the aliens all the best.",
+      "answerNote": "Spoken greetings on the Voyager Golden Record (1977) according to NASA; Czech is among the languages."
+    }
+  },
+  {
+    "id": "technologie-05",
+    "category": "technologie",
+    "question": "Kolik minut hudby pojme standardní audio CD podle původní specifikace?",
+    "answer": 74,
+    "unit": {
+      "one": "minuta",
+      "few": "minuty",
+      "many": "minut"
+    },
+    "fact": "Standardní kompaktní disk o průměru 120 mm byl navržen tak, aby pojal 74 minut hudby, tedy zhruba 650 MB dat. Později se kapacita běžně natáhla na 80 minut.",
+    "sourceTitle": "Wikipedia (EN): Compact disc",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Compact_disc",
+    "sourceQuote": "Standard CDs have a diameter of 120 mm (4.7 in) and typically hold up to 74 minutes of audio or approximately 650 MiB (681,574,400 bytes) of data.",
+    "answerNote": "Původní standard (disk 120 mm): 74 minut zvuku; pozdější disky pojmou až 80 minut.",
+    "confidence": "high",
+    "en": {
+      "question": "How many minutes of music does a standard audio CD hold according to the original specification?",
+      "unit": {
+        "one": "minute",
+        "other": "minutes"
+      },
+      "fact": "The standard 120 mm compact disc was designed to hold 74 minutes of music, about 650 MB of data. Capacity was later routinely stretched to 80 minutes.",
+      "answerNote": "Original standard (120 mm disc): 74 minutes of audio; later discs hold up to 80 minutes."
+    }
+  },
+  {
+    "id": "technologie-06",
+    "category": "technologie",
+    "question": "Kolik milionů kusů legendární Nokie 3310 (uvedené v roce 2000) se celosvětově prodalo?",
+    "answer": 126,
+    "unit": {
+      "one": "milion kusů",
+      "few": "miliony kusů",
+      "many": "milionů kusů"
+    },
+    "fact": "Nokia 3310, představená v září 2000, se stala jedním z nejúspěšnějších telefonů historie: prodalo se jí 126 milionů kusů. Dodnes platí za symbol nezničitelnosti a hada, který nikdy neomrzí.",
+    "sourceTitle": "Wikipedia (EN): Nokia 3310",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Nokia_3310",
+    "sourceQuote": "It sold very well, being one of the most successful phones, with 126 million units sold worldwide",
+    "answerNote": "Původní model Nokia 3310 (2000), celosvětový prodej za celou dobu výroby.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million units of the legendary Nokia 3310 (launched in 2000) were sold worldwide?",
+      "unit": {
+        "one": "million units",
+        "other": "million units"
+      },
+      "fact": "The Nokia 3310, unveiled in September 2000, became one of the most successful phones ever: 126 million were sold. It remains a byword for indestructibility and a Snake that never gets old.",
+      "answerNote": "Original Nokia 3310 (2000), worldwide sales over its production run."
+    }
+  },
+  {
+    "id": "technologie-07",
+    "category": "technologie",
+    "question": "Kolik milionů šachových pozic za sekundu dokázal vyhodnotit počítač Deep Blue, který v roce 1997 porazil Garriho Kasparova?",
+    "answer": 200,
+    "unit": {
+      "one": "milion pozic",
+      "few": "miliony pozic",
+      "many": "milionů pozic"
+    },
+    "fact": "Superpočítač IBM Deep Blue v květnu 1997 jako první stroj porazil úřadujícího mistra světa v šachu Garriho Kasparova. Vylepšená verze prohledávala 200 milionů pozic za sekundu – dvakrát víc než rok předtím, kdy Kasparov ještě vyhrál.",
+    "sourceTitle": "Wikipedia (EN): Deep Blue (chess computer)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)",
+    "sourceQuote": "Deeper Blue was capable of evaluating 200 million positions per second, twice as many as the 1996 version.",
+    "answerNote": "Verze z roku 1997 (přezdívaná Deeper Blue), která vyhrála odvetný zápas s Kasparovem.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million chess positions per second could Deep Blue, the computer that beat Garry Kasparov in 1997, evaluate?",
+      "unit": {
+        "one": "million positions",
+        "other": "million positions"
+      },
+      "fact": "In May 1997 IBM's Deep Blue became the first machine to beat a reigning world chess champion, Garry Kasparov. The upgraded version searched 200 million positions per second – twice as many as the year before, when Kasparov still won.",
+      "answerNote": "The 1997 version (nicknamed Deeper Blue) that won the rematch against Kasparov."
+    }
+  },
+  {
+    "id": "technologie-08",
+    "category": "technologie",
+    "question": "Kolik dolarů stál první iPhone se 4 GB paměti při uvedení v USA v roce 2007?",
+    "answer": 499,
+    "unit": {
+      "one": "dolar",
+      "few": "dolary",
+      "many": "dolarů"
+    },
+    "fact": "První iPhone představil Steve Jobs v lednu 2007 a v červnu šel v USA do prodeje za 499 dolarů (4 GB) a 599 dolarů (8 GB). Model se 4 GB Apple stáhl už po pár měsících a osmigigový zlevnil na 399 dolarů.",
+    "sourceTitle": "Apple Newsroom: Apple Reinvents the Phone with iPhone (2007)",
+    "sourceUrl": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+    "sourceQuote": "in a 4GB model for $499 (US) and an 8GB model for $599 (US)",
+    "answerNote": "Cena v USD při uvedení v USA (červen 2007), model 4 GB, se závazkem k operátorovi AT&T.",
+    "confidence": "high",
+    "en": {
+      "question": "How many dollars did the first iPhone with 4 GB cost at its US launch in 2007?",
+      "unit": {
+        "one": "dollar",
+        "other": "dollars"
+      },
+      "fact": "Steve Jobs unveiled the first iPhone in January 2007 and it went on sale in the US in June at $499 (4 GB) and $599 (8 GB). Apple dropped the 4 GB model within months and cut the 8 GB to $399.",
+      "answerNote": "US launch price (June 2007), 4 GB model, with AT&T contract."
+    }
+  },
+  {
+    "id": "technologie-09",
+    "category": "technologie",
+    "question": "Kolik slov operační paměti (RAM) měl palubní počítač Apollo Guidance Computer, s nímž astronauti přistáli na Měsíci?",
+    "answer": 2048,
+    "unit": {
+      "one": "slovo",
+      "few": "slova",
+      "many": "slov"
+    },
+    "fact": "Palubní počítač lodí Apollo (verze Block II) měl 2 048 šestnáctibitových slov přepisovatelné paměti – zhruba 4 kB – a 36 864 slov pevné paměti, jejíž program dělnice doslova ručně vplétaly do drátů. Stačilo to na cestu na Měsíc a zpět.",
+    "sourceTitle": "Wikipedia (EN): Apollo Guidance Computer",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Apollo_Guidance_Computer",
+    "sourceQuote": "The Block II computer had 2,048 words of erasable magnetic-core memory and 36,864 words of read-only core rope memory",
+    "answerNote": "AGC Block II (lety Apollo s posádkou): 2 048 slov po 16 bitech přepisovatelné paměti (≈ 4 kB).",
+    "confidence": "high",
+    "en": {
+      "question": "How many words of RAM did the Apollo Guidance Computer, which landed astronauts on the Moon, have?",
+      "unit": {
+        "one": "word",
+        "other": "words"
+      },
+      "fact": "The Apollo spacecraft computer (Block II) had 2,048 sixteen-bit words of erasable memory – about 4 kB – and 36,864 words of fixed memory whose program was literally woven into wires by hand. It was enough to get to the Moon and back.",
+      "answerNote": "AGC Block II (crewed Apollo flights): 2,048 words of 16-bit erasable memory (≈ 4 kB)."
+    }
+  },
+  {
+    "id": "technologie-10",
+    "category": "technologie",
+    "question": "Kolik tranzistorů obsahoval první komerční mikroprocesor Intel 4004 z roku 1971?",
+    "answer": 2300,
+    "unit": {
+      "one": "tranzistor",
+      "few": "tranzistory",
+      "many": "tranzistorů"
+    },
+    "fact": "Intel 4004, první komerčně vyráběný mikroprocesor, se dostal na trh v listopadu 1971 a vešlo se do něj 2 300 tranzistorů. Dnešní čipy jich mají desítky miliard.",
+    "sourceTitle": "Intel: The First Programmable Microprocessor – The 4004",
+    "sourceUrl": "https://timeline.intel.com/1971/the-first-programmable-microprocessor:-the-4004",
+    "sourceQuote": "The 4004 processor contained 2,300 transistors in all.",
+    "answerNote": "Intel 4004 (uveden v listopadu 1971), počet tranzistorů na čipu.",
+    "confidence": "high",
+    "en": {
+      "question": "How many transistors did the first commercial microprocessor, the Intel 4004 from 1971, contain?",
+      "unit": {
+        "one": "transistor",
+        "other": "transistors"
+      },
+      "fact": "The Intel 4004, the first commercially produced microprocessor, hit the market in November 1971 with 2,300 transistors. Today's chips have tens of billions.",
+      "answerNote": "Intel 4004 (launched November 1971), transistor count on the chip."
+    }
+  },
+  {
+    "id": "technologie-11",
+    "category": "technologie",
+    "question": "Kolik dolarů stál první počítač Apple Macintosh (128K) při uvedení v roce 1984?",
+    "answer": 2495,
+    "unit": {
+      "one": "dolar",
+      "few": "dolary",
+      "many": "dolarů"
+    },
+    "fact": "První Macintosh stál v lednu 1984 2 495 dolarů, což odpovídá zhruba 7 700 dnešním dolarům. Měl 128 kB paměti a černobílou devítipalcovou obrazovku.",
+    "sourceTitle": "Wikipedia (EN): Macintosh 128K",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Macintosh_128K",
+    "sourceQuote": "Sales were strong at its initial release on January 24, 1984, at US$2,495 (equivalent to $7,700 in 2025).",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many dollars did the first Apple Macintosh (128K) cost when it launched in 1984?",
+      "unit": {
+        "one": "dollar",
+        "other": "dollars"
+      },
+      "fact": "The first Macintosh cost $2,495 in January 1984, about $7,700 in today's money. It had 128 kB of memory and a nine-inch black-and-white screen.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "technologie-12",
+    "category": "technologie",
+    "question": "Za kolik dní od uvedení se prodal první milion kopií Windows 95?",
+    "answer": 4,
+    "unit": {
+      "one": "den",
+      "few": "dny",
+      "many": "dní"
+    },
+    "fact": "Windows 95 prodaly milion kopií za pouhé čtyři dny. Microsoft za reklamní kampaň se skladbou „Start Me Up“ od Rolling Stones utratil stovky milionů dolarů.",
+    "sourceTitle": "Wikipedia (EN): Windows 95",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Windows_95",
+    "sourceQuote": "Sales were strong, with one million copies shipped worldwide in just four days.",
+    "answerNote": "Uvedení 24. 8. 1995.",
+    "confidence": "high",
+    "en": {
+      "question": "How many days after launch did Windows 95 sell its first million copies?",
+      "unit": {
+        "one": "day",
+        "other": "days"
+      },
+      "fact": "Windows 95 sold a million copies in just four days. Microsoft spent hundreds of millions on the ad campaign built around the Rolling Stones' 'Start Me Up'.",
+      "answerNote": "Launched 24 Aug 1995."
+    }
+  },
+  {
+    "id": "technologie-13",
+    "category": "technologie",
+    "question": "Kolik milionů bitcoinů může podle protokolu maximálně existovat?",
+    "answer": 21,
+    "unit": {
+      "one": "milion bitcoinů",
+      "few": "miliony bitcoinů",
+      "many": "milionů bitcoinů"
+    },
+    "fact": "Bitcoinů nikdy nebude víc než 21 milionů. Odměna za vytěžený blok se každých 210 000 bloků půlí, takže poslední bitcoin se vytěží až kolem roku 2140.",
+    "sourceTitle": "Wikipedia (EN): Bitcoin",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bitcoin",
+    "sourceQuote": "This reward is halved every 210,000 blocks until ₿21 million have been issued in total, which is expected to occur around the year 2140.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many million bitcoins can exist at most according to the protocol?",
+      "unit": {
+        "one": "million bitcoins",
+        "other": "million bitcoins"
+      },
+      "fact": "There will never be more than 21 million bitcoins. The mining reward halves every 210,000 blocks, so the last bitcoin won't be mined until around 2140.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "technologie-14",
+    "category": "technologie",
+    "question": "Kolik sekund trvá první video, které bylo kdy nahráno na YouTube („Me at the zoo“, 2005)?",
+    "answer": 19,
+    "unit": {
+      "one": "sekunda",
+      "few": "sekundy",
+      "many": "sekund"
+    },
+    "fact": "První video na YouTube má 19 sekund: spoluzakladatel Jawed Karim v něm v zoo v San Diegu konstatuje, že sloni mají opravdu dlouhé choboty.",
+    "sourceTitle": "Wikipedia (EN): Me at the zoo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Me_at_the_zoo",
+    "sourceQuote": "The 19-second video features Jawed Karim, one of the co-founders of YouTube, being recorded by his high school friend, Yakov Lapitsky.",
+    "answerNote": "Nahráno 23. 4. 2005.",
+    "confidence": "high",
+    "en": {
+      "question": "How many seconds long is the first video ever uploaded to YouTube ('Me at the zoo', 2005)?",
+      "unit": {
+        "one": "second",
+        "other": "seconds"
+      },
+      "fact": "The first YouTube video is 19 seconds long: co-founder Jawed Karim, at San Diego Zoo, observes that elephants have really long trunks.",
+      "answerNote": "Uploaded 23 April 2005."
+    }
+  },
+  {
+    "id": "technologie-15",
+    "category": "technologie",
+    "question": "Za kolik milionů dolarů koupil Facebook v roce 2012 Instagram?",
+    "answer": 1000,
+    "unit": {
+      "one": "milion dolarů",
+      "few": "miliony dolarů",
+      "many": "milionů dolarů"
+    },
+    "fact": "Facebook zaplatil za Instagram v dubnu 2012 miliardu dolarů – za aplikaci starou 18 měsíců, která tehdy neměla žádné příjmy.",
+    "sourceTitle": "Wikipedia (EN): Instagram",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Instagram",
+    "sourceQuote": "On April 9, 2012, Facebook, Inc. (now Meta Platforms) bought Instagram for $1 billion (equivalent to $1,346,000,000 in 2024) in cash and stock",
+    "answerNote": "1 miliarda USD v hotovosti a akciích.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million dollars did Facebook pay for Instagram in 2012?",
+      "unit": {
+        "one": "million dollars",
+        "other": "million dollars"
+      },
+      "fact": "Facebook paid a billion dollars for Instagram in April 2012 – for an 18-month-old app with no revenue at all.",
+      "answerNote": "$1 billion in cash and stock."
+    }
+  },
+  {
+    "id": "technologie-16",
+    "category": "technologie",
+    "question": "Kolik gigabajtů měl pevný disk prvního iPodu z roku 2001?",
+    "answer": 5,
+    "unit": {
+      "one": "gigabajt",
+      "few": "gigabajty",
+      "many": "gigabajtů"
+    },
+    "fact": "První iPod měl 5GB disk, na který se podle Apple vešlo „1 000 písniček v kapse“. Dnešní telefony mají paměť stokrát větší.",
+    "sourceTitle": "Wikipedia (EN): iPod",
+    "sourceUrl": "https://en.wikipedia.org/wiki/IPod",
+    "sourceQuote": "Jobs announced it as a Mac-compatible product with a 5 GB hard drive that put '1,000 songs in your pocket'.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many gigabytes was the hard drive of the first iPod from 2001?",
+      "unit": {
+        "one": "gigabyte",
+        "other": "gigabytes"
+      },
+      "fact": "The first iPod had a 5 GB drive that, according to Apple, held '1,000 songs in your pocket'. Today's phones have a hundred times more.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "technologie-17",
+    "category": "technologie",
+    "question": "Kolik znaků maximálně může mít jedna SMS zpráva?",
+    "answer": 160,
+    "unit": {
+      "one": "znak",
+      "few": "znaky",
+      "many": "znaků"
+    },
+    "fact": "SMS má limit 160 znaků – tolik se vešlo do signalizačního kanálu sítě GSM. Delší zprávy se tiše rozdělují a posílají po částech.",
+    "sourceTitle": "Wikipedia (EN): SMS",
+    "sourceUrl": "https://en.wikipedia.org/wiki/SMS",
+    "sourceQuote": "The service allows users to send and receive text messages of up to 160 characters",
+    "answerNote": "Standardní 7bitová abeceda GSM.",
+    "confidence": "high",
+    "en": {
+      "question": "How many characters can a single SMS message contain at most?",
+      "unit": {
+        "one": "character",
+        "other": "characters"
+      },
+      "fact": "An SMS is limited to 160 characters – that's what fitted into the GSM signalling channel. Longer messages are quietly split and sent in parts.",
+      "answerNote": "Standard GSM 7-bit alphabet."
+    }
+  },
+  {
+    "id": "technologie-18",
+    "category": "technologie",
+    "question": "Kolik kilometrů měří podmořský kabel 2Africa, nejdelší podmořský kabel na světě?",
+    "answer": 45000,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Kabel 2Africa obtáčí celou Afriku a měří 45 000 km – víc než obvod Země. Připojuje 46 stanic ve 33 zemích.",
+    "sourceTitle": "Wikipedia (EN): 2Africa",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2Africa",
+    "sourceQuote": "2Africa is the largest subsea cable in the world, at 45,000 kilometers long, connecting 46 cable landing stations across 33 countries.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres long is 2Africa, the longest submarine cable in the world?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "The 2Africa cable wraps around the whole of Africa and is 45,000 km long – more than the circumference of the Earth. It connects 46 landing stations in 33 countries.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "technologie-19",
+    "category": "technologie",
+    "question": "Za kolik milionů dolarů koupil Google v roce 2006 YouTube?",
+    "answer": 1650,
+    "unit": {
+      "one": "milion dolarů",
+      "few": "miliony dolarů",
+      "many": "milionů dolarů"
+    },
+    "fact": "Google koupil YouTube v listopadu 2006 za 1,65 miliardy dolarů. Tehdy to vypadalo draze – dnes YouTube vydělává přes 30 miliard ročně.",
+    "sourceTitle": "Wikipedia (EN): YouTube",
+    "sourceUrl": "https://en.wikipedia.org/wiki/YouTube",
+    "sourceQuote": "On November 13, 2006, YouTube was purchased by Google for 1.65 billion USD (equivalent to $2.44 billion in 2025).",
+    "answerNote": "1,65 miliardy USD.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million dollars did Google pay for YouTube in 2006?",
+      "unit": {
+        "one": "million dollars",
+        "other": "million dollars"
+      },
+      "fact": "Google bought YouTube in November 2006 for $1.65 billion. It looked expensive at the time – today YouTube makes over $30 billion a year.",
+      "answerNote": "$1.65 billion."
+    }
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": "veda-01",
+    "category": "veda",
+    "question": "Kolik metrů za sekundu urazí světlo ve vakuu?",
+    "answer": 299792458,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Rychlost světla ve vakuu je přesně 299 792 458 metrů za sekundu – a není to naměřená hodnota, ale definice: od roku 1983 je podle ní definován samotný metr.",
+    "sourceTitle": "Wikipedia (EN): Speed of light",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Speed_of_light",
+    "sourceQuote": "The value 299,792,458 metres per second is approximately 1 billion kilometres per hour; 700 million miles per hour.",
+    "answerNote": "Přesná definovaná hodnota v soustavě SI (od roku 1983 z ní vychází definice metru).",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres per second does light travel in a vacuum?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "The speed of light in a vacuum is exactly 299,792,458 metres per second – and it isn't a measured value but a definition: since 1983 the metre itself has been defined from it.",
+      "answerNote": "Exact defined value in the SI system (the definition of the metre has been based on it since 1983)."
+    }
+  },
+  {
+    "id": "veda-02",
+    "category": "veda",
+    "question": "Kolik kilometrů je v průměru vzdálený Měsíc od Země?",
+    "answer": 384400,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Měsíc od nás v průměru dělí 384 400 kilometrů. Podle NASA by se do té mezery vešlo vedle sebe asi 30 planet velikosti Země.",
+    "sourceTitle": "NASA – Moon: Facts",
+    "sourceUrl": "https://science.nasa.gov/moon/facts/",
+    "sourceQuote": "The Moon is an average of 238,855 miles (384,400 kilometers) away.",
+    "answerNote": "Průměrná vzdálenost Země–Měsíc podle NASA.",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres away is the Moon from the Earth on average?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "The Moon is on average 384,400 kilometres away. According to NASA, about 30 Earth-sized planets would fit side by side in the gap.",
+      "answerNote": "Average Earth–Moon distance according to NASA."
+    }
+  },
+  {
+    "id": "veda-03",
+    "category": "veda",
+    "question": "Kolik metrů měří nejhlubší vrt na světě, Kolský superhluboký vrt v Rusku?",
+    "answer": 12262,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Sověti vrtali na poloostrově Kola od roku 1970 a v roce 1989 se dostali do hloubky 12 262 metrů – to je víc, než měří Mount Everest na výšku. Díra má přitom průměr jen 23 centimetrů.",
+    "sourceTitle": "Wikipedia (EN): Kola Superdeep Borehole",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kola_Superdeep_Borehole",
+    "sourceQuote": "The third hole reached 12,262 metres (40,230 ft) in 1989.",
+    "answerNote": "Maximální dosažená hloubka vrtu SG-3 (rok 1989).",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres deep is the deepest borehole in the world, the Kola Superdeep Borehole in Russia?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "The Soviets drilled on the Kola Peninsula from 1970 and in 1989 reached a depth of 12,262 metres – more than the height of Mount Everest. The hole is just 23 centimetres across.",
+      "answerNote": "Maximum depth reached by borehole SG-3 (1989)."
+    }
+  },
+  {
+    "id": "veda-04",
+    "category": "veda",
+    "question": "Kolik metrů měří podle NOAA hloubka Challenger Deep, nejhlubšího místa světového oceánu?",
+    "answer": 10935,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Nejhlubší místo oceánu, Challenger Deep v Mariánském příkopu, leží podle amerického úřadu NOAA 10 935 metrů pod hladinou. Kdybyste tam potopili Mount Everest, zbývaly by nad jeho vrcholem ještě víc než dva kilometry vody.",
+    "sourceTitle": "NOAA Ocean Service – How deep is the ocean?",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/oceandepth.html",
+    "sourceQuote": "Challenger Deep is approximately 10,935 meters (35,876 feet) deep.",
+    "answerNote": "Údaj NOAA (uváděn jako přibližný); jiná měření se liší o desítky metrů.",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres deep is the Challenger Deep, the deepest point of the world's oceans, according to NOAA?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "The deepest point in the ocean, the Challenger Deep in the Mariana Trench, lies 10,935 metres below the surface according to the US agency NOAA. If you sank Mount Everest there, more than two kilometres of water would remain above its summit.",
+      "answerNote": "NOAA figure (given as approximate); other surveys differ by tens of metres."
+    }
+  },
+  {
+    "id": "veda-05",
+    "category": "veda",
+    "question": "Kolik dní trval nejdelší nepřetržitý pobyt člověka ve vesmíru (rekord Valerije Poljakova na stanici Mir)?",
+    "answer": 437,
+    "unit": {
+      "one": "den",
+      "few": "dny",
+      "many": "dní"
+    },
+    "fact": "Ruský lékař a kosmonaut Valerij Poljakov strávil na stanici Mir v jednom kuse 437 dní (od ledna 1994 do března 1995) a Zemi za tu dobu obletěl přes 7 000krát. Rekord nejdelšího jednotlivého letu platí dodnes.",
+    "sourceTitle": "Wikipedia (EN): Valeri Polyakov",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Valeri_Polyakov",
+    "sourceQuote": "He is the record holder for the longest single stay in space, staying aboard the Mir space station for more than 14 months (437 days, 18 hours) during one trip.",
+    "answerNote": "Let 8. 1. 1994 – 22. 3. 1995 (Sojuz TM-18 / Mir / Sojuz TM-20), celkem 437 dní 18 hodin.",
+    "confidence": "high",
+    "en": {
+      "question": "How many days did the longest single stay of a human in space (Valeri Polyakov's record on the Mir station) last?",
+      "unit": {
+        "one": "day",
+        "other": "days"
+      },
+      "fact": "Russian physician and cosmonaut Valeri Polyakov spent 437 days in a row on the Mir station (January 1994 to March 1995), orbiting the Earth over 7,000 times. The record for the longest single spaceflight still stands.",
+      "answerNote": "Flight 8 Jan 1994 – 22 Mar 1995 (Soyuz TM-18 / Mir / Soyuz TM-20), 437 days 18 hours in total."
+    }
+  },
+  {
+    "id": "veda-06",
+    "category": "veda",
+    "question": "Kolik kilogramů měsíčních hornin a prachu přivezlo na Zemi šest misí Apollo?",
+    "answer": 382,
+    "unit": {
+      "one": "kilogram",
+      "few": "kilogramy",
+      "many": "kilogramů"
+    },
+    "fact": "Astronauti šesti misí Apollo (1969–1972) dovezli celkem 382 kilogramů měsíčních kamenů, vrtných jader, oblázků, písku a prachu – dohromady 2 200 samostatných vzorků ze šesti různých míst. NASA je zkoumá dodnes.",
+    "sourceTitle": "NASA – Lunar Rocks and Soils from Apollo Missions",
+    "sourceUrl": "https://curator.jsc.nasa.gov/lunar/",
+    "sourceQuote": "Between 1969 and 1972 six Apollo missions brought back 382 kilograms (842 pounds) of lunar rocks, core samples, pebbles, sand and dust from the lunar surface.",
+    "answerNote": "Součet za všech šest přistání programu Apollo (1969–1972).",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilograms of lunar rock and dust did the six Apollo missions bring back to Earth?",
+      "unit": {
+        "one": "kilogram",
+        "other": "kilograms"
+      },
+      "fact": "The astronauts of the six Apollo missions (1969–1972) brought back 382 kilograms of lunar rocks, core samples, pebbles, sand and dust – 2,200 separate samples from six different sites. NASA is still studying them.",
+      "answerNote": "Total for all six Apollo landings (1969–1972)."
+    }
+  },
+  {
+    "id": "veda-07",
+    "category": "veda",
+    "question": "Kolik pozemských dní trvá jedna otočka Venuše kolem vlastní osy, tedy jeden venušský den?",
+    "answer": 243,
+    "unit": {
+      "one": "pozemský den",
+      "few": "pozemské dny",
+      "many": "pozemských dní"
+    },
+    "fact": "Venuše se otáčí tak líně, že jeden její den trvá 243 pozemských dní – déle než celý venušský rok, který zabere jen 225 dní. Navíc se točí opačně než Země, takže Slunce tam vychází na západě.",
+    "sourceTitle": "NASA – Venus: Facts",
+    "sourceUrl": "https://science.nasa.gov/venus/facts/",
+    "sourceQuote": "your “day” would be 243 Earth days long — longer even than a Venus year (one trip around the Sun), which takes only 225 Earth days.",
+    "answerNote": "Doba rotace Venuše podle NASA (243 pozemských dní); oběh kolem Slunce trvá 225 dní.",
+    "confidence": "high",
+    "en": {
+      "question": "How many Earth days does one rotation of Venus on its axis, i.e. one Venusian day, take?",
+      "unit": {
+        "one": "Earth day",
+        "other": "Earth days"
+      },
+      "fact": "Venus spins so lazily that one of its days lasts 243 Earth days – longer than its whole year, which takes just 225 days. It also spins backwards compared to Earth, so the Sun rises in the west.",
+      "answerNote": "Rotation period of Venus according to NASA (243 Earth days); its orbit around the Sun takes 225 days."
+    }
+  },
+  {
+    "id": "veda-08",
+    "category": "veda",
+    "question": "Kolik kilometrů měří obvod prstence Velkého hadronového urychlovače (LHC) v CERNu?",
+    "answer": 27,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Největší urychlovač částic na světě, LHC v CERNu u Ženevy, tvoří prstenec supravodivých magnetů dlouhý 27 kilometrů, uložený v tunelu zhruba 100 metrů pod zemí. Magnety jsou chlazené na −271 °C, takže je v nich větší zima než ve vesmíru.",
+    "sourceTitle": "CERN – The Large Hadron Collider",
+    "sourceUrl": "https://home.cern/science/accelerators/large-hadron-collider",
+    "sourceQuote": "The LHC consists of a 27-kilometre ring of superconducting magnets with a number of accelerating structures to boost the energy of the particles along the way.",
+    "answerNote": "Údaj CERN (27 km).",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres is the circumference of the Large Hadron Collider (LHC) ring at CERN?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "The world's largest particle accelerator, the LHC at CERN near Geneva, is a 27-kilometre ring of superconducting magnets in a tunnel about 100 metres underground. The magnets are cooled to −271 °C, colder than outer space.",
+      "answerNote": "CERN figure (27 km)."
+    }
+  },
+  {
+    "id": "veda-09",
+    "category": "veda",
+    "question": "Z kolika šestiúhelníkových segmentů se skládá hlavní zrcadlo Webbova vesmírného dalekohledu?",
+    "answer": 18,
+    "unit": {
+      "one": "segment",
+      "few": "segmenty",
+      "many": "segmentů"
+    },
+    "fact": "Hlavní zrcadlo Webbova dalekohledu o průměru 6,5 metru tvoří 18 šestiúhelníkových segmentů z berylia pokrytých zlatem. Vcelku by se do žádné rakety nevešlo, a tak se rozložilo až po startu ve vesmíru.",
+    "sourceTitle": "Wikipedia (EN): James Webb Space Telescope",
+    "sourceUrl": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+    "sourceQuote": "Webb's primary mirror consists of 18 hexagonal mirror segments made of gold-plated beryllium, which together create a 6.5-meter-diameter (21 ft) mirror",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many hexagonal segments make up the primary mirror of the James Webb Space Telescope?",
+      "unit": {
+        "one": "segment",
+        "other": "segments"
+      },
+      "fact": "Webb's 6.5-metre primary mirror consists of 18 hexagonal gold-coated beryllium segments. It wouldn't fit into any rocket in one piece, so it unfolded after launch in space.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "veda-10",
+    "category": "veda",
+    "question": "Kolik oběhů kolem Země stihne Mezinárodní vesmírná stanice (ISS) za 24 hodin?",
+    "answer": 16,
+    "unit": {
+      "one": "oběh",
+      "few": "oběhy",
+      "many": "oběhů"
+    },
+    "fact": "ISS letí rychlostí asi 8 kilometrů za sekundu a Zemi oběhne zhruba každých 90 minut – za den to dává 16 oběhů, a tedy 16 východů a 16 západů Slunce pro posádku.",
+    "sourceTitle": "NASA – Space Station Facts and Figures",
+    "sourceUrl": "https://www.nasa.gov/international-space-station/space-station-facts-and-figures/",
+    "sourceQuote": "In 24 hours, the space station makes 16 orbits of Earth, traveling through 16 sunrises and sunsets.",
+    "answerNote": "Údaj NASA.",
+    "confidence": "high",
+    "en": {
+      "question": "How many orbits of the Earth does the International Space Station (ISS) complete in 24 hours?",
+      "unit": {
+        "one": "orbit",
+        "other": "orbits"
+      },
+      "fact": "The ISS travels at about 8 kilometres per second and circles the Earth roughly every 90 minutes – 16 orbits a day, giving the crew 16 sunrises and 16 sunsets.",
+      "answerNote": "NASA figure."
+    }
+  },
+  {
+    "id": "veda-11",
+    "category": "veda",
+    "question": "Kolik metrů za sekundu urazí zvuk ve vzduchu při teplotě 20 °C?",
+    "answer": 343,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Zvuk se vzduchem o teplotě 20 °C šíří rychlostí 343 m/s – kilometr urazí za necelé tři sekundy. Proto počítáme vteřiny mezi bleskem a hromem.",
+    "sourceTitle": "Wikipedia (EN): Speed of sound",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Speed_of_sound",
+    "sourceQuote": "At 20 °C (68 °F), the speed of sound in air is about 343 m/s (1,125 ft/s; 1,235 km/h; 767 mph; 667 kn), or 1 km in 2.92 s or one mile in 4.69 s.",
+    "answerNote": "Standardní tabulková hodnota pro suchý vzduch při 20 °C.",
+    "confidence": "medium",
+    "en": {
+      "question": "How many metres per second does sound travel through air at 20 °C?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "Sound travels through 20 °C air at 343 m/s – covering a kilometre in just under three seconds. That's why we count the seconds between lightning and thunder.",
+      "answerNote": "Standard tabulated value for dry air at 20 °C."
+    }
+  },
+  {
+    "id": "veda-12",
+    "category": "veda",
+    "question": "Kolik pozemských dní trvá jeden rok na Marsu?",
+    "answer": 687,
+    "unit": {
+      "one": "pozemský den",
+      "few": "pozemské dny",
+      "many": "pozemských dní"
+    },
+    "fact": "Rok na Marsu trvá 687 pozemských dní, tedy skoro dva naše roky. Marťanský den (sol) je naopak Zemi hodně podobný – má 24,6 hodiny.",
+    "sourceTitle": "NASA – Mars: Facts",
+    "sourceUrl": "https://science.nasa.gov/mars/facts/",
+    "sourceQuote": "A year on Mars lasts 669.6 sols, which is the same as 687 Earth days.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many Earth days does a year on Mars last?",
+      "unit": {
+        "one": "Earth day",
+        "other": "Earth days"
+      },
+      "fact": "A year on Mars lasts 687 Earth days, almost two of ours. A Martian day (sol), on the other hand, is very Earth-like at 24.6 hours.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "veda-13",
+    "category": "veda",
+    "question": "Kolikrát obletěla Valentina Těreškovová Zemi při svém letu v roce 1963, kdy se stala první ženou ve vesmíru?",
+    "answer": 48,
+    "unit": {
+      "one": "oblet",
+      "few": "oblety",
+      "many": "obletů"
+    },
+    "fact": "Těreškovová obletěla v lodi Vostok 6 Zemi 48krát za necelé tři dny. Bylo to víc obletů, než do té doby nalétali všichni američtí astronauti dohromady.",
+    "sourceTitle": "Wikipedia (EN): Valentina Tereshkova",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Valentina_Tereshkova",
+    "sourceQuote": "she orbited the earth 48 times and spent 2 days, 22 hours, and 50 minutes in space.",
+    "answerNote": "Let Vostok 6, 16.–19. 6. 1963.",
+    "confidence": "high",
+    "en": {
+      "question": "How many times did Valentina Tereshkova orbit the Earth on her 1963 flight, when she became the first woman in space?",
+      "unit": {
+        "one": "orbit",
+        "other": "orbits"
+      },
+      "fact": "Tereshkova orbited the Earth 48 times in Vostok 6 in just under three days – more orbits than all the American astronauts before her put together.",
+      "answerNote": "Vostok 6 flight, 16–19 June 1963."
+    }
+  },
+  {
+    "id": "veda-14",
+    "category": "veda",
+    "question": "Kolik obletů Země stihl Sputnik 1, první umělá družice, než v roce 1958 shořel v atmosféře?",
+    "answer": 1440,
+    "unit": {
+      "one": "oblet",
+      "few": "oblety",
+      "many": "obletů"
+    },
+    "fact": "Sputnik 1 měl průměr jen 58 cm a vážil 83,6 kg. Za tři měsíce stihl 1 440 obletů Země, než v lednu 1958 shořel v atmosféře.",
+    "sourceTitle": "Wikipedia (EN): Sputnik 1",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sputnik_1",
+    "sourceQuote": "having completed 1,440 orbits of the Earth",
+    "answerNote": "Start 4. 10. 1957, zánik 4. 1. 1958.",
+    "confidence": "high",
+    "en": {
+      "question": "How many orbits of the Earth did Sputnik 1, the first artificial satellite, complete before burning up in the atmosphere in 1958?",
+      "unit": {
+        "one": "orbit",
+        "other": "orbits"
+      },
+      "fact": "Sputnik 1 was just 58 cm across and weighed 83.6 kg. In three months it completed 1,440 orbits of the Earth before burning up in the atmosphere in January 1958.",
+      "answerNote": "Launched 4 Oct 1957, decayed 4 Jan 1958."
+    }
+  },
+  {
+    "id": "veda-15",
+    "category": "veda",
+    "question": "Kolik chemických prvků je dnes známo (a zapsáno v periodické tabulce)?",
+    "answer": 118,
+    "unit": {
+      "one": "prvek",
+      "few": "prvky",
+      "many": "prvků"
+    },
+    "fact": "Známe 118 prvků a periodická tabulka má díky nim kompletních sedm řad. Přirozeně se na Zemi vyskytuje jen prvních 94, zbytek vznikl v laboratořích.",
+    "sourceTitle": "Wikipedia (EN): Periodic table",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Periodic_table",
+    "sourceQuote": "Today, 118 elements are known, the first 94 of which are known to occur naturally on Earth.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many chemical elements are known today (and listed in the periodic table)?",
+      "unit": {
+        "one": "element",
+        "other": "elements"
+      },
+      "fact": "We know 118 elements, which complete the first seven rows of the periodic table. Only the first 94 occur naturally on Earth; the rest were made in laboratories.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "veda-16",
+    "category": "veda",
+    "question": "Kolik lidí se dosud prošlo po povrchu Měsíce?",
+    "answer": 12,
+    "unit": {
+      "one": "člověk",
+      "few": "lidé",
+      "many": "lidí"
+    },
+    "fact": "Po Měsíci chodilo jen 12 lidí, všichni v letech 1969–1972 během šesti přistání programu Apollo. K Měsíci ale letělo 24 astronautů – zbytek zůstal na oběžné dráze.",
+    "sourceTitle": "Wikipedia (EN): List of Apollo astronauts",
+    "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Apollo_astronauts",
+    "sourceQuote": "Twelve men walked on the Moon during six Moon landings of the Apollo program between July 1969 and December 1972.",
+    "answerNote": "Stav k roku 2026.",
+    "confidence": "high",
+    "en": {
+      "question": "How many people have walked on the surface of the Moon so far?",
+      "unit": {
+        "one": "person",
+        "other": "people"
+      },
+      "fact": "Only 12 people have walked on the Moon, all during the six Apollo landings of 1969–1972. But 24 astronauts flew to the Moon – the rest stayed in orbit.",
+      "answerNote": "As of 2026."
+    }
+  },
+  {
+    "id": "veda-17",
+    "category": "veda",
+    "question": "Kolik kilogramů váží marsovské vozítko Curiosity?",
+    "answer": 899,
+    "unit": {
+      "one": "kilogram",
+      "few": "kilogramy",
+      "many": "kilogramů"
+    },
+    "fact": "Curiosity váží 899 kg – jako malé auto – a na Mars ho v srpnu 2012 spustil na lanech „nebeský jeřáb“. Jezdí tam dodnes.",
+    "sourceTitle": "Wikipedia (EN): Curiosity (rover)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Curiosity_(rover)",
+    "sourceQuote": "Dry mass: 899 kilograms (1,982 lb)",
+    "answerNote": "Suchá hmotnost.",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilograms does the Mars rover Curiosity weigh?",
+      "unit": {
+        "one": "kilogram",
+        "other": "kilograms"
+      },
+      "fact": "Curiosity weighs 899 kg – like a small car – and was lowered onto Mars on cables by a 'sky crane' in August 2012. It is still driving there today.",
+      "answerNote": "Dry mass."
+    }
+  },
+  {
+    "id": "veda-18",
+    "category": "veda",
+    "question": "Kolik centimetrů měří průměr hlavního zrcadla Hubbleova vesmírného dalekohledu?",
+    "answer": 240,
+    "unit": {
+      "one": "centimetr",
+      "few": "centimetry",
+      "many": "centimetrů"
+    },
+    "fact": "Hubbleovo zrcadlo má průměr 2,4 metru a bylo vybroušeno o dvě mikrometry špatně – ostře vidí až od opravy astronauty v roce 1993.",
+    "sourceTitle": "Wikipedia (EN): Hubble Space Telescope",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+    "sourceQuote": "Hubble features a 2.4 m (7 ft 10 in) mirror",
+    "answerNote": "2,4 m; start 1990.",
+    "confidence": "high",
+    "en": {
+      "question": "How many centimetres is the diameter of the Hubble Space Telescope's primary mirror?",
+      "unit": {
+        "one": "centimetre",
+        "other": "centimetres"
+      },
+      "fact": "Hubble's mirror is 2.4 metres across and was ground wrong by two micrometres – it has only seen sharply since astronauts repaired it in 1993.",
+      "answerNote": "2.4 m; launched 1990."
+    }
+  },
+  {
+    "id": "veda-19",
+    "category": "veda",
+    "question": "Kolik minut trval let Jurije Gagarina, prvního člověka ve vesmíru, podle oficiálních údajů?",
+    "answer": 108,
+    "unit": {
+      "one": "minuta",
+      "few": "minuty",
+      "many": "minut"
+    },
+    "fact": "Gagarinův let 12. dubna 1961 trval oficiálně 108 minut od startu po přistání. Podle pozdější analýzy dokumentů to bylo o dvě minuty méně.",
+    "sourceTitle": "Wikipedia (EN): Vostok 1",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Vostok_1",
+    "sourceQuote": "The flight took 108 minutes from launch to landing",
+    "answerNote": "Oficiálně uváděná délka letu; některé zdroje uvádějí 106 minut.",
+    "confidence": "medium",
+    "en": {
+      "question": "How many minutes did Yuri Gagarin's flight, the first human spaceflight, last according to official figures?",
+      "unit": {
+        "one": "minute",
+        "other": "minutes"
+      },
+      "fact": "Gagarin's flight on 12 April 1961 officially lasted 108 minutes from launch to landing. Later analysis of documents showed it was two minutes shorter.",
+      "answerNote": "Officially reported flight duration; some sources give 106 minutes."
+    }
+  },
+  {
+    "id": "veda-20",
+    "category": "veda",
+    "question": "V kolika kilometrech nad mořem leží Kármánova hranice, mezinárodně uznávaná hranice vesmíru?",
+    "answer": 100,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Podle Mezinárodní letecké federace začíná vesmír 100 km nad mořem. Do Prahy z Brna je to dál – vesmír je tedy blíž, než si většina lidí myslí.",
+    "sourceTitle": "Wikipedia (EN): Kármán line",
+    "sourceUrl": "https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_line",
+    "sourceQuote": "The international record-keeping body FAI (Fédération aéronautique internationale) defines the Kármán line at an altitude of 100 kilometres (54 nautical miles; 62 miles; 328,084 feet) above mean sea level.",
+    "answerNote": "Definice FAI.",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres above sea level is the Kármán line, the internationally recognised boundary of space?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "According to the FAI, space begins 100 km above sea level. That's closer than a lot of everyday journeys – space is nearer than most people think.",
+      "answerNote": "FAI definition."
+    }
+  }
+]
