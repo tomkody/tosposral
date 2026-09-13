@@ -1,9 +1,9 @@
 # Tos posral! 💩
 
-Mobilní párty hra pro 2–6 hráčů na jednom telefonu, postavená na principu hry
-**Tos přehnal!** (TLAMA games): otázka s číselnou odpovědí, hráči přihazují
-stále vyšší čísla a kdo si myslí, že předchozí hráč přestřelil, zmáčkne
-**„Tos posral!“**. Kdo se splete, dostává 💩. Vyhrává ten, kdo jich má nejmíň.
+Mobilní párty hra pro 2–6 hráčů na jednom telefonu: otázka s číselnou
+odpovědí, hráči přihazují stále vyšší čísla a kdo si myslí, že předchozí hráč
+přestřelil, zmáčkne **„Tos posral!“**. Kdo se splete, dostává 💩. Vyhrává ten,
+kdo jich má nejmíň.
 
 Všechna fakta jsou **ověřená a zazdrojovaná** – u každé odpovědi se zobrazí
 odkaz na zdroj (Wikipedia, Guinness World Records, NASA, oficiální weby…).
