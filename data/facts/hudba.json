@@ -466,5 +466,109 @@
       "fact": "Mozart died at just 35, yet completed more than 800 works. He had been composing since the age of five.",
       "answerNote": "1756–1791."
     }
+  },
+  {
+    "id": "hudba-19",
+    "category": "hudba",
+    "question": "Kolik tisíc dolarů se v roce 2011 vydražily housle Stradivari „Lady Blunt“ z roku 1721, nejdráže prodané housle historie?",
+    "answer": 15900,
+    "unit": {
+      "one": "tisíc dolarů",
+      "few": "tisíce dolarů",
+      "many": "tisíc dolarů"
+    },
+    "fact": "Housle Stradivari „Lady Blunt“, dochované v mimořádném stavu, se v roce 2011 vydražily za 15,9 milionu dolarů – výtěžek šel na pomoc obětem zemětřesení a tsunami v Japonsku.",
+    "sourceTitle": "Wikipedia (EN): Stradivarius",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Stradivarius",
+    "sourceQuote": "In 2011, his \"Lady Blunt\" violin from 1721, which is in pristine condition, was sold in London for $15.9 million",
+    "answerNote": "15 900 000 USD, aukce v roce 2011.",
+    "confidence": "high",
+    "en": {
+      "question": "How many thousand dollars did the 1721 Stradivarius violin 'Lady Blunt' sell for at auction in 2011 – the highest price ever paid for a violin?",
+      "unit": {
+        "one": "thousand dollars",
+        "other": "thousand dollars"
+      },
+      "fact": "The 'Lady Blunt' Stradivarius, preserved in exceptional condition, sold at auction in 2011 for $15.9 million – the proceeds went to help victims of Japan's earthquake and tsunami.",
+      "answerNote": "$15,900,000, sold at auction in 2011."
+    }
+  },
+  {
+    "id": "hudba-20",
+    "category": "hudba",
+    "question": "Kolik milionů desek prodala kapela The Rolling Stones za celou svou kariéru (odhad)?",
+    "answer": 250,
+    "unit": {
+      "one": "milion desek",
+      "few": "miliony desek",
+      "many": "milionů desek"
+    },
+    "fact": "The Rolling Stones vznikli v roce 1962 a od té doby prodali odhadem 250 milionů desek. Aktivní jsou déle než šest desetiletí – nové album Hackney Diamonds vydali v roce 2023.",
+    "sourceTitle": "Wikipedia (EN): Rolling Stones",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rolling_Stones",
+    "sourceQuote": "The Rolling Stones have estimated album sales of more than 250 million.",
+    "answerNote": "Odhad celkových prodejů alb za celou kariéru.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million records has The Rolling Stones sold over their entire career (estimate)?",
+      "unit": {
+        "one": "million records",
+        "other": "million records"
+      },
+      "fact": "The Rolling Stones formed in 1962 and have sold an estimated 250 million records since. Active for over six decades, they released the new album Hackney Diamonds in 2023.",
+      "answerNote": "Estimated total album sales over the band's career."
+    }
+  },
+  {
+    "id": "hudba-21",
+    "category": "hudba",
+    "question": "Kolik cen Grammy získal Michael Jackson na jediném předávacím ceremoniálu v roce 1984 – rekord, který od té doby jen vyrovnali?",
+    "answer": 8,
+    "unit": {
+      "one": "cena Grammy",
+      "few": "ceny Grammy",
+      "many": "cen Grammy"
+    },
+    "fact": "Michael Jackson v roce 1984 na jednom večeru vyhrál 8 cen Grammy za album Thriller – rekord pro nejvíc výher v jedné noci. Později ho vyrovnala jen kapela Santana.",
+    "sourceTitle": "Wikipedia (EN): Michael Jackson",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Michael_Jackson",
+    "sourceQuote": "Jackson received 12 nominations—the most in a single night at the time (later tied with Babyface)—and won eight awards, breaking the record for the most wins in a single night (later tied by Santana).",
+    "answerNote": "26. ročník cen Grammy, 1984; rekord později vyrovnal Santana.",
+    "confidence": "high",
+    "en": {
+      "question": "How many Grammy Awards did Michael Jackson win at a single ceremony in 1984 – a record only later tied?",
+      "unit": {
+        "one": "Grammy",
+        "other": "Grammys"
+      },
+      "fact": "In 1984 Michael Jackson won 8 Grammy Awards in a single night for the album Thriller – a record for the most wins in one night. It was later tied only by Santana.",
+      "answerNote": "26th Grammy Awards, 1984; record later tied by Santana."
+    }
+  },
+  {
+    "id": "hudba-22",
+    "category": "hudba",
+    "question": "Kolik milionů kopií prodalo album 21 od Adele po celém světě (stav k roku 2016)?",
+    "answer": 31,
+    "unit": {
+      "one": "milion kopií",
+      "few": "miliony kopií",
+      "many": "milionů kopií"
+    },
+    "fact": "Album 21 se do roku 2016 prodalo ve 31 milionech kopií a stalo se jedním z nejúspěšnějších alb 21. století. Adele za ně získala i šest cen Grammy.",
+    "sourceTitle": "Wikipedia (EN): Adele",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Adele",
+    "sourceQuote": "as of 2016, the album has sold over 31 million copies.",
+    "answerNote": "Stav k roku 2016.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million copies had Adele's album 21 sold worldwide as of 2016?",
+      "unit": {
+        "one": "million copies",
+        "other": "million copies"
+      },
+      "fact": "By 2016 the album 21 had sold 31 million copies, making it one of the best-selling albums of the 21st century. It also won Adele six Grammy Awards.",
+      "answerNote": "As of 2016."
+    }
   }
 ]

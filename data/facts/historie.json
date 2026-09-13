@@ -544,5 +544,161 @@
       "fact": "NATO has 32 members. Twelve states founded it in 1949, Czechia joined in 1999 and the latest addition was Sweden in 2024.",
       "answerNote": "As of 2026."
     }
+  },
+  {
+    "id": "historie-22",
+    "category": "historie",
+    "question": "Kolik dní hořel Řím při velkém požáru v roce 64 n. l., než se poprvé podařilo oheň dostat pod kontrolu?",
+    "answer": 6,
+    "unit": {
+      "one": "den",
+      "few": "dny",
+      "many": "dní"
+    },
+    "fact": "Velký římský požár z roku 64 n. l. hořel nepřetržitě 6 dní, než poprvé pohasl – pak se ale znovu vzňal a hořel ještě 3 další dny. Zničil velkou část města a podle legendy si na to císař Nero hrál na lyru.",
+    "sourceTitle": "Wikipedia (EN): Great Fire of Rome",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+    "sourceQuote": "The fire stopped after six days of continuous burning. It then reignited and burned for another three days.",
+    "answerNote": "Po prvním uhašení se oheň znovu vzňal a hořel dalších 9 dní, souhrnně bydlel s přestávkou.",
+    "confidence": "high",
+    "en": {
+      "question": "How many days did Rome burn in the Great Fire of AD 64, before the flames were first brought under control?",
+      "unit": {
+        "one": "day",
+        "other": "days"
+      },
+      "fact": "The Great Fire of Rome in AD 64 burned continuously for 6 days before it first died down – then it flared up again and burned for another 3 days. It destroyed much of the city, and legend has it that Emperor Nero played his lyre while it burned.",
+      "answerNote": "After the first burn-out the fire reignited and burned for a further 3 days, with a gap in between."
+    }
+  },
+  {
+    "id": "historie-23",
+    "category": "historie",
+    "question": "Kolik vojáků odhadem obsahuje terakotová armáda čínského císaře Čchin Š'-chuang-tiho, objevená v roce 1974?",
+    "answer": 8000,
+    "unit": {
+      "one": "voják",
+      "few": "vojáci",
+      "many": "vojáků"
+    },
+    "fact": "Terakotová armáda pohřbená s prvním čínským císařem obsahuje přes 8 000 sochy vojáků v životní velikosti, spolu se 130 vozy a 520 koňmi. Každá tvář je jiná – řemeslníci je modelovali jako portréty skutečných mužů.",
+    "sourceTitle": "Wikipedia (EN): Terracotta Army",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Terracotta_Army",
+    "sourceQuote": "the three pits containing the Terracotta Army hold more than 8,000 soldiers, 130 chariots with 520 horses",
+    "answerNote": "Odhad z roku 2007; „více než 8 000“ – minimální doložený počet, celkem se odhaduje i více.",
+    "confidence": "medium",
+    "en": {
+      "question": "How many soldiers, at an estimate, does the Terracotta Army of Chinese emperor Qin Shi Huang, discovered in 1974, contain?",
+      "unit": {
+        "one": "soldier",
+        "other": "soldiers"
+      },
+      "fact": "The Terracotta Army buried with China's first emperor contains over 8,000 life-sized soldier statues, along with 130 chariots and 520 horses. Every face is different – craftsmen modelled them as portraits of real men.",
+      "answerNote": "2007 estimate; 'more than 8,000' is the minimum documented count, with higher estimates for the total."
+    }
+  },
+  {
+    "id": "historie-24",
+    "category": "historie",
+    "question": "Kolik lodí podle Seznamu lodí v Homérově Ílias vyplulo řecké vojsko k Tróji?",
+    "answer": 1186,
+    "unit": {
+      "one": "loď",
+      "few": "lodě",
+      "many": "lodí"
+    },
+    "fact": "Homérův Seznam lodí ve druhé knize Ílias vyjmenovává řecké oddíly, které se sešly u Tróje – dohromady 1 186 lodí. Číslo je literární, ne historicky doložené, ale patří k nejstarším dochovaným „statistikám“ evropské literatury.",
+    "sourceTitle": "Wikipedia (EN): Trojan War",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Trojan_War",
+    "sourceQuote": "comprising 1186 pentekonters, ships with 50 rowers.",
+    "answerNote": "Legendární číslo z eposu Ílias (kniha II), nikoli historicky ověřený údaj.",
+    "confidence": "medium",
+    "en": {
+      "question": "How many ships did the Greek forces sail to Troy with, according to the Catalogue of Ships in Homer's Iliad?",
+      "unit": {
+        "one": "ship",
+        "other": "ships"
+      },
+      "fact": "Homer's Catalogue of Ships in Book II of the Iliad lists the Greek contingents that gathered at Troy – 1,186 ships in total. The figure is literary, not historically documented, but it's one of the oldest 'statistics' surviving in European literature.",
+      "answerNote": "A legendary figure from the epic poem the Iliad (Book II), not a historically verified count."
+    }
+  },
+  {
+    "id": "historie-25",
+    "category": "historie",
+    "question": "Kolik let stála Berlínská zeď, než v roce 1989 padla?",
+    "answer": 28,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Berlínská zeď oddělovala Západní Berlín od Východního 28 let, od srpna 1961 do listopadu 1989. Za tu dobu se o její překonání pokusily tisíce lidí, desítky z nich při tom zahynuly.",
+    "sourceTitle": "Wikipedia (EN): Berlin Wall",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Berlin_Wall",
+    "sourceQuote": "was a guarded concrete barrier that encircled West Berlin from 1961 to 1989, separating it from East Berlin",
+    "answerNote": "1961–1989.",
+    "confidence": "high",
+    "en": {
+      "question": "How many years did the Berlin Wall stand before it fell in 1989?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "The Berlin Wall separated West from East Berlin for 28 years, from August 1961 to November 1989. Thousands of people tried to cross it in that time, and dozens died in the attempt.",
+      "answerNote": "1961–1989."
+    }
+  },
+  {
+    "id": "historie-26",
+    "category": "historie",
+    "question": "Kolik kilogramů váží Rosettská deska, klíč k rozluštění egyptských hieroglyfů, objevená v roce 1799?",
+    "answer": 760,
+    "unit": {
+      "one": "kilogram",
+      "few": "kilogramy",
+      "many": "kilogramů"
+    },
+    "fact": "Rosettská deska váží asi 760 kilogramů a objevil ji francouzský voják v roce 1799 v egyptském městě Rašíd. Stejný text ve třech písmech (hieroglyfy, démotika, řečtina) umožnil francouzskému učenci Champollionovi rozluštit hieroglyfy.",
+    "sourceTitle": "Wikipedia (EN): Rosetta Stone",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+    "sourceQuote": "It weighs approximately 760 kilograms (1,680 lb).",
+    "answerNote": "Přibližná hmotnost.",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilograms does the Rosetta Stone, the key to deciphering Egyptian hieroglyphs, discovered in 1799, weigh?",
+      "unit": {
+        "one": "kilogram",
+        "other": "kilograms"
+      },
+      "fact": "The Rosetta Stone weighs about 760 kilograms and was discovered by a French soldier in 1799 in the Egyptian town of Rashid. The same text in three scripts (hieroglyphic, demotic and Greek) let French scholar Champollion decipher hieroglyphs.",
+      "answerNote": "Approximate weight."
+    }
+  },
+  {
+    "id": "historie-27",
+    "category": "historie",
+    "question": "Kolik kilometrů měří poloměr uzavřené (vyloučené) zóny kolem černobylské jaderné elektrárny?",
+    "answer": 30,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Po havárii v roce 1986 vznikla kolem Černobylu 30kilometrová vyloučená zóna, ze které muselo odejít přes 68 000 dalších lidí. Většina zóny je neobydlená dodnes.",
+    "sourceTitle": "Wikipedia (EN): Chernobyl disaster",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+    "sourceQuote": "This was later expanded to 30 kilometres (19 mi), resulting in the evacuation of approximately 68,000 more people.",
+    "answerNote": "Poloměr rozšířené zóny; evakuace zasáhla přes 68 000 lidí navíc.",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres is the radius of the exclusion zone around the Chernobyl nuclear power plant?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "After the 1986 disaster, a 30-kilometre exclusion zone was established around Chernobyl, from which over 68,000 more people had to be evacuated. Most of the zone remains uninhabited today.",
+      "answerNote": "Radius of the expanded zone; the evacuation affected over 68,000 additional people."
+    }
   }
 ]

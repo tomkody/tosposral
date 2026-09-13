@@ -492,5 +492,109 @@
       "fact": "Akshat Saxena was born in 2010 with 7 fingers on each hand and 10 toes on each foot – 34 in all. Doctors later surgically removed the extra ones.",
       "answerNote": ""
     }
+  },
+  {
+    "id": "telo-20",
+    "category": "telo",
+    "question": "Kolik milionů párů bází obsahuje referenční lidský genom?",
+    "answer": 3100,
+    "unit": {
+      "one": "milion párů bází",
+      "few": "miliony párů bází",
+      "many": "milionů párů bází"
+    },
+    "fact": "Referenční lidský genom obsahuje asi 3,1 miliardy párů bází, tedy 3 100 milionů. Většina lidských buněk je ale dvojitá (diploidní), takže ve skutečnosti nese dvojnásobek – přes 6 miliard.",
+    "sourceTitle": "Wikipedia (EN): Human genome",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Human_genome",
+    "sourceQuote": "It contains approximately 3.1 billion base pairs.",
+    "answerNote": "Haploidní referenční genom (GRCh38); běžná lidská buňka je diploidní.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million base pairs does the reference human genome contain?",
+      "unit": {
+        "one": "million base pairs",
+        "other": "million base pairs"
+      },
+      "fact": "The reference human genome contains about 3.1 billion base pairs, i.e. 3,100 million. Most human cells are diploid, though, so they actually carry double that – over 6 billion.",
+      "answerNote": "Haploid reference genome (GRCh38); an ordinary human cell is diploid."
+    }
+  },
+  {
+    "id": "telo-21",
+    "category": "telo",
+    "question": "Kolik miliard neuronů má podle odhadu lidský mozek?",
+    "answer": 86,
+    "unit": {
+      "one": "miliarda neuronů",
+      "few": "miliardy neuronů",
+      "many": "miliard neuronů"
+    },
+    "fact": "Lidský mozek obsahuje odhadem 86 miliard neuronů. Každý z nich se přitom může propojit s tisíci dalších, takže počet spojení v mozku jde do biliónů.",
+    "sourceTitle": "Wikipedia (EN): Neuron",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Neuron",
+    "sourceQuote": "The human brain has some 8.6 × 10^10 (eighty six billion) neurons.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many billion neurons does the human brain have, by estimate?",
+      "unit": {
+        "one": "billion neurons",
+        "other": "billion neurons"
+      },
+      "fact": "The human brain contains an estimated 86 billion neurons. Each one can connect to thousands of others, so the number of connections in the brain runs into the trillions.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "telo-22",
+    "category": "telo",
+    "question": "Kolik kostí má v průměru novorozené miminko, než se řada z nich postupně srostla do dospělých 206?",
+    "answer": 270,
+    "unit": {
+      "one": "kost",
+      "few": "kosti",
+      "many": "kostí"
+    },
+    "fact": "Novorozenec má přes 270 kostí – o desítky víc než dospělý se 206 kostmi. Mnohé z nich, například v lebce, se totiž postupem let srůstají do jedné.",
+    "sourceTitle": "Wikipedia (EN): Skeleton",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Skeleton",
+    "sourceQuote": "newborn babies have over 270 bones some of which fuse together.",
+    "answerNote": "„Přes 270 kostí“ při narození.",
+    "confidence": "high",
+    "en": {
+      "question": "How many bones does a newborn baby have on average, before many of them gradually fuse into the adult's 206?",
+      "unit": {
+        "one": "bone",
+        "other": "bones"
+      },
+      "fact": "A newborn baby has over 270 bones – dozens more than an adult's 206. Many of them, in the skull for example, fuse together into one over the years.",
+      "answerNote": "'Over 270 bones' at birth."
+    }
+  },
+  {
+    "id": "telo-23",
+    "category": "telo",
+    "question": "Kolik okohybných svalů má jedno lidské oko?",
+    "answer": 7,
+    "unit": {
+      "one": "sval",
+      "few": "svaly",
+      "many": "svalů"
+    },
+    "fact": "Jedno oko ovládá 7 okohybných svalů, které ho otáčejí ve všech směrech a zvedají víčko. Díky nim dokážeme sledovat pohybující se předmět, aniž bychom museli hýbat hlavou.",
+    "sourceTitle": "Wikipedia (EN): Human eye",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Human_eye",
+    "sourceQuote": "Each eye has seven extraocular muscles located in its orbit.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many extraocular muscles does one human eye have?",
+      "unit": {
+        "one": "muscle",
+        "other": "muscles"
+      },
+      "fact": "One eye is controlled by 7 extraocular muscles, which turn it in every direction and lift the eyelid. They let us track a moving object without having to move our head.",
+      "answerNote": ""
+    }
   }
 ]

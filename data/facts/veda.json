@@ -518,5 +518,31 @@
       "fact": "According to the FAI, space begins 100 km above sea level. That's closer than a lot of everyday journeys – space is nearer than most people think.",
       "answerNote": "FAI definition."
     }
+  },
+  {
+    "id": "veda-21",
+    "category": "veda",
+    "question": "Kolik minut trvala mise Apollo 13 od startu do přistání (zaokrouhleno dolů na celé minuty)?",
+    "answer": 8574,
+    "unit": {
+      "one": "minuta",
+      "few": "minuty",
+      "many": "minut"
+    },
+    "fact": "Apollo 13 strávilo na cestě 5 dní, 22 hodin, 54 minut a 41 sekund – po výbuchu nádrže s kyslíkem posádka musela oblétnout Měsíc a vrátit se na Zemi bez přistání. Nakonec se všichni tři astronauti vrátili živí.",
+    "sourceTitle": "Wikipedia (EN): Apollo 13",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Apollo_13",
+    "sourceQuote": "5 days, 22 hours, 54 minutes, 41 seconds",
+    "answerNote": "5 d 22 h 54 min 41 s, zaokrouhleno dolů na celé minuty (41 s vynecháno).",
+    "confidence": "high",
+    "en": {
+      "question": "How many minutes did the Apollo 13 mission last from launch to splashdown (rounded down to whole minutes)?",
+      "unit": {
+        "one": "minute",
+        "other": "minutes"
+      },
+      "fact": "Apollo 13 spent 5 days, 22 hours, 54 minutes and 41 seconds in space – after an oxygen tank explosion, the crew had to loop around the Moon and return to Earth without landing. All three astronauts made it home alive.",
+      "answerNote": "5 d 22 h 54 min 41 s, rounded down to whole minutes (41 s dropped)."
+    }
   }
 ]

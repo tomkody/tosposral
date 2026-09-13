@@ -388,5 +388,135 @@
       "fact": "A British pint is 568 ml, a US pint only 473 ml. Order a pint in London and you get almost a fifth more than in New York.",
       "answerNote": "Exactly 568.26 ml."
     }
+  },
+  {
+    "id": "jidlo-16",
+    "category": "jidlo",
+    "question": "Kolik liber ročně platil pivovarník Arthur Guinness za pronájem pivovaru St. James's Gate v Dublinu na 9000 let, jak si smlouvu nechal sepsat v roce 1759?",
+    "answer": 45,
+    "unit": {
+      "one": "libra",
+      "few": "libry",
+      "many": "liber"
+    },
+    "fact": "Arthur Guinness si 31. prosince 1759 nechal na nepoužívaný pivovar St. James's Gate sepsat smlouvu na 9 000 let za pouhých 45 liber ročně. Guinness se tam vaří dodnes.",
+    "sourceTitle": "Wikipedia (EN): Guinness",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Guinness",
+    "sourceQuote": "On 31 December 1759, he signed a 9,000 year lease at £45 per annum for the unused brewery.",
+    "answerNote": "Nájemní smlouva z 31. 12. 1759.",
+    "confidence": "high",
+    "en": {
+      "question": "How many pounds a year did brewer Arthur Guinness pay to lease the St. James's Gate Brewery in Dublin for 9,000 years, under the deal he signed in 1759?",
+      "unit": {
+        "one": "pound",
+        "other": "pounds"
+      },
+      "fact": "On 31 December 1759 Arthur Guinness signed a 9,000-year lease on the disused St. James's Gate Brewery for just £45 a year. Guinness is still brewed there today.",
+      "answerNote": "Lease signed 31 Dec 1759."
+    }
+  },
+  {
+    "id": "jidlo-17",
+    "category": "jidlo",
+    "question": "Kolik tisíc květů šafránu setého je potřeba na výrobu jednoho kilogramu koření šafránu?",
+    "answer": 150,
+    "unit": {
+      "one": "tisíc květů",
+      "few": "tisíce květů",
+      "many": "tisíc květů"
+    },
+    "fact": "Na kilogram šafránu je potřeba sklidit a ručně otrhat blizny ze 150 000 květů krokusu. Proto patří šafrán mezi nejdražší koření na světě.",
+    "sourceTitle": "Wikipedia (EN): Saffron",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Saffron",
+    "sourceQuote": "150,000 crocus flowers per kilogram (70,000 flowers/lb)",
+    "answerNote": "150 000 květů = 440 000 ručně sebraných blizen na kilogram.",
+    "confidence": "high",
+    "en": {
+      "question": "How many thousand crocus flowers are needed to produce one kilogram of saffron?",
+      "unit": {
+        "one": "thousand flowers",
+        "other": "thousand flowers"
+      },
+      "fact": "It takes 150,000 hand-picked crocus flowers to produce one kilogram of saffron. That's why it's among the most expensive spices in the world.",
+      "answerNote": "150,000 flowers = 440,000 hand-picked stigmas per kilogram."
+    }
+  },
+  {
+    "id": "jidlo-18",
+    "category": "jidlo",
+    "question": "Kolik let zraje omáčka Tabasco v dubových sudech, než se stočí do lahví?",
+    "answer": 3,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Rozdrcené papričky Tabasco zrají v dubových sudech (dřív používaných na whiskey) až 3 roky, než se protřídí a smíchají s octem. Firmu založil Edmund McIlhenny v roce 1868.",
+    "sourceTitle": "Wikipedia (EN): Tabasco sauce",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Tabasco_sauce",
+    "sourceQuote": "After aging for up to three years, the mash is strained to remove skins and seeds.",
+    "answerNote": "„Až 3 roky“ – maximální doba zrání.",
+    "confidence": "high",
+    "en": {
+      "question": "How many years does Tabasco sauce age in oak barrels before being bottled?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "Crushed Tabasco peppers age in oak barrels (formerly used for whiskey) for up to 3 years before being strained and mixed with vinegar. The company was founded by Edmund McIlhenny in 1868.",
+      "answerNote": "Up to 3 years – maximum aging period."
+    }
+  },
+  {
+    "id": "jidlo-19",
+    "category": "jidlo",
+    "question": "Kolik tisíc tun Nutelly se celosvětově vyrobilo v roce 2013?",
+    "answer": 350,
+    "unit": {
+      "one": "tisíc tun",
+      "few": "tisíce tun",
+      "many": "tisíc tun"
+    },
+    "fact": "V roce 2013 se na světě vyrobilo 350 000 tun Nutelly. První kelímek vyjel z továrny v italské Albě 20. dubna 1964.",
+    "sourceTitle": "Wikipedia (EN): Nutella",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Nutella",
+    "sourceQuote": "Global production in 2013 was about 350,000 tonnes.",
+    "answerNote": "Celosvětová produkce za rok 2013.",
+    "confidence": "high",
+    "en": {
+      "question": "How many thousand tonnes of Nutella were produced worldwide in 2013?",
+      "unit": {
+        "one": "thousand tonnes",
+        "other": "thousand tonnes"
+      },
+      "fact": "In 2013, 350,000 tonnes of Nutella were produced worldwide. The first jar left the factory in Alba, Italy, on 20 April 1964.",
+      "answerNote": "Worldwide production for 2013."
+    }
+  },
+  {
+    "id": "jidlo-20",
+    "category": "jidlo",
+    "question": "Kolik barů tlaku je uvnitř zavřené lahve šampaňského?",
+    "answer": 6,
+    "unit": {
+      "one": "bar",
+      "few": "bary",
+      "many": "barů"
+    },
+    "fact": "V lahvi šampaňského je tlak kolem 6 barů – zhruba trojnásobek tlaku v pneumatice auta. Proto se korek při otevírání nemá vystřelovat, ale opatrně pouštět.",
+    "sourceTitle": "Wikipedia (EN): Champagne",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Champagne",
+    "sourceQuote": "The six-bar (90 psi) pressure in the bottle forces out the ice containing the lees.",
+    "answerNote": "Přibližně 6 barů (90 psi).",
+    "confidence": "high",
+    "en": {
+      "question": "How many bars of pressure are inside a sealed bottle of champagne?",
+      "unit": {
+        "one": "bar",
+        "other": "bars"
+      },
+      "fact": "A bottle of champagne holds a pressure of about 6 bars – roughly three times that of a car tyre. That's why the cork should be eased out, not popped.",
+      "answerNote": "Approximately 6 bars (90 psi)."
+    }
   }
 ]

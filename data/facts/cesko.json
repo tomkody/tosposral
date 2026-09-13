@@ -544,5 +544,83 @@
       "fact": "In January 2022 Czechia had 6,254 municipalities – per capita one of the highest numbers in Europe. Most of them have fewer than 500 inhabitants.",
       "answerNote": "As of January 2022."
     }
+  },
+  {
+    "id": "cesko-22",
+    "category": "cesko",
+    "question": "Kolik metrů měří na délku Vladislavský sál na Pražském hradě, největší světská gotická síň střední Evropy?",
+    "answer": 62,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Vladislavský sál měří 62 na 16 metrů a nechal ho postavit král Vladislav Jagellonský koncem 15. století. Byl tak prostorný, že se v něm konaly i rytířské turnaje na koních – proto k němu vede jezdecké schodiště.",
+    "sourceTitle": "Wikipedie (CS): Vladislavský sál",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Vladislavsk%C3%BD_s%C3%A1l",
+    "sourceQuote": "Pozdně gotický obdélný sál o rozměrech 62 × 16 m s bohatou krouženou klenbou v pěti polích",
+    "answerNote": "Rozměry 62 × 16 m.",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres long is Vladislav Hall at Prague Castle, the largest secular Gothic hall in Central Europe?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "Vladislav Hall measures 62 by 16 metres and was built for King Vladislaus Jagiellon in the late 15th century. It was spacious enough to host knights' jousting tournaments on horseback – which is why a Riders' Staircase leads up to it.",
+      "answerNote": "Dimensions 62 × 16 m."
+    }
+  },
+  {
+    "id": "cesko-23",
+    "category": "cesko",
+    "question": "Kolik hektarů má vodní nádrž Lipno, největší přehradní jezero v Česku?",
+    "answer": 4870,
+    "unit": {
+      "one": "hektar",
+      "few": "hektary",
+      "many": "hektarů"
+    },
+    "fact": "Lipno má rozlohu 48,7 kilometru čtverečního, tedy 4 870 hektarů, a je zdaleka největší přehradní nádrží v Česku. Vzniklo v 50. letech zatopením údolí horní Vltavy.",
+    "sourceTitle": "Wikipedie (CS): Vodní nádrž Lipno",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_Lipno",
+    "sourceQuote": "S rozlohou 48,7 km² jde o největší přehradní nádrž",
+    "answerNote": "48,7 km² = 4 870 ha.",
+    "confidence": "high",
+    "en": {
+      "question": "How many hectares does the Lipno reservoir, the largest reservoir lake in Czechia, cover?",
+      "unit": {
+        "one": "hectare",
+        "other": "hectares"
+      },
+      "fact": "Lipno covers 48.7 square kilometres, or 4,870 hectares, making it by far the largest reservoir in Czechia. It was created in the 1950s by flooding the upper Vltava valley.",
+      "answerNote": "48.7 km² = 4,870 ha."
+    }
+  },
+  {
+    "id": "cesko-24",
+    "category": "cesko",
+    "question": "Kolikrát se ženil český král a římský císař Karel IV.?",
+    "answer": 4,
+    "unit": {
+      "one": "čas",
+      "few": "krát",
+      "many": "krát"
+    },
+    "fact": "Karel IV. se oženil čtyřikrát: postupně si vzal Blanku z Valois, Annu Falckou, Annu Svídnickou a Alžbětu Pomořanskou. Ze čtyř manželství vzešlo dohromady deset dětí.",
+    "sourceTitle": "Wikipedie (CS): Karel IV.",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Karel_IV.",
+    "sourceQuote": "Manžel/ka: Blanka z Valois, Anna Falcká, Anna Svídnická, Alžběta Pomořanská",
+    "answerNote": "Podle infoboxu Wikipedie: Blanka z Valois, Anna Falcká, Anna Svídnická, Alžběta Pomořanská.",
+    "confidence": "high",
+    "en": {
+      "question": "How many times did the Czech king and Holy Roman Emperor Charles IV marry?",
+      "unit": {
+        "one": "time",
+        "other": "times"
+      },
+      "fact": "Charles IV married four times, in turn to Blanche of Valois, Anna von der Pfalz, Anna of Świdnica and Elizabeth of Pomerania. The four marriages produced ten children in total.",
+      "answerNote": "Per the Wikipedia infobox: Blanche of Valois, Anna von der Pfalz, Anna of Świdnica, Elizabeth of Pomerania."
+    }
   }
 ]

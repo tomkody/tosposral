@@ -388,5 +388,161 @@
       "fact": "Cookie the cockatoo lived at the zoo near Chicago from 1934 and died in 2016 aged 83. He outlived several generations of keepers.",
       "answerNote": ""
     }
+  },
+  {
+    "id": "zvirata-16",
+    "category": "zvirata",
+    "question": "Kolik kilometrů za hodinu dosahuje úder klepeta krevety kudlankovité druhu Odontodactylus scyllarus, jednoho z nejrychlejších úderů v živočišné říši?",
+    "answer": 83,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Kreveta kudlankovitá udeří svým klepetem rychlostí 83 km/h se zrychlením 10 400 g – to je rychlejší než výstřel ze vzduchovky. Úder navíc vytváří v vodě bublinu, jejíž zhroucení produkuje záblesk světla a teplo srovnatelné s povrchem Slunce.",
+    "sourceTitle": "Wikipedia (EN): Mantis shrimp",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mantis_shrimp",
+    "sourceQuote": "with an acceleration of 10,400 g (102,000 m/s2 or 335,000 ft/s2) and speeds of 23 m/s (83 km/h; 51 mph)",
+    "answerNote": "Rychlost 23 m/s = 83 km/h u druhu Odontodactylus scyllarus; jiné druhy (Gonodactylus smithii) byly naměřeny ještě rychleji (110 km/h).",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres per hour is the strike of a peacock mantis shrimp's claw, one of the fastest strikes in the animal kingdom?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "A peacock mantis shrimp strikes with its claw at 83 km/h with an acceleration of 10,400 g – faster than an air rifle pellet. The strike creates a bubble in the water whose collapse produces a flash of light and heat comparable to the Sun's surface.",
+      "answerNote": "23 m/s = 83 km/h for Odontodactylus scyllarus; other species (Gonodactylus smithii) have been measured even faster (110 km/h)."
+    }
+  },
+  {
+    "id": "zvirata-17",
+    "category": "zvirata",
+    "question": "Kolik stupňů Celsia krátkodobě vydrží vysušená želvuška (tardigrád), aniž by zahynula?",
+    "answer": 149,
+    "unit": {
+      "one": "stupeň Celsia",
+      "few": "stupně Celsia",
+      "many": "stupňů Celsia"
+    },
+    "fact": "Vysušená želvuška ve stavu tzv. tun přežije krátkodobé zahřátí až na 149 °C. Stejně tak vydrží i mráz blízký absolutní nule – jsou to jedni z nejodolnějších živočichů na planetě.",
+    "sourceTitle": "Wikipedia (EN): Tardigrade",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Tardigrade",
+    "sourceQuote": "In this state, they become highly resistant to environmental stresses, including temperatures from as low as −272 °C (−458 °F) to as much as +149 °C (300 °F) (at least for short periods of time).",
+    "answerNote": "Horní hranice krátkodobé odolnosti ve vysušeném stavu; dolní hranice je −272 °C.",
+    "confidence": "high",
+    "en": {
+      "question": "How many degrees Celsius can a dried-out tardigrade briefly withstand without dying?",
+      "unit": {
+        "one": "degree Celsius",
+        "other": "degrees Celsius"
+      },
+      "fact": "In its dried 'tun' state a tardigrade can briefly survive heat of up to 149 °C. It can likewise withstand cold close to absolute zero – tardigrades are among the toughest animals on the planet.",
+      "answerNote": "Upper limit of short-term tolerance in the dried state; the lower limit is −272 °C."
+    }
+  },
+  {
+    "id": "zvirata-18",
+    "category": "zvirata",
+    "question": "Kolik let je nejdéle zaznamenaná doba dožití rypoše lysého v zajetí – hlodavce s nejdelší životností na světě?",
+    "answer": 37,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Rypoš lysý se v zajetí dožívá přes 37 let – mezi hlodavci je to naprostý rekord (myš se dožívá 2–3 let). Vědci ho zkoumají i proto, že téměř nestárne a odolává rakovině.",
+    "sourceTitle": "Wikipedia (EN): Naked mole-rat",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Naked_mole-rat",
+    "sourceQuote": "Naked mole-rats can live longer than any other rodent, with lifespans in excess of 37 years",
+    "answerNote": "„Lifespans in excess of 37 years“ – nejdelší doložený případ.",
+    "confidence": "high",
+    "en": {
+      "question": "How many years is the longest recorded lifespan of a naked mole-rat in captivity – the longest-lived rodent in the world?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "Naked mole-rats have lived over 37 years in captivity – an absolute record among rodents (a mouse lives 2–3 years). Scientists study them partly because they barely age and resist cancer.",
+      "answerNote": "'Lifespans in excess of 37 years' – the longest documented case."
+    }
+  },
+  {
+    "id": "zvirata-19",
+    "category": "zvirata",
+    "question": "Kolik dospělých lidí dokáže usmrtit jed jedné chobotnice modrokroužkované?",
+    "answer": 20,
+    "unit": {
+      "one": "člověk",
+      "few": "lidé",
+      "many": "lidí"
+    },
+    "fact": "Chobotnice modrokroužkovaná měří jen 12 až 20 centimetrů, ale nese dost jedu na to, aby během minut usmrtila přes 20 dospělých lidí. Kouše přitom téměř bezbolestně, takže si oběť often ani nevšimne.",
+    "sourceTitle": "Wikipedia (EN): Blue-ringed octopus",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Blue-ringed_octopus",
+    "sourceQuote": "The blue-ringed octopus, despite its small size, carries enough venom to kill over 20 adult humans within minutes.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many adult humans can the venom of a single blue-ringed octopus kill?",
+      "unit": {
+        "one": "person",
+        "other": "people"
+      },
+      "fact": "The blue-ringed octopus is only 12 to 20 centimetres long, yet carries enough venom to kill over 20 adult humans within minutes. Its bite is nearly painless, so victims often don't even notice it.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zvirata-20",
+    "category": "zvirata",
+    "question": "Kolik centimetrů měřil nejdelší zaznamenaný exemplář varana komodského chovaný v zajetí?",
+    "answer": 313,
+    "unit": {
+      "one": "centimetr",
+      "few": "centimetry",
+      "many": "centimetrů"
+    },
+    "fact": "Nejdelší varan komodský v zajetí měřil 3,13 metru a vážil 166 kilogramů. Ve volné přírodě dorůstají samci obvykle do 3 metrů a 150 kilogramů.",
+    "sourceTitle": "Wikipedia (EN): Komodo dragon",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Komodo_dragon",
+    "sourceQuote": "The largest verified specimen in captivity was 3.1–3.13 m (10 ft 2 in – 10 ft 3 in) long and weighed 166 kg (366 lb).",
+    "answerNote": "Rekordní jedinec v zajetí: 3,1–3,13 m, 166 kg.",
+    "confidence": "high",
+    "en": {
+      "question": "How many centimetres long was the longest recorded Komodo dragon kept in captivity?",
+      "unit": {
+        "one": "centimetre",
+        "other": "centimetres"
+      },
+      "fact": "The longest Komodo dragon in captivity measured 3.13 metres and weighed 166 kilograms. In the wild, males typically grow up to 3 metres and 150 kilograms.",
+      "answerNote": "Record captive specimen: 3.1–3.13 m, 166 kg."
+    }
+  },
+  {
+    "id": "zvirata-21",
+    "category": "zvirata",
+    "question": "Kolik kilometrů za hodinu dokáže běžet pštros dvouprstý, nejrychlejší běžec mezi ptáky?",
+    "answer": 70,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Pštros dokáže běžet rychlostí až 70 km/h – rychleji než dostihový kůň na krátké trati. Jeho kroky přitom mají délku až 5 metrů.",
+    "sourceTitle": "Wikipedia (EN): Ostrich",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ostrich",
+    "sourceQuote": "With the ability to run at 70 km/h (43 mph), they are the fastest birds on land.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres per hour can an ostrich run – the fastest bird on land?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "An ostrich can run at up to 70 km/h – faster than a racehorse over a short distance. Its stride can reach 5 metres.",
+      "answerNote": ""
+    }
   }
 ]

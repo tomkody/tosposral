@@ -310,5 +310,57 @@
       "fact": "Kate Moss was spotted at New York's JFK airport in 1988 by the founder of Storm Model Management – she was 14 and on her way home from a holiday in the Bahamas.",
       "answerNote": ""
     }
+  },
+  {
+    "id": "moda-13",
+    "category": "moda",
+    "question": "Na kolik milionů dolarů byla v roce 2013 odhadnuta hodnota značky Louis Vuitton?",
+    "answer": 28400,
+    "unit": {
+      "one": "milion dolarů",
+      "few": "miliony dolarů",
+      "many": "milionů dolarů"
+    },
+    "fact": "Značka Louis Vuitton, kterou její zakladatel založil v roce 1854, byla v roce 2013 odhadnuta na 28,4 miliardy dolarů (28 400 milionů) při ročních tržbách 9,4 miliardy. Je to jedna z nejcennějších módních značek světa.",
+    "sourceTitle": "Wikipedia (EN): Louis Vuitton",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_Vuitton",
+    "sourceQuote": "In 2013, the valuation of the brand was US$28.4 billion with revenue of US$9.4 billion.",
+    "answerNote": "Odhad hodnoty značky za rok 2013; tržby téhož roku 9,4 miliardy USD.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million dollars was the Louis Vuitton brand valued at in 2013?",
+      "unit": {
+        "one": "million dollars",
+        "other": "million dollars"
+      },
+      "fact": "The Louis Vuitton brand, founded by its namesake in 1854, was valued at $28.4 billion (28,400 million) in 2013, with annual revenue of $9.4 billion. It's one of the most valuable fashion brands in the world.",
+      "answerNote": "Brand valuation for 2013; revenue that year was $9.4 billion."
+    }
+  },
+  {
+    "id": "moda-14",
+    "category": "moda",
+    "question": "Kolik miligramů váží Hopeův diamant, jeden z nejslavnějších a nejproslulejších drahokamů světa?",
+    "answer": 9104,
+    "unit": {
+      "one": "miligram",
+      "few": "miligramy",
+      "many": "miligramů"
+    },
+    "fact": "Hopeův diamant váží 45,52 karátu, tedy 9 104 miligramů. Jeho sytě modrá barva je způsobená stopami boru v krystalové mřížce a kámen je opředen legendami o prokletí svých majitelů.",
+    "sourceTitle": "Wikipedia (EN): Hope Diamond",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hope_Diamond",
+    "sourceQuote": "The Hope Diamond is a 45.52-carat (9.104 g; 0.3211 oz) blue diamond",
+    "answerNote": "45,52 karátu = 9,104 g = 9 104 mg.",
+    "confidence": "high",
+    "en": {
+      "question": "How many milligrams does the Hope Diamond, one of the world's most famous gemstones, weigh?",
+      "unit": {
+        "one": "milligram",
+        "other": "milligrams"
+      },
+      "fact": "The Hope Diamond weighs 45.52 carats, or 9,104 milligrams. Its deep blue colour comes from traces of boron in its crystal lattice, and the stone is wrapped in legends of a curse on its owners.",
+      "answerNote": "45.52 carats = 9.104 g = 9,104 mg."
+    }
   }
 ]

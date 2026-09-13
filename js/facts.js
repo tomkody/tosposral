@@ -547,6 +547,84 @@ window.FACTS = [
     }
   },
   {
+    "id": "cesko-22",
+    "category": "cesko",
+    "question": "Kolik metrů měří na délku Vladislavský sál na Pražském hradě, největší světská gotická síň střední Evropy?",
+    "answer": 62,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Vladislavský sál měří 62 na 16 metrů a nechal ho postavit král Vladislav Jagellonský koncem 15. století. Byl tak prostorný, že se v něm konaly i rytířské turnaje na koních – proto k němu vede jezdecké schodiště.",
+    "sourceTitle": "Wikipedie (CS): Vladislavský sál",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Vladislavsk%C3%BD_s%C3%A1l",
+    "sourceQuote": "Pozdně gotický obdélný sál o rozměrech 62 × 16 m s bohatou krouženou klenbou v pěti polích",
+    "answerNote": "Rozměry 62 × 16 m.",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres long is Vladislav Hall at Prague Castle, the largest secular Gothic hall in Central Europe?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "Vladislav Hall measures 62 by 16 metres and was built for King Vladislaus Jagiellon in the late 15th century. It was spacious enough to host knights' jousting tournaments on horseback – which is why a Riders' Staircase leads up to it.",
+      "answerNote": "Dimensions 62 × 16 m."
+    }
+  },
+  {
+    "id": "cesko-23",
+    "category": "cesko",
+    "question": "Kolik hektarů má vodní nádrž Lipno, největší přehradní jezero v Česku?",
+    "answer": 4870,
+    "unit": {
+      "one": "hektar",
+      "few": "hektary",
+      "many": "hektarů"
+    },
+    "fact": "Lipno má rozlohu 48,7 kilometru čtverečního, tedy 4 870 hektarů, a je zdaleka největší přehradní nádrží v Česku. Vzniklo v 50. letech zatopením údolí horní Vltavy.",
+    "sourceTitle": "Wikipedie (CS): Vodní nádrž Lipno",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_Lipno",
+    "sourceQuote": "S rozlohou 48,7 km² jde o největší přehradní nádrž",
+    "answerNote": "48,7 km² = 4 870 ha.",
+    "confidence": "high",
+    "en": {
+      "question": "How many hectares does the Lipno reservoir, the largest reservoir lake in Czechia, cover?",
+      "unit": {
+        "one": "hectare",
+        "other": "hectares"
+      },
+      "fact": "Lipno covers 48.7 square kilometres, or 4,870 hectares, making it by far the largest reservoir in Czechia. It was created in the 1950s by flooding the upper Vltava valley.",
+      "answerNote": "48.7 km² = 4,870 ha."
+    }
+  },
+  {
+    "id": "cesko-24",
+    "category": "cesko",
+    "question": "Kolikrát se ženil český král a římský císař Karel IV.?",
+    "answer": 4,
+    "unit": {
+      "one": "čas",
+      "few": "krát",
+      "many": "krát"
+    },
+    "fact": "Karel IV. se oženil čtyřikrát: postupně si vzal Blanku z Valois, Annu Falckou, Annu Svídnickou a Alžbětu Pomořanskou. Ze čtyř manželství vzešlo dohromady deset dětí.",
+    "sourceTitle": "Wikipedie (CS): Karel IV.",
+    "sourceUrl": "https://cs.wikipedia.org/wiki/Karel_IV.",
+    "sourceQuote": "Manžel/ka: Blanka z Valois, Anna Falcká, Anna Svídnická, Alžběta Pomořanská",
+    "answerNote": "Podle infoboxu Wikipedie: Blanka z Valois, Anna Falcká, Anna Svídnická, Alžběta Pomořanská.",
+    "confidence": "high",
+    "en": {
+      "question": "How many times did the Czech king and Holy Roman Emperor Charles IV marry?",
+      "unit": {
+        "one": "time",
+        "other": "times"
+      },
+      "fact": "Charles IV married four times, in turn to Blanche of Valois, Anna von der Pfalz, Anna of Świdnica and Elizabeth of Pomerania. The four marriages produced ten children in total.",
+      "answerNote": "Per the Wikipedia infobox: Blanche of Valois, Anna von der Pfalz, Anna of Świdnica, Elizabeth of Pomerania."
+    }
+  },
+  {
     "id": "film-01",
     "category": "film",
     "question": "Kolik dílů má seriál Přátelé (Friends) celkem za všech deset řad?",
@@ -1038,6 +1116,32 @@ window.FACTS = [
       },
       "fact": "The original Hospital at the End of the City has 20 episodes and aired from 1978 to 1981. West Germany bought it too, where it was a huge hit.",
       "answerNote": "Excluding the 2003 and 2008 sequels."
+    }
+  },
+  {
+    "id": "film-20",
+    "category": "film",
+    "question": "Kolik celovečerních filmů natočilo animační studio Pixar, počínaje Toy Story (1995)?",
+    "answer": 31,
+    "unit": {
+      "one": "díl",
+      "few": "díly",
+      "many": "dílů"
+    },
+    "fact": "Pixar od Toy Story v roce 1995 natočilo 31 celovečerních filmů – a Toy Story byl vůbec první celovečerní film na světě animovaný kompletně na počítači.",
+    "sourceTitle": "Wikipedia (EN): Pixar",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pixar",
+    "sourceQuote": "In addition to producing short films, Pixar has produced 31 feature films, beginning with Toy Story (1995), which is also the first fully computer-animated feature film",
+    "answerNote": "Stav podle citovaného zdroje; číslo dál roste s dalšími premiérami.",
+    "confidence": "medium",
+    "en": {
+      "question": "How many feature films has Pixar Animation Studios made, starting with Toy Story (1995)?",
+      "unit": {
+        "one": "film",
+        "other": "films"
+      },
+      "fact": "Since Toy Story in 1995, Pixar has made 31 feature films – and Toy Story was the very first fully computer-animated feature film ever made.",
+      "answerNote": "As of the cited source; the number keeps growing with new releases."
     }
   },
   {
@@ -1587,6 +1691,162 @@ window.FACTS = [
     }
   },
   {
+    "id": "historie-22",
+    "category": "historie",
+    "question": "Kolik dní hořel Řím při velkém požáru v roce 64 n. l., než se poprvé podařilo oheň dostat pod kontrolu?",
+    "answer": 6,
+    "unit": {
+      "one": "den",
+      "few": "dny",
+      "many": "dní"
+    },
+    "fact": "Velký římský požár z roku 64 n. l. hořel nepřetržitě 6 dní, než poprvé pohasl – pak se ale znovu vzňal a hořel ještě 3 další dny. Zničil velkou část města a podle legendy si na to císař Nero hrál na lyru.",
+    "sourceTitle": "Wikipedia (EN): Great Fire of Rome",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+    "sourceQuote": "The fire stopped after six days of continuous burning. It then reignited and burned for another three days.",
+    "answerNote": "Po prvním uhašení se oheň znovu vzňal a hořel dalších 9 dní, souhrnně bydlel s přestávkou.",
+    "confidence": "high",
+    "en": {
+      "question": "How many days did Rome burn in the Great Fire of AD 64, before the flames were first brought under control?",
+      "unit": {
+        "one": "day",
+        "other": "days"
+      },
+      "fact": "The Great Fire of Rome in AD 64 burned continuously for 6 days before it first died down – then it flared up again and burned for another 3 days. It destroyed much of the city, and legend has it that Emperor Nero played his lyre while it burned.",
+      "answerNote": "After the first burn-out the fire reignited and burned for a further 3 days, with a gap in between."
+    }
+  },
+  {
+    "id": "historie-23",
+    "category": "historie",
+    "question": "Kolik vojáků odhadem obsahuje terakotová armáda čínského císaře Čchin Š'-chuang-tiho, objevená v roce 1974?",
+    "answer": 8000,
+    "unit": {
+      "one": "voják",
+      "few": "vojáci",
+      "many": "vojáků"
+    },
+    "fact": "Terakotová armáda pohřbená s prvním čínským císařem obsahuje přes 8 000 sochy vojáků v životní velikosti, spolu se 130 vozy a 520 koňmi. Každá tvář je jiná – řemeslníci je modelovali jako portréty skutečných mužů.",
+    "sourceTitle": "Wikipedia (EN): Terracotta Army",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Terracotta_Army",
+    "sourceQuote": "the three pits containing the Terracotta Army hold more than 8,000 soldiers, 130 chariots with 520 horses",
+    "answerNote": "Odhad z roku 2007; „více než 8 000“ – minimální doložený počet, celkem se odhaduje i více.",
+    "confidence": "medium",
+    "en": {
+      "question": "How many soldiers, at an estimate, does the Terracotta Army of Chinese emperor Qin Shi Huang, discovered in 1974, contain?",
+      "unit": {
+        "one": "soldier",
+        "other": "soldiers"
+      },
+      "fact": "The Terracotta Army buried with China's first emperor contains over 8,000 life-sized soldier statues, along with 130 chariots and 520 horses. Every face is different – craftsmen modelled them as portraits of real men.",
+      "answerNote": "2007 estimate; 'more than 8,000' is the minimum documented count, with higher estimates for the total."
+    }
+  },
+  {
+    "id": "historie-24",
+    "category": "historie",
+    "question": "Kolik lodí podle Seznamu lodí v Homérově Ílias vyplulo řecké vojsko k Tróji?",
+    "answer": 1186,
+    "unit": {
+      "one": "loď",
+      "few": "lodě",
+      "many": "lodí"
+    },
+    "fact": "Homérův Seznam lodí ve druhé knize Ílias vyjmenovává řecké oddíly, které se sešly u Tróje – dohromady 1 186 lodí. Číslo je literární, ne historicky doložené, ale patří k nejstarším dochovaným „statistikám“ evropské literatury.",
+    "sourceTitle": "Wikipedia (EN): Trojan War",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Trojan_War",
+    "sourceQuote": "comprising 1186 pentekonters, ships with 50 rowers.",
+    "answerNote": "Legendární číslo z eposu Ílias (kniha II), nikoli historicky ověřený údaj.",
+    "confidence": "medium",
+    "en": {
+      "question": "How many ships did the Greek forces sail to Troy with, according to the Catalogue of Ships in Homer's Iliad?",
+      "unit": {
+        "one": "ship",
+        "other": "ships"
+      },
+      "fact": "Homer's Catalogue of Ships in Book II of the Iliad lists the Greek contingents that gathered at Troy – 1,186 ships in total. The figure is literary, not historically documented, but it's one of the oldest 'statistics' surviving in European literature.",
+      "answerNote": "A legendary figure from the epic poem the Iliad (Book II), not a historically verified count."
+    }
+  },
+  {
+    "id": "historie-25",
+    "category": "historie",
+    "question": "Kolik let stála Berlínská zeď, než v roce 1989 padla?",
+    "answer": 28,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Berlínská zeď oddělovala Západní Berlín od Východního 28 let, od srpna 1961 do listopadu 1989. Za tu dobu se o její překonání pokusily tisíce lidí, desítky z nich při tom zahynuly.",
+    "sourceTitle": "Wikipedia (EN): Berlin Wall",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Berlin_Wall",
+    "sourceQuote": "was a guarded concrete barrier that encircled West Berlin from 1961 to 1989, separating it from East Berlin",
+    "answerNote": "1961–1989.",
+    "confidence": "high",
+    "en": {
+      "question": "How many years did the Berlin Wall stand before it fell in 1989?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "The Berlin Wall separated West from East Berlin for 28 years, from August 1961 to November 1989. Thousands of people tried to cross it in that time, and dozens died in the attempt.",
+      "answerNote": "1961–1989."
+    }
+  },
+  {
+    "id": "historie-26",
+    "category": "historie",
+    "question": "Kolik kilogramů váží Rosettská deska, klíč k rozluštění egyptských hieroglyfů, objevená v roce 1799?",
+    "answer": 760,
+    "unit": {
+      "one": "kilogram",
+      "few": "kilogramy",
+      "many": "kilogramů"
+    },
+    "fact": "Rosettská deska váží asi 760 kilogramů a objevil ji francouzský voják v roce 1799 v egyptském městě Rašíd. Stejný text ve třech písmech (hieroglyfy, démotika, řečtina) umožnil francouzskému učenci Champollionovi rozluštit hieroglyfy.",
+    "sourceTitle": "Wikipedia (EN): Rosetta Stone",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+    "sourceQuote": "It weighs approximately 760 kilograms (1,680 lb).",
+    "answerNote": "Přibližná hmotnost.",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilograms does the Rosetta Stone, the key to deciphering Egyptian hieroglyphs, discovered in 1799, weigh?",
+      "unit": {
+        "one": "kilogram",
+        "other": "kilograms"
+      },
+      "fact": "The Rosetta Stone weighs about 760 kilograms and was discovered by a French soldier in 1799 in the Egyptian town of Rashid. The same text in three scripts (hieroglyphic, demotic and Greek) let French scholar Champollion decipher hieroglyphs.",
+      "answerNote": "Approximate weight."
+    }
+  },
+  {
+    "id": "historie-27",
+    "category": "historie",
+    "question": "Kolik kilometrů měří poloměr uzavřené (vyloučené) zóny kolem černobylské jaderné elektrárny?",
+    "answer": 30,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Po havárii v roce 1986 vznikla kolem Černobylu 30kilometrová vyloučená zóna, ze které muselo odejít přes 68 000 dalších lidí. Většina zóny je neobydlená dodnes.",
+    "sourceTitle": "Wikipedia (EN): Chernobyl disaster",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+    "sourceQuote": "This was later expanded to 30 kilometres (19 mi), resulting in the evacuation of approximately 68,000 more people.",
+    "answerNote": "Poloměr rozšířené zóny; evakuace zasáhla přes 68 000 lidí navíc.",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres is the radius of the exclusion zone around the Chernobyl nuclear power plant?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "After the 1986 disaster, a 30-kilometre exclusion zone was established around Chernobyl, from which over 68,000 more people had to be evacuated. Most of the zone remains uninhabited today.",
+      "answerNote": "Radius of the expanded zone; the evacuation affected over 68,000 additional people."
+    }
+  },
+  {
     "id": "hudba-01",
     "category": "hudba",
     "question": "Kolikrát v životě zvítězil Karel Gott v anketě Zlatý slavík (od roku 1996 Český slavík)?",
@@ -2055,6 +2315,110 @@ window.FACTS = [
     }
   },
   {
+    "id": "hudba-19",
+    "category": "hudba",
+    "question": "Kolik tisíc dolarů se v roce 2011 vydražily housle Stradivari „Lady Blunt“ z roku 1721, nejdráže prodané housle historie?",
+    "answer": 15900,
+    "unit": {
+      "one": "tisíc dolarů",
+      "few": "tisíce dolarů",
+      "many": "tisíc dolarů"
+    },
+    "fact": "Housle Stradivari „Lady Blunt“, dochované v mimořádném stavu, se v roce 2011 vydražily za 15,9 milionu dolarů – výtěžek šel na pomoc obětem zemětřesení a tsunami v Japonsku.",
+    "sourceTitle": "Wikipedia (EN): Stradivarius",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Stradivarius",
+    "sourceQuote": "In 2011, his \"Lady Blunt\" violin from 1721, which is in pristine condition, was sold in London for $15.9 million",
+    "answerNote": "15 900 000 USD, aukce v roce 2011.",
+    "confidence": "high",
+    "en": {
+      "question": "How many thousand dollars did the 1721 Stradivarius violin 'Lady Blunt' sell for at auction in 2011 – the highest price ever paid for a violin?",
+      "unit": {
+        "one": "thousand dollars",
+        "other": "thousand dollars"
+      },
+      "fact": "The 'Lady Blunt' Stradivarius, preserved in exceptional condition, sold at auction in 2011 for $15.9 million – the proceeds went to help victims of Japan's earthquake and tsunami.",
+      "answerNote": "$15,900,000, sold at auction in 2011."
+    }
+  },
+  {
+    "id": "hudba-20",
+    "category": "hudba",
+    "question": "Kolik milionů desek prodala kapela The Rolling Stones za celou svou kariéru (odhad)?",
+    "answer": 250,
+    "unit": {
+      "one": "milion desek",
+      "few": "miliony desek",
+      "many": "milionů desek"
+    },
+    "fact": "The Rolling Stones vznikli v roce 1962 a od té doby prodali odhadem 250 milionů desek. Aktivní jsou déle než šest desetiletí – nové album Hackney Diamonds vydali v roce 2023.",
+    "sourceTitle": "Wikipedia (EN): Rolling Stones",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rolling_Stones",
+    "sourceQuote": "The Rolling Stones have estimated album sales of more than 250 million.",
+    "answerNote": "Odhad celkových prodejů alb za celou kariéru.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million records has The Rolling Stones sold over their entire career (estimate)?",
+      "unit": {
+        "one": "million records",
+        "other": "million records"
+      },
+      "fact": "The Rolling Stones formed in 1962 and have sold an estimated 250 million records since. Active for over six decades, they released the new album Hackney Diamonds in 2023.",
+      "answerNote": "Estimated total album sales over the band's career."
+    }
+  },
+  {
+    "id": "hudba-21",
+    "category": "hudba",
+    "question": "Kolik cen Grammy získal Michael Jackson na jediném předávacím ceremoniálu v roce 1984 – rekord, který od té doby jen vyrovnali?",
+    "answer": 8,
+    "unit": {
+      "one": "cena Grammy",
+      "few": "ceny Grammy",
+      "many": "cen Grammy"
+    },
+    "fact": "Michael Jackson v roce 1984 na jednom večeru vyhrál 8 cen Grammy za album Thriller – rekord pro nejvíc výher v jedné noci. Později ho vyrovnala jen kapela Santana.",
+    "sourceTitle": "Wikipedia (EN): Michael Jackson",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Michael_Jackson",
+    "sourceQuote": "Jackson received 12 nominations—the most in a single night at the time (later tied with Babyface)—and won eight awards, breaking the record for the most wins in a single night (later tied by Santana).",
+    "answerNote": "26. ročník cen Grammy, 1984; rekord později vyrovnal Santana.",
+    "confidence": "high",
+    "en": {
+      "question": "How many Grammy Awards did Michael Jackson win at a single ceremony in 1984 – a record only later tied?",
+      "unit": {
+        "one": "Grammy",
+        "other": "Grammys"
+      },
+      "fact": "In 1984 Michael Jackson won 8 Grammy Awards in a single night for the album Thriller – a record for the most wins in one night. It was later tied only by Santana.",
+      "answerNote": "26th Grammy Awards, 1984; record later tied by Santana."
+    }
+  },
+  {
+    "id": "hudba-22",
+    "category": "hudba",
+    "question": "Kolik milionů kopií prodalo album 21 od Adele po celém světě (stav k roku 2016)?",
+    "answer": 31,
+    "unit": {
+      "one": "milion kopií",
+      "few": "miliony kopií",
+      "many": "milionů kopií"
+    },
+    "fact": "Album 21 se do roku 2016 prodalo ve 31 milionech kopií a stalo se jedním z nejúspěšnějších alb 21. století. Adele za ně získala i šest cen Grammy.",
+    "sourceTitle": "Wikipedia (EN): Adele",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Adele",
+    "sourceQuote": "as of 2016, the album has sold over 31 million copies.",
+    "answerNote": "Stav k roku 2016.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million copies had Adele's album 21 sold worldwide as of 2016?",
+      "unit": {
+        "one": "million copies",
+        "other": "million copies"
+      },
+      "fact": "By 2016 the album 21 had sold 31 million copies, making it one of the best-selling albums of the 21st century. It also won Adele six Grammy Awards.",
+      "answerNote": "As of 2016."
+    }
+  },
+  {
     "id": "jidlo-01",
     "category": "jidlo",
     "question": "Kolik kilokalorií (kcal) má jeden Big Mac podle oficiálních výživových hodnot McDonald's ČR?",
@@ -2445,6 +2809,136 @@ window.FACTS = [
     }
   },
   {
+    "id": "jidlo-16",
+    "category": "jidlo",
+    "question": "Kolik liber ročně platil pivovarník Arthur Guinness za pronájem pivovaru St. James's Gate v Dublinu na 9000 let, jak si smlouvu nechal sepsat v roce 1759?",
+    "answer": 45,
+    "unit": {
+      "one": "libra",
+      "few": "libry",
+      "many": "liber"
+    },
+    "fact": "Arthur Guinness si 31. prosince 1759 nechal na nepoužívaný pivovar St. James's Gate sepsat smlouvu na 9 000 let za pouhých 45 liber ročně. Guinness se tam vaří dodnes.",
+    "sourceTitle": "Wikipedia (EN): Guinness",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Guinness",
+    "sourceQuote": "On 31 December 1759, he signed a 9,000 year lease at £45 per annum for the unused brewery.",
+    "answerNote": "Nájemní smlouva z 31. 12. 1759.",
+    "confidence": "high",
+    "en": {
+      "question": "How many pounds a year did brewer Arthur Guinness pay to lease the St. James's Gate Brewery in Dublin for 9,000 years, under the deal he signed in 1759?",
+      "unit": {
+        "one": "pound",
+        "other": "pounds"
+      },
+      "fact": "On 31 December 1759 Arthur Guinness signed a 9,000-year lease on the disused St. James's Gate Brewery for just £45 a year. Guinness is still brewed there today.",
+      "answerNote": "Lease signed 31 Dec 1759."
+    }
+  },
+  {
+    "id": "jidlo-17",
+    "category": "jidlo",
+    "question": "Kolik tisíc květů šafránu setého je potřeba na výrobu jednoho kilogramu koření šafránu?",
+    "answer": 150,
+    "unit": {
+      "one": "tisíc květů",
+      "few": "tisíce květů",
+      "many": "tisíc květů"
+    },
+    "fact": "Na kilogram šafránu je potřeba sklidit a ručně otrhat blizny ze 150 000 květů krokusu. Proto patří šafrán mezi nejdražší koření na světě.",
+    "sourceTitle": "Wikipedia (EN): Saffron",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Saffron",
+    "sourceQuote": "150,000 crocus flowers per kilogram (70,000 flowers/lb)",
+    "answerNote": "150 000 květů = 440 000 ručně sebraných blizen na kilogram.",
+    "confidence": "high",
+    "en": {
+      "question": "How many thousand crocus flowers are needed to produce one kilogram of saffron?",
+      "unit": {
+        "one": "thousand flowers",
+        "other": "thousand flowers"
+      },
+      "fact": "It takes 150,000 hand-picked crocus flowers to produce one kilogram of saffron. That's why it's among the most expensive spices in the world.",
+      "answerNote": "150,000 flowers = 440,000 hand-picked stigmas per kilogram."
+    }
+  },
+  {
+    "id": "jidlo-18",
+    "category": "jidlo",
+    "question": "Kolik let zraje omáčka Tabasco v dubových sudech, než se stočí do lahví?",
+    "answer": 3,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Rozdrcené papričky Tabasco zrají v dubových sudech (dřív používaných na whiskey) až 3 roky, než se protřídí a smíchají s octem. Firmu založil Edmund McIlhenny v roce 1868.",
+    "sourceTitle": "Wikipedia (EN): Tabasco sauce",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Tabasco_sauce",
+    "sourceQuote": "After aging for up to three years, the mash is strained to remove skins and seeds.",
+    "answerNote": "„Až 3 roky“ – maximální doba zrání.",
+    "confidence": "high",
+    "en": {
+      "question": "How many years does Tabasco sauce age in oak barrels before being bottled?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "Crushed Tabasco peppers age in oak barrels (formerly used for whiskey) for up to 3 years before being strained and mixed with vinegar. The company was founded by Edmund McIlhenny in 1868.",
+      "answerNote": "Up to 3 years – maximum aging period."
+    }
+  },
+  {
+    "id": "jidlo-19",
+    "category": "jidlo",
+    "question": "Kolik tisíc tun Nutelly se celosvětově vyrobilo v roce 2013?",
+    "answer": 350,
+    "unit": {
+      "one": "tisíc tun",
+      "few": "tisíce tun",
+      "many": "tisíc tun"
+    },
+    "fact": "V roce 2013 se na světě vyrobilo 350 000 tun Nutelly. První kelímek vyjel z továrny v italské Albě 20. dubna 1964.",
+    "sourceTitle": "Wikipedia (EN): Nutella",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Nutella",
+    "sourceQuote": "Global production in 2013 was about 350,000 tonnes.",
+    "answerNote": "Celosvětová produkce za rok 2013.",
+    "confidence": "high",
+    "en": {
+      "question": "How many thousand tonnes of Nutella were produced worldwide in 2013?",
+      "unit": {
+        "one": "thousand tonnes",
+        "other": "thousand tonnes"
+      },
+      "fact": "In 2013, 350,000 tonnes of Nutella were produced worldwide. The first jar left the factory in Alba, Italy, on 20 April 1964.",
+      "answerNote": "Worldwide production for 2013."
+    }
+  },
+  {
+    "id": "jidlo-20",
+    "category": "jidlo",
+    "question": "Kolik barů tlaku je uvnitř zavřené lahve šampaňského?",
+    "answer": 6,
+    "unit": {
+      "one": "bar",
+      "few": "bary",
+      "many": "barů"
+    },
+    "fact": "V lahvi šampaňského je tlak kolem 6 barů – zhruba trojnásobek tlaku v pneumatice auta. Proto se korek při otevírání nemá vystřelovat, ale opatrně pouštět.",
+    "sourceTitle": "Wikipedia (EN): Champagne",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Champagne",
+    "sourceQuote": "The six-bar (90 psi) pressure in the bottle forces out the ice containing the lees.",
+    "answerNote": "Přibližně 6 barů (90 psi).",
+    "confidence": "high",
+    "en": {
+      "question": "How many bars of pressure are inside a sealed bottle of champagne?",
+      "unit": {
+        "one": "bar",
+        "other": "bars"
+      },
+      "fact": "A bottle of champagne holds a pressure of about 6 bars – roughly three times that of a car tyre. That's why the cork should be eased out, not popped.",
+      "answerNote": "Approximately 6 bars (90 psi)."
+    }
+  },
+  {
     "id": "moda-01",
     "category": "moda",
     "question": "Kolik dolarů stála první panenka Barbie při uvedení na trh v roce 1959?",
@@ -2754,6 +3248,58 @@ window.FACTS = [
       },
       "fact": "Kate Moss was spotted at New York's JFK airport in 1988 by the founder of Storm Model Management – she was 14 and on her way home from a holiday in the Bahamas.",
       "answerNote": ""
+    }
+  },
+  {
+    "id": "moda-13",
+    "category": "moda",
+    "question": "Na kolik milionů dolarů byla v roce 2013 odhadnuta hodnota značky Louis Vuitton?",
+    "answer": 28400,
+    "unit": {
+      "one": "milion dolarů",
+      "few": "miliony dolarů",
+      "many": "milionů dolarů"
+    },
+    "fact": "Značka Louis Vuitton, kterou její zakladatel založil v roce 1854, byla v roce 2013 odhadnuta na 28,4 miliardy dolarů (28 400 milionů) při ročních tržbách 9,4 miliardy. Je to jedna z nejcennějších módních značek světa.",
+    "sourceTitle": "Wikipedia (EN): Louis Vuitton",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louis_Vuitton",
+    "sourceQuote": "In 2013, the valuation of the brand was US$28.4 billion with revenue of US$9.4 billion.",
+    "answerNote": "Odhad hodnoty značky za rok 2013; tržby téhož roku 9,4 miliardy USD.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million dollars was the Louis Vuitton brand valued at in 2013?",
+      "unit": {
+        "one": "million dollars",
+        "other": "million dollars"
+      },
+      "fact": "The Louis Vuitton brand, founded by its namesake in 1854, was valued at $28.4 billion (28,400 million) in 2013, with annual revenue of $9.4 billion. It's one of the most valuable fashion brands in the world.",
+      "answerNote": "Brand valuation for 2013; revenue that year was $9.4 billion."
+    }
+  },
+  {
+    "id": "moda-14",
+    "category": "moda",
+    "question": "Kolik miligramů váží Hopeův diamant, jeden z nejslavnějších a nejproslulejších drahokamů světa?",
+    "answer": 9104,
+    "unit": {
+      "one": "miligram",
+      "few": "miligramy",
+      "many": "miligramů"
+    },
+    "fact": "Hopeův diamant váží 45,52 karátu, tedy 9 104 miligramů. Jeho sytě modrá barva je způsobená stopami boru v krystalové mřížce a kámen je opředen legendami o prokletí svých majitelů.",
+    "sourceTitle": "Wikipedia (EN): Hope Diamond",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hope_Diamond",
+    "sourceQuote": "The Hope Diamond is a 45.52-carat (9.104 g; 0.3211 oz) blue diamond",
+    "answerNote": "45,52 karátu = 9,104 g = 9 104 mg.",
+    "confidence": "high",
+    "en": {
+      "question": "How many milligrams does the Hope Diamond, one of the world's most famous gemstones, weigh?",
+      "unit": {
+        "one": "milligram",
+        "other": "milligrams"
+      },
+      "fact": "The Hope Diamond weighs 45.52 carats, or 9,104 milligrams. Its deep blue colour comes from traces of boron in its crystal lattice, and the stone is wrapped in legends of a curse on its owners.",
+      "answerNote": "45.52 carats = 9.104 g = 9,104 mg."
     }
   },
   {
@@ -3823,6 +4369,84 @@ window.FACTS = [
     }
   },
   {
+    "id": "technologie-20",
+    "category": "technologie",
+    "question": "Kolik misí celkem odlétaly americké raketoplány (Space Shuttle) v letech 1981 až 2011?",
+    "answer": 135,
+    "unit": {
+      "one": "mise",
+      "few": "mise",
+      "many": "misí"
+    },
+    "fact": "Pět raketoplánů NASA odlétalo dohromady 135 misí mezi lety 1981 a 2011. Dva z nich, Challenger a Columbia, se při letu zničily i s celou posádkou.",
+    "sourceTitle": "Wikipedia (EN): Space Shuttle",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Space_Shuttle",
+    "sourceQuote": "Five complete Space Shuttle orbiter vehicles were built and flown on a total of 135 missions from 1981 to 2011.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many missions in total did NASA's Space Shuttles fly between 1981 and 2011?",
+      "unit": {
+        "one": "mission",
+        "other": "missions"
+      },
+      "fact": "NASA's five Space Shuttle orbiters flew a combined 135 missions between 1981 and 2011. Two of them, Challenger and Columbia, were destroyed in flight along with their crews.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "technologie-21",
+    "category": "technologie",
+    "question": "Kolik megabitů za sekundu přenášelo v režimu Full Speed první USB 1.0 z roku 1996?",
+    "answer": 12,
+    "unit": {
+      "one": "megabit za sekundu",
+      "few": "megabity za sekundu",
+      "many": "megabitů za sekundu"
+    },
+    "fact": "USB 1.0 z roku 1996 přenášelo v nejrychlejším režimu 12 Mbit/s. Dnešní USB4 zvládne přes 40 Gbit/s – víc než 3000krát rychleji.",
+    "sourceTitle": "Wikipedia (EN): USB",
+    "sourceUrl": "https://en.wikipedia.org/wiki/USB",
+    "sourceQuote": "Released in January 1996, USB 1.0 specified signaling rates of 1.5 Mbit/s (Low Bandwidth or Low Speed) and 12 Mbit/s (Full Speed).",
+    "answerNote": "Full Speed režim; Low Speed měl jen 1,5 Mbit/s.",
+    "confidence": "high",
+    "en": {
+      "question": "How many megabits per second did the first USB 1.0 from 1996 transfer in Full Speed mode?",
+      "unit": {
+        "one": "megabit per second",
+        "other": "megabits per second"
+      },
+      "fact": "USB 1.0 from 1996 transferred data at up to 12 Mbit/s in its fastest mode. Today's USB4 manages over 40 Gbit/s – more than 3,000 times faster.",
+      "answerNote": "Full Speed mode; Low Speed was only 1.5 Mbit/s."
+    }
+  },
+  {
+    "id": "technologie-22",
+    "category": "technologie",
+    "question": "Kolik kusů nadzvukového letounu Concorde bylo v letech 1969 až 1979 vyrobeno celkem?",
+    "answer": 20,
+    "unit": {
+      "one": "kus",
+      "few": "kusy",
+      "many": "kusů"
+    },
+    "fact": "Concorde se vyrobilo jen 20 kusů, z toho polovina byla určená pro pravidelné komerční lety. Létal rychlostí přes Mach 2 – z Londýna do New Yorku doletěl za necelé tři hodiny.",
+    "sourceTitle": "Wikipedia (EN): Concorde",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Concorde",
+    "sourceQuote": "Number built: 20",
+    "answerNote": "Včetně prototypů a předsériových kusů.",
+    "confidence": "high",
+    "en": {
+      "question": "How many Concorde supersonic airliners were built in total between 1969 and 1979?",
+      "unit": {
+        "one": "unit",
+        "other": "units"
+      },
+      "fact": "Only 20 Concordes were ever built, half of them for scheduled commercial service. It cruised at over Mach 2 – flying from London to New York in under three hours.",
+      "answerNote": "Including prototypes and pre-production aircraft."
+    }
+  },
+  {
     "id": "telo-01",
     "category": "telo",
     "question": "Kolik kostí má jedna lidská ruka včetně zápěstí (od zápěstních kůstek po konečky prstů)?",
@@ -4313,6 +4937,110 @@ window.FACTS = [
         "other": "digits"
       },
       "fact": "Akshat Saxena was born in 2010 with 7 fingers on each hand and 10 toes on each foot – 34 in all. Doctors later surgically removed the extra ones.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "telo-20",
+    "category": "telo",
+    "question": "Kolik milionů párů bází obsahuje referenční lidský genom?",
+    "answer": 3100,
+    "unit": {
+      "one": "milion párů bází",
+      "few": "miliony párů bází",
+      "many": "milionů párů bází"
+    },
+    "fact": "Referenční lidský genom obsahuje asi 3,1 miliardy párů bází, tedy 3 100 milionů. Většina lidských buněk je ale dvojitá (diploidní), takže ve skutečnosti nese dvojnásobek – přes 6 miliard.",
+    "sourceTitle": "Wikipedia (EN): Human genome",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Human_genome",
+    "sourceQuote": "It contains approximately 3.1 billion base pairs.",
+    "answerNote": "Haploidní referenční genom (GRCh38); běžná lidská buňka je diploidní.",
+    "confidence": "high",
+    "en": {
+      "question": "How many million base pairs does the reference human genome contain?",
+      "unit": {
+        "one": "million base pairs",
+        "other": "million base pairs"
+      },
+      "fact": "The reference human genome contains about 3.1 billion base pairs, i.e. 3,100 million. Most human cells are diploid, though, so they actually carry double that – over 6 billion.",
+      "answerNote": "Haploid reference genome (GRCh38); an ordinary human cell is diploid."
+    }
+  },
+  {
+    "id": "telo-21",
+    "category": "telo",
+    "question": "Kolik miliard neuronů má podle odhadu lidský mozek?",
+    "answer": 86,
+    "unit": {
+      "one": "miliarda neuronů",
+      "few": "miliardy neuronů",
+      "many": "miliard neuronů"
+    },
+    "fact": "Lidský mozek obsahuje odhadem 86 miliard neuronů. Každý z nich se přitom může propojit s tisíci dalších, takže počet spojení v mozku jde do biliónů.",
+    "sourceTitle": "Wikipedia (EN): Neuron",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Neuron",
+    "sourceQuote": "The human brain has some 8.6 × 10^10 (eighty six billion) neurons.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many billion neurons does the human brain have, by estimate?",
+      "unit": {
+        "one": "billion neurons",
+        "other": "billion neurons"
+      },
+      "fact": "The human brain contains an estimated 86 billion neurons. Each one can connect to thousands of others, so the number of connections in the brain runs into the trillions.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "telo-22",
+    "category": "telo",
+    "question": "Kolik kostí má v průměru novorozené miminko, než se řada z nich postupně srostla do dospělých 206?",
+    "answer": 270,
+    "unit": {
+      "one": "kost",
+      "few": "kosti",
+      "many": "kostí"
+    },
+    "fact": "Novorozenec má přes 270 kostí – o desítky víc než dospělý se 206 kostmi. Mnohé z nich, například v lebce, se totiž postupem let srůstají do jedné.",
+    "sourceTitle": "Wikipedia (EN): Skeleton",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Skeleton",
+    "sourceQuote": "newborn babies have over 270 bones some of which fuse together.",
+    "answerNote": "„Přes 270 kostí“ při narození.",
+    "confidence": "high",
+    "en": {
+      "question": "How many bones does a newborn baby have on average, before many of them gradually fuse into the adult's 206?",
+      "unit": {
+        "one": "bone",
+        "other": "bones"
+      },
+      "fact": "A newborn baby has over 270 bones – dozens more than an adult's 206. Many of them, in the skull for example, fuse together into one over the years.",
+      "answerNote": "'Over 270 bones' at birth."
+    }
+  },
+  {
+    "id": "telo-23",
+    "category": "telo",
+    "question": "Kolik okohybných svalů má jedno lidské oko?",
+    "answer": 7,
+    "unit": {
+      "one": "sval",
+      "few": "svaly",
+      "many": "svalů"
+    },
+    "fact": "Jedno oko ovládá 7 okohybných svalů, které ho otáčejí ve všech směrech a zvedají víčko. Díky nim dokážeme sledovat pohybující se předmět, aniž bychom museli hýbat hlavou.",
+    "sourceTitle": "Wikipedia (EN): Human eye",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Human_eye",
+    "sourceQuote": "Each eye has seven extraocular muscles located in its orbit.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many extraocular muscles does one human eye have?",
+      "unit": {
+        "one": "muscle",
+        "other": "muscles"
+      },
+      "fact": "One eye is controlled by 7 extraocular muscles, which turn it in every direction and lift the eyelid. They let us track a moving object without having to move our head.",
       "answerNote": ""
     }
   },
@@ -5305,6 +6033,32 @@ window.FACTS = [
     }
   },
   {
+    "id": "veda-21",
+    "category": "veda",
+    "question": "Kolik minut trvala mise Apollo 13 od startu do přistání (zaokrouhleno dolů na celé minuty)?",
+    "answer": 8574,
+    "unit": {
+      "one": "minuta",
+      "few": "minuty",
+      "many": "minut"
+    },
+    "fact": "Apollo 13 strávilo na cestě 5 dní, 22 hodin, 54 minut a 41 sekund – po výbuchu nádrže s kyslíkem posádka musela oblétnout Měsíc a vrátit se na Zemi bez přistání. Nakonec se všichni tři astronauti vrátili živí.",
+    "sourceTitle": "Wikipedia (EN): Apollo 13",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Apollo_13",
+    "sourceQuote": "5 days, 22 hours, 54 minutes, 41 seconds",
+    "answerNote": "5 d 22 h 54 min 41 s, zaokrouhleno dolů na celé minuty (41 s vynecháno).",
+    "confidence": "high",
+    "en": {
+      "question": "How many minutes did the Apollo 13 mission last from launch to splashdown (rounded down to whole minutes)?",
+      "unit": {
+        "one": "minute",
+        "other": "minutes"
+      },
+      "fact": "Apollo 13 spent 5 days, 22 hours, 54 minutes and 41 seconds in space – after an oxygen tank explosion, the crew had to loop around the Moon and return to Earth without landing. All three astronauts made it home alive.",
+      "answerNote": "5 d 22 h 54 min 41 s, rounded down to whole minutes (41 s dropped)."
+    }
+  },
+  {
     "id": "zemepis-01",
     "category": "zemepis",
     "question": "Kolik metrů měří maximální hloubka Bajkalu, nejhlubšího jezera světa?",
@@ -5955,6 +6709,136 @@ window.FACTS = [
     }
   },
   {
+    "id": "zemepis-26",
+    "category": "zemepis",
+    "question": "Kolik kilometrů měří Velký bariérový útes u pobřeží Austrálie, největší stavba na světě vytvořená živými organismy?",
+    "answer": 2300,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Velký bariérový útes se táhne přes 2 300 kilometrů a je jediná stavba vytvořená živočichy, kterou je vidět z vesmíru. Skládá se z více než 2 900 samostatných útesů.",
+    "sourceTitle": "Wikipedia (EN): Great Barrier Reef",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Great_Barrier_Reef",
+    "sourceQuote": "stretching for over 2,300 kilometres (1,400 mi)",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres long is the Great Barrier Reef off the coast of Australia, the largest structure ever built by living organisms?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "The Great Barrier Reef stretches over 2,300 kilometres and is the only structure built by living creatures visible from space. It consists of more than 2,900 individual reefs.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zemepis-27",
+    "category": "zemepis",
+    "question": "Kolik milionů kilometrů čtverečních pokrývá deštný prales Amazonie?",
+    "answer": 6,
+    "unit": {
+      "one": "milion kilometrů čtverečních",
+      "few": "miliony kilometrů čtverečních",
+      "many": "milionů kilometrů čtverečních"
+    },
+    "fact": "Amazonský deštný prales pokrývá 6 milionů kilometrů čtverečních – to je 76krát rozloha Česka. Celé povodí Amazonky je ještě větší a zasahuje na území devíti států.",
+    "sourceTitle": "Wikipedia (EN): Amazon rainforest",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Amazon_rainforest",
+    "sourceQuote": "This basin encompasses 7 million km2 (2.7 million sq mi), of which 6 million km2 (2.3 million sq mi) are covered by the rainforest.",
+    "answerNote": "Plocha samotného pralesa; celé povodí měří 7 milionů km².",
+    "confidence": "high",
+    "en": {
+      "question": "How many million square kilometres does the Amazon rainforest cover?",
+      "unit": {
+        "one": "million square kilometres",
+        "other": "million square kilometres"
+      },
+      "fact": "The Amazon rainforest covers 6 million square kilometres – 76 times the area of Czechia. The whole Amazon basin is even bigger and spans nine countries.",
+      "answerNote": "Area of the rainforest itself; the whole basin covers 7 million km²."
+    }
+  },
+  {
+    "id": "zemepis-28",
+    "category": "zemepis",
+    "question": "Kolik kilometrů čtverečních měří Sahara, největší horká poušť na světě?",
+    "answer": 9200000,
+    "unit": {
+      "one": "kilometr čtvereční",
+      "few": "kilometry čtvereční",
+      "many": "kilometrů čtverečních"
+    },
+    "fact": "Sahara měří 9,2 milionu kilometrů čtverečních – zabírá skoro celou plochu Spojených států. Přesto v ní žije jen asi 2,5 milionu lidí.",
+    "sourceTitle": "Wikipedia (EN): Sahara",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sahara",
+    "sourceQuote": "With an area of 9,200,000 square kilometres (3,600,000 sq mi), it is the largest hot desert in the world.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many square kilometres is the Sahara, the largest hot desert in the world?",
+      "unit": {
+        "one": "square kilometre",
+        "other": "square kilometres"
+      },
+      "fact": "The Sahara covers 9.2 million square kilometres – almost the entire area of the United States. Yet only about 2.5 million people live there.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zemepis-29",
+    "category": "zemepis",
+    "question": "Kolik hektarů má rozlohu Vatikán, nejmenší stát světa?",
+    "answer": 44,
+    "unit": {
+      "one": "hektar",
+      "few": "hektary",
+      "many": "hektarů"
+    },
+    "fact": "Vatikán měří jen 44 hektarů – vešel by se skoro devětkrát do pražské Stromovky. Přesto má vlastní vlajku, měnu i armádu (švýcarskou gardu).",
+    "sourceTitle": "Wikipedia (EN): Vatican City",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Vatican_City",
+    "sourceQuote": "With an area of 44 hectares (109 acres)",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many hectares is Vatican City, the smallest country in the world?",
+      "unit": {
+        "one": "hectare",
+        "other": "hectares"
+      },
+      "fact": "Vatican City covers just 44 hectares – it would fit almost nine times into New York's Central Park. Yet it has its own flag, currency and army (the Swiss Guard).",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zemepis-30",
+    "category": "zemepis",
+    "question": "Kolik metrů pod úrovní moře leží hladina Mrtvého moře (stav k roku 2025)?",
+    "answer": 440,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Hladina Mrtvého moře leží 440 metrů pod úrovní moře (přesně 439,78 m v roce 2025) – je to nejnižší místo na souši na Zemi. Kvůli odběru vody z přítoků navíc každým rokem klesá o víc než metr.",
+    "sourceTitle": "Wikipedia (EN): Dead Sea",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dead_Sea",
+    "sourceQuote": "As of 2025, the lake's surface is 439.78 metres (1,443 ft) below sea level",
+    "answerNote": "Přesně 439,78 m pod mořem k roku 2025; hladina dál klesá.",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres below sea level is the surface of the Dead Sea (as of 2025)?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "The surface of the Dead Sea lies 440 metres below sea level (439.78 m exactly, in 2025) – the lowest point on dry land on Earth. It keeps dropping by more than a metre a year due to water diverted from its tributaries.",
+      "answerNote": "Exactly 439.78 m below sea level as of 2025; the level keeps falling."
+    }
+  },
+  {
     "id": "zvirata-01",
     "category": "zvirata",
     "question": "Kolik štěňat porodila v roce 2004 fena neapolského mastina Tia z Anglie – největší psí vrh, jaký kdy uznala Guinnessova kniha rekordů?",
@@ -6341,6 +7225,162 @@ window.FACTS = [
         "other": "years"
       },
       "fact": "Cookie the cockatoo lived at the zoo near Chicago from 1934 and died in 2016 aged 83. He outlived several generations of keepers.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zvirata-16",
+    "category": "zvirata",
+    "question": "Kolik kilometrů za hodinu dosahuje úder klepeta krevety kudlankovité druhu Odontodactylus scyllarus, jednoho z nejrychlejších úderů v živočišné říši?",
+    "answer": 83,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Kreveta kudlankovitá udeří svým klepetem rychlostí 83 km/h se zrychlením 10 400 g – to je rychlejší než výstřel ze vzduchovky. Úder navíc vytváří v vodě bublinu, jejíž zhroucení produkuje záblesk světla a teplo srovnatelné s povrchem Slunce.",
+    "sourceTitle": "Wikipedia (EN): Mantis shrimp",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mantis_shrimp",
+    "sourceQuote": "with an acceleration of 10,400 g (102,000 m/s2 or 335,000 ft/s2) and speeds of 23 m/s (83 km/h; 51 mph)",
+    "answerNote": "Rychlost 23 m/s = 83 km/h u druhu Odontodactylus scyllarus; jiné druhy (Gonodactylus smithii) byly naměřeny ještě rychleji (110 km/h).",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres per hour is the strike of a peacock mantis shrimp's claw, one of the fastest strikes in the animal kingdom?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "A peacock mantis shrimp strikes with its claw at 83 km/h with an acceleration of 10,400 g – faster than an air rifle pellet. The strike creates a bubble in the water whose collapse produces a flash of light and heat comparable to the Sun's surface.",
+      "answerNote": "23 m/s = 83 km/h for Odontodactylus scyllarus; other species (Gonodactylus smithii) have been measured even faster (110 km/h)."
+    }
+  },
+  {
+    "id": "zvirata-17",
+    "category": "zvirata",
+    "question": "Kolik stupňů Celsia krátkodobě vydrží vysušená želvuška (tardigrád), aniž by zahynula?",
+    "answer": 149,
+    "unit": {
+      "one": "stupeň Celsia",
+      "few": "stupně Celsia",
+      "many": "stupňů Celsia"
+    },
+    "fact": "Vysušená želvuška ve stavu tzv. tun přežije krátkodobé zahřátí až na 149 °C. Stejně tak vydrží i mráz blízký absolutní nule – jsou to jedni z nejodolnějších živočichů na planetě.",
+    "sourceTitle": "Wikipedia (EN): Tardigrade",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Tardigrade",
+    "sourceQuote": "In this state, they become highly resistant to environmental stresses, including temperatures from as low as −272 °C (−458 °F) to as much as +149 °C (300 °F) (at least for short periods of time).",
+    "answerNote": "Horní hranice krátkodobé odolnosti ve vysušeném stavu; dolní hranice je −272 °C.",
+    "confidence": "high",
+    "en": {
+      "question": "How many degrees Celsius can a dried-out tardigrade briefly withstand without dying?",
+      "unit": {
+        "one": "degree Celsius",
+        "other": "degrees Celsius"
+      },
+      "fact": "In its dried 'tun' state a tardigrade can briefly survive heat of up to 149 °C. It can likewise withstand cold close to absolute zero – tardigrades are among the toughest animals on the planet.",
+      "answerNote": "Upper limit of short-term tolerance in the dried state; the lower limit is −272 °C."
+    }
+  },
+  {
+    "id": "zvirata-18",
+    "category": "zvirata",
+    "question": "Kolik let je nejdéle zaznamenaná doba dožití rypoše lysého v zajetí – hlodavce s nejdelší životností na světě?",
+    "answer": 37,
+    "unit": {
+      "one": "rok",
+      "few": "roky",
+      "many": "let"
+    },
+    "fact": "Rypoš lysý se v zajetí dožívá přes 37 let – mezi hlodavci je to naprostý rekord (myš se dožívá 2–3 let). Vědci ho zkoumají i proto, že téměř nestárne a odolává rakovině.",
+    "sourceTitle": "Wikipedia (EN): Naked mole-rat",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Naked_mole-rat",
+    "sourceQuote": "Naked mole-rats can live longer than any other rodent, with lifespans in excess of 37 years",
+    "answerNote": "„Lifespans in excess of 37 years“ – nejdelší doložený případ.",
+    "confidence": "high",
+    "en": {
+      "question": "How many years is the longest recorded lifespan of a naked mole-rat in captivity – the longest-lived rodent in the world?",
+      "unit": {
+        "one": "year",
+        "other": "years"
+      },
+      "fact": "Naked mole-rats have lived over 37 years in captivity – an absolute record among rodents (a mouse lives 2–3 years). Scientists study them partly because they barely age and resist cancer.",
+      "answerNote": "'Lifespans in excess of 37 years' – the longest documented case."
+    }
+  },
+  {
+    "id": "zvirata-19",
+    "category": "zvirata",
+    "question": "Kolik dospělých lidí dokáže usmrtit jed jedné chobotnice modrokroužkované?",
+    "answer": 20,
+    "unit": {
+      "one": "člověk",
+      "few": "lidé",
+      "many": "lidí"
+    },
+    "fact": "Chobotnice modrokroužkovaná měří jen 12 až 20 centimetrů, ale nese dost jedu na to, aby během minut usmrtila přes 20 dospělých lidí. Kouše přitom téměř bezbolestně, takže si oběť often ani nevšimne.",
+    "sourceTitle": "Wikipedia (EN): Blue-ringed octopus",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Blue-ringed_octopus",
+    "sourceQuote": "The blue-ringed octopus, despite its small size, carries enough venom to kill over 20 adult humans within minutes.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many adult humans can the venom of a single blue-ringed octopus kill?",
+      "unit": {
+        "one": "person",
+        "other": "people"
+      },
+      "fact": "The blue-ringed octopus is only 12 to 20 centimetres long, yet carries enough venom to kill over 20 adult humans within minutes. Its bite is nearly painless, so victims often don't even notice it.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zvirata-20",
+    "category": "zvirata",
+    "question": "Kolik centimetrů měřil nejdelší zaznamenaný exemplář varana komodského chovaný v zajetí?",
+    "answer": 313,
+    "unit": {
+      "one": "centimetr",
+      "few": "centimetry",
+      "many": "centimetrů"
+    },
+    "fact": "Nejdelší varan komodský v zajetí měřil 3,13 metru a vážil 166 kilogramů. Ve volné přírodě dorůstají samci obvykle do 3 metrů a 150 kilogramů.",
+    "sourceTitle": "Wikipedia (EN): Komodo dragon",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Komodo_dragon",
+    "sourceQuote": "The largest verified specimen in captivity was 3.1–3.13 m (10 ft 2 in – 10 ft 3 in) long and weighed 166 kg (366 lb).",
+    "answerNote": "Rekordní jedinec v zajetí: 3,1–3,13 m, 166 kg.",
+    "confidence": "high",
+    "en": {
+      "question": "How many centimetres long was the longest recorded Komodo dragon kept in captivity?",
+      "unit": {
+        "one": "centimetre",
+        "other": "centimetres"
+      },
+      "fact": "The longest Komodo dragon in captivity measured 3.13 metres and weighed 166 kilograms. In the wild, males typically grow up to 3 metres and 150 kilograms.",
+      "answerNote": "Record captive specimen: 3.1–3.13 m, 166 kg."
+    }
+  },
+  {
+    "id": "zvirata-21",
+    "category": "zvirata",
+    "question": "Kolik kilometrů za hodinu dokáže běžet pštros dvouprstý, nejrychlejší běžec mezi ptáky?",
+    "answer": 70,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Pštros dokáže běžet rychlostí až 70 km/h – rychleji než dostihový kůň na krátké trati. Jeho kroky přitom mají délku až 5 metrů.",
+    "sourceTitle": "Wikipedia (EN): Ostrich",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ostrich",
+    "sourceQuote": "With the ability to run at 70 km/h (43 mph), they are the fastest birds on land.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres per hour can an ostrich run – the fastest bird on land?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "An ostrich can run at up to 70 km/h – faster than a racehorse over a short distance. Its stride can reach 5 metres.",
       "answerNote": ""
     }
   }

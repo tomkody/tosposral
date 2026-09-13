@@ -648,5 +648,135 @@
       "fact": "South America has 12 sovereign countries. Brazil borders all of them except Chile and Ecuador.",
       "answerNote": "Excluding dependent territories (French Guiana, Falklands)."
     }
+  },
+  {
+    "id": "zemepis-26",
+    "category": "zemepis",
+    "question": "Kolik kilometrů měří Velký bariérový útes u pobřeží Austrálie, největší stavba na světě vytvořená živými organismy?",
+    "answer": 2300,
+    "unit": {
+      "one": "kilometr",
+      "few": "kilometry",
+      "many": "kilometrů"
+    },
+    "fact": "Velký bariérový útes se táhne přes 2 300 kilometrů a je jediná stavba vytvořená živočichy, kterou je vidět z vesmíru. Skládá se z více než 2 900 samostatných útesů.",
+    "sourceTitle": "Wikipedia (EN): Great Barrier Reef",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Great_Barrier_Reef",
+    "sourceQuote": "stretching for over 2,300 kilometres (1,400 mi)",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many kilometres long is the Great Barrier Reef off the coast of Australia, the largest structure ever built by living organisms?",
+      "unit": {
+        "one": "kilometre",
+        "other": "kilometres"
+      },
+      "fact": "The Great Barrier Reef stretches over 2,300 kilometres and is the only structure built by living creatures visible from space. It consists of more than 2,900 individual reefs.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zemepis-27",
+    "category": "zemepis",
+    "question": "Kolik milionů kilometrů čtverečních pokrývá deštný prales Amazonie?",
+    "answer": 6,
+    "unit": {
+      "one": "milion kilometrů čtverečních",
+      "few": "miliony kilometrů čtverečních",
+      "many": "milionů kilometrů čtverečních"
+    },
+    "fact": "Amazonský deštný prales pokrývá 6 milionů kilometrů čtverečních – to je 76krát rozloha Česka. Celé povodí Amazonky je ještě větší a zasahuje na území devíti států.",
+    "sourceTitle": "Wikipedia (EN): Amazon rainforest",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Amazon_rainforest",
+    "sourceQuote": "This basin encompasses 7 million km2 (2.7 million sq mi), of which 6 million km2 (2.3 million sq mi) are covered by the rainforest.",
+    "answerNote": "Plocha samotného pralesa; celé povodí měří 7 milionů km².",
+    "confidence": "high",
+    "en": {
+      "question": "How many million square kilometres does the Amazon rainforest cover?",
+      "unit": {
+        "one": "million square kilometres",
+        "other": "million square kilometres"
+      },
+      "fact": "The Amazon rainforest covers 6 million square kilometres – 76 times the area of Czechia. The whole Amazon basin is even bigger and spans nine countries.",
+      "answerNote": "Area of the rainforest itself; the whole basin covers 7 million km²."
+    }
+  },
+  {
+    "id": "zemepis-28",
+    "category": "zemepis",
+    "question": "Kolik kilometrů čtverečních měří Sahara, největší horká poušť na světě?",
+    "answer": 9200000,
+    "unit": {
+      "one": "kilometr čtvereční",
+      "few": "kilometry čtvereční",
+      "many": "kilometrů čtverečních"
+    },
+    "fact": "Sahara měří 9,2 milionu kilometrů čtverečních – zabírá skoro celou plochu Spojených států. Přesto v ní žije jen asi 2,5 milionu lidí.",
+    "sourceTitle": "Wikipedia (EN): Sahara",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sahara",
+    "sourceQuote": "With an area of 9,200,000 square kilometres (3,600,000 sq mi), it is the largest hot desert in the world.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many square kilometres is the Sahara, the largest hot desert in the world?",
+      "unit": {
+        "one": "square kilometre",
+        "other": "square kilometres"
+      },
+      "fact": "The Sahara covers 9.2 million square kilometres – almost the entire area of the United States. Yet only about 2.5 million people live there.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zemepis-29",
+    "category": "zemepis",
+    "question": "Kolik hektarů má rozlohu Vatikán, nejmenší stát světa?",
+    "answer": 44,
+    "unit": {
+      "one": "hektar",
+      "few": "hektary",
+      "many": "hektarů"
+    },
+    "fact": "Vatikán měří jen 44 hektarů – vešel by se skoro devětkrát do pražské Stromovky. Přesto má vlastní vlajku, měnu i armádu (švýcarskou gardu).",
+    "sourceTitle": "Wikipedia (EN): Vatican City",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Vatican_City",
+    "sourceQuote": "With an area of 44 hectares (109 acres)",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many hectares is Vatican City, the smallest country in the world?",
+      "unit": {
+        "one": "hectare",
+        "other": "hectares"
+      },
+      "fact": "Vatican City covers just 44 hectares – it would fit almost nine times into New York's Central Park. Yet it has its own flag, currency and army (the Swiss Guard).",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "zemepis-30",
+    "category": "zemepis",
+    "question": "Kolik metrů pod úrovní moře leží hladina Mrtvého moře (stav k roku 2025)?",
+    "answer": 440,
+    "unit": {
+      "one": "metr",
+      "few": "metry",
+      "many": "metrů"
+    },
+    "fact": "Hladina Mrtvého moře leží 440 metrů pod úrovní moře (přesně 439,78 m v roce 2025) – je to nejnižší místo na souši na Zemi. Kvůli odběru vody z přítoků navíc každým rokem klesá o víc než metr.",
+    "sourceTitle": "Wikipedia (EN): Dead Sea",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dead_Sea",
+    "sourceQuote": "As of 2025, the lake's surface is 439.78 metres (1,443 ft) below sea level",
+    "answerNote": "Přesně 439,78 m pod mořem k roku 2025; hladina dál klesá.",
+    "confidence": "high",
+    "en": {
+      "question": "How many metres below sea level is the surface of the Dead Sea (as of 2025)?",
+      "unit": {
+        "one": "metre",
+        "other": "metres"
+      },
+      "fact": "The surface of the Dead Sea lies 440 metres below sea level (439.78 m exactly, in 2025) – the lowest point on dry land on Earth. It keeps dropping by more than a metre a year due to water diverted from its tributaries.",
+      "answerNote": "Exactly 439.78 m below sea level as of 2025; the level keeps falling."
+    }
   }
 ]

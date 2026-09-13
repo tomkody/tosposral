@@ -492,5 +492,83 @@
       "fact": "Google bought YouTube in November 2006 for $1.65 billion. It looked expensive at the time – today YouTube makes over $30 billion a year.",
       "answerNote": "$1.65 billion."
     }
+  },
+  {
+    "id": "technologie-20",
+    "category": "technologie",
+    "question": "Kolik misí celkem odlétaly americké raketoplány (Space Shuttle) v letech 1981 až 2011?",
+    "answer": 135,
+    "unit": {
+      "one": "mise",
+      "few": "mise",
+      "many": "misí"
+    },
+    "fact": "Pět raketoplánů NASA odlétalo dohromady 135 misí mezi lety 1981 a 2011. Dva z nich, Challenger a Columbia, se při letu zničily i s celou posádkou.",
+    "sourceTitle": "Wikipedia (EN): Space Shuttle",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Space_Shuttle",
+    "sourceQuote": "Five complete Space Shuttle orbiter vehicles were built and flown on a total of 135 missions from 1981 to 2011.",
+    "answerNote": "",
+    "confidence": "high",
+    "en": {
+      "question": "How many missions in total did NASA's Space Shuttles fly between 1981 and 2011?",
+      "unit": {
+        "one": "mission",
+        "other": "missions"
+      },
+      "fact": "NASA's five Space Shuttle orbiters flew a combined 135 missions between 1981 and 2011. Two of them, Challenger and Columbia, were destroyed in flight along with their crews.",
+      "answerNote": ""
+    }
+  },
+  {
+    "id": "technologie-21",
+    "category": "technologie",
+    "question": "Kolik megabitů za sekundu přenášelo v režimu Full Speed první USB 1.0 z roku 1996?",
+    "answer": 12,
+    "unit": {
+      "one": "megabit za sekundu",
+      "few": "megabity za sekundu",
+      "many": "megabitů za sekundu"
+    },
+    "fact": "USB 1.0 z roku 1996 přenášelo v nejrychlejším režimu 12 Mbit/s. Dnešní USB4 zvládne přes 40 Gbit/s – víc než 3000krát rychleji.",
+    "sourceTitle": "Wikipedia (EN): USB",
+    "sourceUrl": "https://en.wikipedia.org/wiki/USB",
+    "sourceQuote": "Released in January 1996, USB 1.0 specified signaling rates of 1.5 Mbit/s (Low Bandwidth or Low Speed) and 12 Mbit/s (Full Speed).",
+    "answerNote": "Full Speed režim; Low Speed měl jen 1,5 Mbit/s.",
+    "confidence": "high",
+    "en": {
+      "question": "How many megabits per second did the first USB 1.0 from 1996 transfer in Full Speed mode?",
+      "unit": {
+        "one": "megabit per second",
+        "other": "megabits per second"
+      },
+      "fact": "USB 1.0 from 1996 transferred data at up to 12 Mbit/s in its fastest mode. Today's USB4 manages over 40 Gbit/s – more than 3,000 times faster.",
+      "answerNote": "Full Speed mode; Low Speed was only 1.5 Mbit/s."
+    }
+  },
+  {
+    "id": "technologie-22",
+    "category": "technologie",
+    "question": "Kolik kusů nadzvukového letounu Concorde bylo v letech 1969 až 1979 vyrobeno celkem?",
+    "answer": 20,
+    "unit": {
+      "one": "kus",
+      "few": "kusy",
+      "many": "kusů"
+    },
+    "fact": "Concorde se vyrobilo jen 20 kusů, z toho polovina byla určená pro pravidelné komerční lety. Létal rychlostí přes Mach 2 – z Londýna do New Yorku doletěl za necelé tři hodiny.",
+    "sourceTitle": "Wikipedia (EN): Concorde",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Concorde",
+    "sourceQuote": "Number built: 20",
+    "answerNote": "Včetně prototypů a předsériových kusů.",
+    "confidence": "high",
+    "en": {
+      "question": "How many Concorde supersonic airliners were built in total between 1969 and 1979?",
+      "unit": {
+        "one": "unit",
+        "other": "units"
+      },
+      "fact": "Only 20 Concordes were ever built, half of them for scheduled commercial service. It cruised at over Mach 2 – flying from London to New York in under three hours.",
+      "answerNote": "Including prototypes and pre-production aircraft."
+    }
   }
 ]

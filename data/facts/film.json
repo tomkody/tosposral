@@ -492,5 +492,31 @@
       "fact": "The original Hospital at the End of the City has 20 episodes and aired from 1978 to 1981. West Germany bought it too, where it was a huge hit.",
       "answerNote": "Excluding the 2003 and 2008 sequels."
     }
+  },
+  {
+    "id": "film-20",
+    "category": "film",
+    "question": "Kolik celovečerních filmů natočilo animační studio Pixar, počínaje Toy Story (1995)?",
+    "answer": 31,
+    "unit": {
+      "one": "díl",
+      "few": "díly",
+      "many": "dílů"
+    },
+    "fact": "Pixar od Toy Story v roce 1995 natočilo 31 celovečerních filmů – a Toy Story byl vůbec první celovečerní film na světě animovaný kompletně na počítači.",
+    "sourceTitle": "Wikipedia (EN): Pixar",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pixar",
+    "sourceQuote": "In addition to producing short films, Pixar has produced 31 feature films, beginning with Toy Story (1995), which is also the first fully computer-animated feature film",
+    "answerNote": "Stav podle citovaného zdroje; číslo dál roste s dalšími premiérami.",
+    "confidence": "medium",
+    "en": {
+      "question": "How many feature films has Pixar Animation Studios made, starting with Toy Story (1995)?",
+      "unit": {
+        "one": "film",
+        "other": "films"
+      },
+      "fact": "Since Toy Story in 1995, Pixar has made 31 feature films – and Toy Story was the very first fully computer-animated feature film ever made.",
+      "answerNote": "As of the cited source; the number keeps growing with new releases."
+    }
   }
 ]
