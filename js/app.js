@@ -9,8 +9,8 @@
   /* ---------- Značka (název hry, výzva) – EN název se doladí ---------- */
   const BRAND = {
     penalty: '💩',
-    cs: { name: 'Tos posral!', challenge: 'Tos posral!', tagline: 'Párty hra o číslech pro 2–6 hráčů na jednom telefonu. Přihazuj, blafuj a hlavně nepřeháněj.' },
-    en: { name: 'Tos posral!', challenge: 'Too far!', tagline: 'A party game of numbers for 2–6 players on one phone. Bid, bluff and, above all, don’t overshoot.' },
+    cs: { name: 'Tos posral!', challenge: 'Tos posral!', tagline: 'Párty hra o číslech pro 2–8 hráčů na jednom telefonu. Přihazuj, blafuj a hlavně nepřeháněj.' },
+    en: { name: 'Tos posral!', challenge: 'Too far!', tagline: 'A party game of numbers for 2–8 players on one phone. Bid, bluff and, above all, don’t overshoot.' },
   };
 
   const CATEGORIES = {
@@ -29,11 +29,11 @@
     cesko:       { emoji: '🇨🇿', cs: 'Česko',          en: 'Czechia' },
   };
   const CATEGORY_ORDER = Object.keys(CATEGORIES);
-  const PLAYER_COLORS = ['#ff5c8a', '#ffb547', '#3ddc97', '#4cc9f0', '#b388ff', '#ffe66d'];
+  const PLAYER_COLORS = ['#ff5c8a', '#ffb547', '#3ddc97', '#4cc9f0', '#b388ff', '#ffe66d', '#5c7cff', '#e056fd'];
   const PLAYER_EMOJI = ['🦊', '🐼', '🐸', '🐙', '🦄', '🐝', '🐯', '🐨', '🦖', '🐧', '🦩', '🐳'];
   const ROUND_OPTIONS = [5, 10, 15, 20];
   const MIN_PLAYERS = 2;
-  const MAX_PLAYERS = 6;
+  const MAX_PLAYERS = 8;
   const MAX_DIGITS = 12;
   const STORAGE = { settings: 'tosposral.settings.v1', used: 'tosposral.used.v1', seen: 'tosposral.seen.v1', lang: 'tosposral.lang.v1' };
 
@@ -73,7 +73,8 @@
         ['1️⃣', 'První hráč zadá tip. Snaží se být co nejblíž správné odpovědi, ale <b>nesmí ji přestřelit</b>.'],
         ['⬆️', 'Další hráč musí <b>přihodit vyšší číslo</b>…'],
         ['💩', '…nebo zmáčknout <b>„{challenge}“</b>, pokud si myslí, že předchozí tip už je nad správnou odpovědí.'],
-        ['⚖️', 'Odhalí se odpověď. Kdo se spletl – přestřelil, nebo obvinil neprávem – dostává {p}. Obviňující hráč začíná další kolo.'],
+        ['⚖️', 'Odhalí se odpověď. Kdo se spletl – přestřelil, nebo obvinil neprávem – dostává {p}.'],
+        ['🔄', 'V dalším kole začíná vždy jiný hráč – hráči se v kruhu pravidelně střídají, dokud se nevystřídají všichni.'],
         ['🏆', 'Po posledním kole vyhrává ten, kdo má <b>nejméně {p}</b>. Kdo jich má nejvíc, ten to posral.'],
       ],
       tip1: '💡 Tip: Chytrý první tip je nízký. Čím výš přihazuješ, tím větší riziko, že tě někdo chytne. A klidně blafuj – když jsi „dole“, obvinění nezabolí tebe.',
@@ -123,7 +124,8 @@
         ['1️⃣', 'The first player enters a bid. Get as close to the real answer as you can, but <b>don’t overshoot it</b>.'],
         ['⬆️', 'The next player must <b>bid a higher number</b>…'],
         ['💩', '…or press <b>“{challenge}”</b> if they think the previous bid is already above the real answer.'],
-        ['⚖️', 'The answer is revealed. Whoever got it wrong – overshot, or accused wrongly – gets {p}. The accuser starts the next round.'],
+        ['⚖️', 'The answer is revealed. Whoever got it wrong – overshot, or accused wrongly – gets {p}.'],
+        ['🔄', 'A different player starts each round – the turn passes around the group in order until everyone has had a go.'],
         ['🏆', 'After the last round the player with the <b>fewest {p}</b> wins. The one with the most… well, they blew it.'],
       ],
       tip1: '💡 Tip: A smart opening bid is low. The higher you bid, the bigger the risk of getting caught. And feel free to bluff – when you’re “low”, an accusation won’t hurt you.',
@@ -213,7 +215,7 @@
     return { name: '', color: PLAYER_COLORS[i % PLAYER_COLORS.length], emoji: PLAYER_EMOJI[i % PLAYER_EMOJI.length] };
   }
   function defaultSettings() {
-    return { players: [makePlayer(0), makePlayer(1), makePlayer(2)], categories: availableCategories.slice(), rounds: 10 };
+    return { players: [makePlayer(0), makePlayer(1)], categories: availableCategories.slice(), rounds: 10 };
   }
   function loadSettings() {
     const s = store.get(STORAGE.settings, null);
@@ -360,7 +362,8 @@
   }
   function nextRound() {
     if (!game || !game.result) return;
-    const nextStarter = game.result.challenger;
+    // Kdo začíná další kolo, se řídí pevným střídáním (ne tím, kdo obviňoval).
+    const nextStarter = (game.starter + 1) % game.players.length;
     game.round += 1;
     if (game.round >= game.totalRounds) {
       setScreen('results');

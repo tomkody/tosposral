@@ -1,5 +1,5 @@
 /* Service worker: aplikace funguje i offline. Při změně souborů zvyš verzi. */
-const CACHE = 'tosposral-v5';
+const CACHE = 'tosposral-v6';
 const ASSETS = [
   './', './index.html', './css/style.css', './js/app.js', './js/facts.js',
   './manifest.webmanifest', './icons/icon.svg', './icons/icon-192.png', './icons/icon-512.png',

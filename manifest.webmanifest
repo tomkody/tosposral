@@ -1,7 +1,7 @@
 {
   "name": "Tos posral!",
   "short_name": "Tos posral!",
-  "description": "Párty hra o číslech pro 2–6 hráčů na jednom telefonu. Ověřená fakta se zdroji.",
+  "description": "Párty hra o číslech pro 2–8 hráčů na jednom telefonu. Ověřená fakta se zdroji.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
